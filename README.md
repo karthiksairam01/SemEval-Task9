@@ -14,3 +14,5 @@ CodaLab Submission Portal: https://codalab.lisn.upsaclay.fr/competitions/19955#l
 2. [Pavlopoulos et al., 2022](https://aclanthology.org/2022.acl-long.259/)
 3. [Ribeiro et al., 2016](https://aclanthology.org/N16-3020/)
 4. [Ihm et al., 2017](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7881747)
+5. [Zini et al., 2022](https://dl.acm.org/doi/pdf/10.1145/3529755)
+6. -yet to be filled by Advait-
