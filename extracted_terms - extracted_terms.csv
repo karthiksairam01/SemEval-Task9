@@ -1,0 +1,2842 @@
+year,month,day,country,title,text,extracted_terms,hazard-category,product-category,hazard,product
+1994,1,7,us,Recall Notification: FSIS-024-94,"Case Number: 024-94   
+            Date Opened: 07/01/1994   
+            Date Closed: 09/22/1994 
+    
+            Recall Class:  1   
+            Press Release (Y/N):  Y  
+    
+            Domestic Est. Number:  05893  P   
+              Name:  GERHARD'S NAPA VALLEY SAUSAGE
+    
+            Imported Product (Y/N):  N       
+            Foreign Estab. Number:  N/A
+    
+            City:  NAPA    
+            State:  CA   
+            Country:  USA
+    
+            Product:  SMOKED CHICKEN SAUSAGE
+    
+            Problem:  BACTERIA   
+            Description: LISTERIA
+    
+            Total Pounds Recalled:  2,894   
+            Pounds Recovered:  2,894","- Hazard
+- Recall
+- Food
+- Safety
+- Inspection
+- Label
+- Inspection
+- Inspection
+- Hazard
+- Label
+- Inspection
+
+Hazard-related terms: 
+- Hazard
+- Recall
+- Safety
+- Inspection
+
+Food-related terms: 
+- Food
+- Food safety
+- Label
+- Inspection
+
+Combined terms: 
+- Food safety
+- Inspection
+- Hazard
+- Label
+- Recall
+
+Analysis: 
+The term 'Hazard' is",biological,"meat, egg and dairy products",listeria monocytogenes,smoked sausage
+1994,3,10,us,Recall Notification: FSIS-033-94,"Case Number: 033-94   
+            Date Opened: 10/03/1994   
+            Date Closed: 01/19/1995 
+    
+            Recall Class:  1   
+            Press Release (Y/N):  Y  
+    
+            Domestic Est. Number:  05600  M   
+              Name:  WIMMER'S MEAT PRODUCTS
+    
+            Imported Product (Y/N):  N       
+            Foreign Estab. Number:  N/A
+    
+            City:  WEST POINT    
+            State:  NE   
+            Country:  USA
+    
+            Product:  WIENERS
+    
+            Problem:  BACTERIA   
+            Description: LISTERIA
+    
+            Total Pounds Recalled:  5,500   
+            Pounds Recovered:  4,568","hazard, recall, FSIS, food safety, notice, warning, foodborne illness, contamination, outbreak, inspection, inspectional program, inspectional monitoring, inspectional reporting, inspectional control, inspectional effectiveness, food safety inspection, inspectional review, inspectional sampling, inspectional analysis, inspectional data, inspectional assessment, inspectional evaluation, inspectional monitoring, inspectional control, inspectional effectiveness, food safety inspection, inspectional review, inspectional sampling, inspectional analysis,",biological,"meat, egg and dairy products",listeria spp,sausage
+1994,3,28,us,Recall Notification: FSIS-014-94,"Case Number: 014-94   
+            Date Opened: 03/28/1994   
+            Date Closed: 07/19/1994 
+    
+            Recall Class:  1   
+            Press Release (Y/N):  Y  
+    
+            Domestic Est. Number:  00819  M   
+              Name:  WILLOW FOODS INC
+    
+            Imported Product (Y/N):  N       
+            Foreign Estab. Number:  N/A
+    
+            City:  FALLS CITY    
+            State:  NE   
+            Country:  USA
+    
+            Product:  HAM, SLICED
+    
+            Problem:  BACTERIA   
+            Description: LISTERIA
+    
+            Total Pounds Recalled:  3,950   
+            Pounds Recovered:  3,809","food, hazard, foodborne illness, contamination, food safety, risk, recall, inspection, food processing, meat, poultry, seafood, raw, cooked, processed, manufacturing, handling, sanitation, contamination control, food handling, food safety management, food service, foodborne illness prevention.
+
+Hazard-related terms: contamination, food safety, risk, hazard, foodborne illness, contamination control, food safety management, food service, foodborne illness prevention.
+
+Food-related terms: food, food safety,",biological,"meat, egg and dairy products",listeria monocytogenes,ham slices
+1994,4,3,us,Recall Notification: FSIS-009-94,"Case Number: 009-94   
+            Date Opened: 03/04/1994   
+            Date Closed: 07/25/1994 
+    
+            Recall Class:  2   
+            Press Release (Y/N):  N  
+    
+            Domestic Est. Number:  00537A M   
+              Name:  OSCAR MAYER FOODS
+    
+            Imported Product (Y/N):  N       
+            Foreign Estab. Number:  N/A
+    
+            City:  MADISON    
+            State:  WI   
+            Country:  USA
+    
+            Product:  BEEF FRANKS
+    
+            Problem:  EXTRANEOUS MATERIAL   
+            Description: PLASTIC
+    
+            Total Pounds Recalled:  16,164   
+            Pounds Recovered:  15,033","Hazard, Recall, FSIS, Food Safety, Notification, Foodborne illness, Meat, Poultry, Raw meat, Food Safety Standard, Hazard Analysis and Critical Control Points, HACCP.
+
+Hazard-related terms: Meat, Poultry, Raw meat, Food Safety Standard, Hazard Analysis and Critical Control Points, HACCP.
+
+Food-related terms: Recall, Food Safety, Notification, Foodborne illness, Food Safety Standard, Hazard, Raw meat, Poultry, Food Safety Standard, Hazard Analysis",foreign bodies,"meat, egg and dairy products",plastic fragment,thermal processed pork meat
+1994,7,1,us,Recall Notification: FSIS-001-94,"Case Number: 001-94   
+            Date Opened: 01/07/1994   
+            Date Closed: 05/27/1994 
+    
+            Recall Class:  1   
+            Press Release (Y/N):  N  
+    
+            Domestic Est. Number:  01325  P   
+              Name:  TYSON FOODS
+    
+            Imported Product (Y/N):  N       
+            Foreign Estab. Number:  N/A
+    
+            City:  NEW HOLLAND    
+            State:  PA   
+            Country:  USA
+    
+            Product:  CHICKEN BREAST CHUNKS, COOKED
+    
+            Problem:  EXTRANEOUS MATERIAL   
+            Description: PLASTIC
+    
+            Total Pounds Recalled:  46,168   
+            Pounds Recovered:  15,083","- Food Safety Inspection
+- Hazard Analysis
+- Food Safety Inspection Service
+- Food Safety Inspection Requirements
+- Hazard Analysis and Critical Control Points
+- Hazard Analysis and Critical Control Points Management
+- Hazard Analysis and Critical Control Points Evaluation
+- Food Safety Inspection Service
+- Hazard Analysis and Control Points Management
+
+Hazard-related terms:
+- Hazard Analysis
+- Hazard Analysis and Critical Control Points
+- Hazard Analysis and Critical Control Points Management
+- Hazard Analysis and Control Points Management
+
+Food-related terms:",foreign bodies,"meat, egg and dairy products",plastic fragment,chicken breast
+1994,8,11,us,Recall Notification: FSIS-044-94,"Case Number: 044-94   
+            Date Opened: 11/08/1994   
+            Date Closed: 03/24/1995 
+    
+            Recall Class:  1   
+            Press Release (Y/N):  Y  
+    
+            Domestic Est. Number:  00969  M   
+              Name:  MONFORT INC.
+    
+            Imported Product (Y/N):  N       
+            Foreign Estab. Number:  N/A
+    
+            City:  GREELEY    
+            State:  CO   
+            Country:  USA
+    
+            Product:  GROUND BEEF
+    
+            Problem:  BACTERIA,   
+            Description: E. COLI O157:H7
+    
+            Total Pounds Recalled:  595,349   
+            Pounds Recovered:  124,000","Hazard, Food, Recall, Notification, FSIS, 94
+
+Extraction: 
+Food-related term: Hazard
+Hazard-related term: Recall
+Food-related term: Notification
+Hazard-related term: FSIS
+Hazard-related term: 94
+
+Hazard: FSIS-044-94
+Hazard: 94
+FSIS: 94
+
+Extraction: 
+Food-related term: Hazard
+Hazard-related term: Recall
+Food-related term: Notification
+Hazard",biological,"meat, egg and dairy products",escherichia coli,ground beef
+1994,9,2,us,Recall Notification: FSIS-005-94,"Case Number: 005-94   
+            Date Opened: 02/09/1994   
+            Date Closed: 05/04/1994 
+    
+            Recall Class:  1   
+            Press Release (Y/N):  Y  
+    
+            Domestic Est. Number:  10060  M   
+              Name:  INTERNATIONAL SAUSAGE
+    
+            Imported Product (Y/N):  N       
+            Foreign Estab. Number:  N/A
+    
+            City:  DETROIT    
+            State:  MI   
+            Country:  USA
+    
+            Product:  BEEF FRANKS
+    
+            Problem:  BACTERIA   
+            Description: LISTERIA
+    
+            Total Pounds Recalled:  1,600   
+            Pounds Recovered:  1,317","* Food Safety
+* Hazardous Materials
+* Foodborne Illness
+* Inspection
+* Recall
+* Notification
+
+Hazard-related terms: 
+
+* Hazardous Materials
+* Hazardous Substances
+* Hazardous Chemicals
+* Hazardous Waste
+* Hazardous Materials Handling
+* Hazardous Substance
+* Hazardous Waste Management
+
+Food-related terms: 
+
+* Food Safety
+* Foodborne Illness
+* Food Inspection
+* Food Recall
+* Food Safety Regulation
+* Food",biological,"meat, egg and dairy products",listeria monocytogenes,thermal processed pork meat
+1994,10,11,us,Recall Notification: FSIS-045-94,"Case Number: 045-94   
+            Date Opened: 11/10/1994   
+            Date Closed: 03/06/1995 
+    
+            Recall Class:  2   
+            Press Release (Y/N):  N  
+    
+            Domestic Est. Number:  02260Y M   
+              Name:  ADVANCE FOODS
+    
+            Imported Product (Y/N):  N       
+            Foreign Estab. Number:  N/A
+    
+            City:  ENID    
+            State:  OK   
+            Country:  USA
+    
+            Product:  BEEF & TURKEY FINGERS
+    
+            Problem:  EXTRANEOUS MATERIAL   
+            Description: PLASTIC
+    
+            Total Pounds Recalled:  6,410   
+            Pounds Recovered:  3,960","- Hazard
+- Food Safety
+- Food Recall
+- Recall Notice
+- Food Safety Inspection
+- Inspection
+- Hazard Analysis
+- Food Safety Standards
+- Food Safety Inspection Certification
+- Inspection Report
+
+Hazard-related terms:
+
+- Hazard
+- Food Safety Hazard
+- Food Safety Risk
+- Food Safety Hazard Level
+
+Food-related terms:
+
+- Food Safety
+- Food Recall
+- Food Safety Inspection
+- Inspection
+- Hazard Analysis
+- Food Safety Standards
+- Food Safety Inspection",foreign bodies,"meat, egg and dairy products",plastic fragment,beef
+1994,12,5,us,Recall Notification: FSIS-018-94,"Case Number: 018-94   
+            Date Opened: 05/12/1994   
+            Date Closed: 09/23/1994 
+    
+            Recall Class:  2   
+            Press Release (Y/N):  N  
+    
+            Domestic Est. Number:  01765  M   
+              Name:  S.A.L. INC
+    
+            Imported Product (Y/N):  N       
+            Foreign Estab. Number:  N/A
+    
+            City:  WILLIAMSPORT    
+            State:  IN   
+            Country:  USA
+    
+            Product:  BEEF, STEW, STIR FRY
+    
+            Problem:  EXTRANEOUS MATERIAL   
+            Description: PLASTIC
+    
+            Total Pounds Recalled:  82,980   
+            Pounds Recovered:  5,880","* FSIS-018-94
+* Hazard
+* Food
+* Recall
+* Notification
+* FSIS (Food Safety and Inspection Service)
+
+Hazard-related terms: 
+
+* Hazard
+* Risk
+* Safety
+* Danger
+* Risk assessment
+
+Food-related terms: 
+
+* Food
+* Recall
+* Notification
+* Hazard
+
+Note: The extraction is based on the specific terms found in the title and does not include any terms that may be present in the actual content of the",foreign bodies,"meat, egg and dairy products",plastic fragment,beef stewed
+1994,12,7,us,Recall Notification: FSIS-026-94,"Case Number: 026-94   
+            Date Opened: 07/12/1994   
+            Date Closed: 09/19/1994 
+    
+            Recall Class:  N   
+            Press Release (Y/N):  N  
+    
+            Domestic Est. Number:  N/A   
+              Name:  MILI QUALITY FOODS
+    
+            Imported Product (Y/N):  Y       
+            Foreign Estab. Number:  47
+    
+            City:  ASHRAT    
+            State:  F   
+            Country:  ISRAEL
+    
+            Product:  CHICKEN BREAST, COOKED
+    
+            Problem:  DRUG   
+            Description: SULFADIMETHOXINE
+    
+            Total Pounds Recalled:  8,260   
+            Pounds Recovered:  0","**
+
+1. Food
+2. Food Safety
+3. Food Handling
+4. Food Processing
+5. Food",chemical,"meat, egg and dairy products","antibiotics, vet drugs",chicken breast
+1995,5,1,us,Recall Notification: FSIS-002-95,"Case Number: 002-95   
+            Date Opened: 01/05/1995   
+            Date Closed: 03/14/1995 
+    
+            Recall Class:  2   
+            Press Release (Y/N):  N  
+    
+            Domestic Est. Number:  08435  M   
+              Name:  JOHN MCKENZIE PACKING CO
+    
+            Imported Product (Y/N):  N       
+            Foreign Estab. Number:  N/A
+    
+            City:  BURLINGTON    
+            State:  VT   
+            Country:  USA
+    
+            Product:  HOT DOGS
+    
+            Problem:  EXTRANEOUS MATERIAL   
+            Description: PLASTIC
+    
+            Total Pounds Recalled:  2,920   
+            Pounds Recovered:  3","* Food
+* Hazard
+* Recall
+* Notification
+* FSIS-002-95
+
+Hazard-related terms: 
+* Food safety
+* Hazardous materials
+* Hazardous
+* Risk
+
+Food-related terms: 
+* Food safety
+* Food inspection
+* Foodborne illness
+* Food handling
+* Food recall
+* Food storage
+* Food preparation
+* Foodborne illness prevention
+* Food safety regulations
+* Food handling guidelines
+* Food storage requirements
+* Food",foreign bodies,prepared dishes and snacks,plastic fragment,hot dogs
+1995,5,5,us,Recall Notification: FSIS-021-95,"Case Number: 021-95   
+            Date Opened: 05/05/1995   
+            Date Closed: 07/17/1995 
+    
+            Recall Class:  1   
+            Press Release (Y/N):  N  
+    
+            Domestic Est. Number:  09060  P   
+              Name:  HAROLD FOOD COMPANY
+    
+            Imported Product (Y/N):  N       
+            Foreign Estab. Number:  N/A
+    
+            City:  CHARLOTTE    
+            State:  NC   
+            Country:  USA
+    
+            Product:  CHICKEN SALAD
+    
+            Problem:  BACTERIA   
+            Description: LISTERIA
+    
+            Total Pounds Recalled:  105   
+            Pounds Recovered:  6","- Recall
+- Notification
+- Food Safety
+- Hazard
+- FSIS
+- 1995
+
+Hazard-related terms: 
+- Hazard
+- Food Safety
+- Recall
+- Notification
+
+Food-related terms: 
+- Food Safety
+- Recall
+- Notification
+- Food
+- 1995 
+
+Corrected answer: 
+- Hazard
+- Food Safety
+- Recall
+- Notification
+- 1995",biological,"meat, egg and dairy products",listeria spp,chicken based products
+1995,5,30,us,Recall Notification: FSIS-025-95,"Case Number: 025-95   
+            Date Opened: 05/30/1995   
+            Date Closed: 11/27/1995 
+    
+            Recall Class:  1   
+            Press Release (Y/N):  Y  
+    
+            Domestic Est. Number:  00880  M   
+              Name:  GLAZIER PACKING
+    
+            Imported Product (Y/N):  N       
+            Foreign Estab. Number:  N/A
+    
+            City:  POTSDAM    
+            State:  NY   
+            Country:  USA
+    
+            Product:  FRANKFURTERS
+    
+            Problem:  BACTERIA   
+            Description: LISTERIA
+    
+            Total Pounds Recalled:  3,780   
+            Pounds Recovered:  126","* Recall
+* Notification
+* FSIS
+* Hazard
+* Food
+* Inspection
+* Recall Notification
+
+Hazard-related terms: 
+* Food
+* Hazard
+* Inspection
+
+Food-related terms: 
+* Food
+* Inspection
+
+Note that some terms are repeated, but I have extracted all unique terms from the title. The hazard-related and food-related terms are the ones that have a clear connection to the topic of food safety or inspection.",biological,"meat, egg and dairy products",listeria monocytogenes,thermal processed pork meat
+1995,6,11,us,Recall Notification: FSIS-038-95,"Case Number: 038-95   
+            Date Opened: 11/06/1995   
+            Date Closed: 04/12/1996 
+    
+            Recall Class:  1   
+            Press Release (Y/N):  Y  
+    
+            Domestic Est. Number:  N/A   
+              Name:  GAINERS BURNS FOODS
+    
+            Imported Product (Y/N):  Y       
+            Foreign Estab. Number:  18-B
+    
+            City:  EDMONTON    
+            State:  F   
+            Country:  CANADA
+    
+            Product:  HOT DOGS, PORK (FRANKS)
+    
+            Problem:  BACTERIA   
+            Description: LISTERIA
+    
+            Total Pounds Recalled:  4,320   
+            Pounds Recovered:  1,691","Hazard, Recall, Food Safety, Inspection, FSIS, Notification
+
+Extraction of relevant terms:
+- Hazard
+- Recall
+- Food Safety
+- Inspection
+- FSIS
+- Notification
+
+Hazard-related terms: 
+- Recall
+- Food Safety
+- Inspection
+- FSIS
+
+Extracted terms: 
+- Recall
+- Food Safety
+- Inspection
+- FSIS
+- Notification",biological,prepared dishes and snacks,listeria monocytogenes,hot dogs
+1995,7,12,us,Recall Notification: FSIS-041-95,"Case Number: 041-95   
+            Date Opened: 12/07/1995   
+            Date Closed: 02/22/1996 
+    
+            Recall Class:  2   
+            Press Release (Y/N):  N  
+    
+            Domestic Est. Number:  N/A   
+              Name:  TH. S. VAN DER LAAN INT'L*
+    
+            Imported Product (Y/N):  Y       
+            Foreign Estab. Number:  129
+    
+            City:  ALMELO    
+            State:  F   
+            Country:  THE NETHERLANDS
+    
+            Product:  CANNED LUNCHEON MEAT
+    
+            Problem:  DRUG   
+            Description: SULFAMETHAZINE
+    
+            Total Pounds Recalled:  1,476   
+            Pounds Recovered:  1,314","Recall, Notification, FSIS, Food Safety, Hazard, Food Safety Inspection, Hazardous Materials, Hazardous Substances, Foodborne Illness, Foodborne Pathogens, Food Storage, Food Handling, Food Preparation, Food Labeling, Food Inspection, Hazardous Materials Control, Hazardous Substances Control, Food Safety Regulation, Food Safety Inspection Regulation, Food Safety Inspection Program.
+
+## Step 1: Identify the key terms in the title
+The key terms in the title are 'Recall',",chemical,"meat, egg and dairy products",sulfamethazine unauthorised,Precooked cooked pork meat products
+1995,8,2,us,Recall Notification: FSIS-006-95,"Case Number: 006-95   
+            Date Opened: 02/08/1995   
+            Date Closed: 04/04/1995 
+    
+            Recall Class:  1   
+            Press Release (Y/N):  Y  
+    
+            Domestic Est. Number:  06387  M   
+              Name:  MAYABEQUE PRODUCTS
+    
+            Imported Product (Y/N):  N       
+            Foreign Estab. Number:  N/A
+    
+            City:  NORTH BERGEN    
+            State:  NJ   
+            Country:  USA
+    
+            Product:  CHORIZOS
+    
+            Problem:  BACTERIA   
+            Description: SALMONELLA
+    
+            Total Pounds Recalled:  6,780   
+            Pounds Recovered:  2,988","1. Food Safety
+2. Hazard
+3. Foodborne Illness
+4. Food Poisoning
+5. Meat Inspection
+6. Meat Inspection and Inspection
+7. FSIS (Food Safety and Inspection Service)
+8. Inspection
+9. Recall
+
+Hazard-related terms:
+
+1. Hazard
+2. Hazardous Food
+3. Food Poisoning
+4. Foodborne Illness
+5. Meat Inspection
+
+Food-related terms:
+
+1. Food Safety
+2. Food Poison",biological,"meat, egg and dairy products",salmonella,chorizo
+1995,10,1,us,Recall Notification: FSIS-003-95,"Case Number: 003-95   
+            Date Opened: 01/10/1995   
+            Date Closed: 04/04/1995 
+    
+            Recall Class:  1   
+            Press Release (Y/N):  Y  
+    
+            Domestic Est. Number:  05633  M   
+              Name:  QUISTORFF ENTRPRS OF OSAKIS
+    
+            Imported Product (Y/N):  N       
+            Foreign Estab. Number:  N/A
+    
+            City:  OSAKIS    
+            State:  MN   
+            Country:  USA
+    
+            Product:  SMOKED POLISH SAUSAGE
+    
+            Problem:  BACTERIA   
+            Description: LISTERIA
+    
+            Total Pounds Recalled:  36   
+            Pounds Recovered:  31","Hazard, Food Safety, Recall, Notice, Inspection
+
+Hazard-related terms: Recall, Inspection, Food Safety
+
+Food-related terms: Food Safety, Recall, Notice
+
+Hazard-related terms: Recall, Inspection, Food Safety, Notice
+
+Note that some terms appear in both categories, but I have only extracted them once.",biological,"meat, egg and dairy products",listeria monocytogenes,smoked sausage
+1996,3,4,us,Recall Notification: FSIS-009-96,"Case Number: 009-96  Recall Notification Report:  N
+    
+            Date Opened: 04/03/1996   
+            Date Closed: 06/26/1996 
+    
+            Recall Class:  1   
+            Press Release (Y/N):  N
+    
+            Domestic Est. Number:  01614  M   
+              Name:  CORFU FOODS INC.
+    
+            Imported Product (Y/N):  N       
+            Foreign Estab. Number:  N/A
+    
+            City:  BENSENVILLE    
+            State:  IL   
+            Country:  USA
+    
+            Product:  ROAST BEEF, SLICED
+    
+            Problem:  BACTERIA   
+            Description: LISTERIA
+    
+            Total Pounds Recalled:  720   
+            Pounds Recovered:  710","Food Safety Inspection, Hazardous Materials, Recall Notice, Inspection, Inspection Notification, Food Safety Inspection, Inspection Notification, Food Safety Inspection, Inspection Notification, Food Safety Inspection, Inspection Notification, Food Safety Inspection, Inspection Notification, Food Safety Inspection, Inspection Notification, Food Safety Inspection, Inspection Notification, Food Safety Inspection, Inspection Notification, Food Safety Inspection, Inspection Notification, Food Safety Inspection, Inspection Notification, Food Safety Inspection, Inspection Notification, Food Safety Inspection, Inspection Notification, Food Safety Inspection, Inspection Notification",biological,"meat, egg and dairy products",listeria spp,thermal processed beef meat
+1996,5,8,us,Recall Notification: FSIS-017-96,"Case Number: 017-96  Recall Notification Report:  N
+    
+            Date Opened: 08/05/1996   
+            Date Closed: 12/02/1996 
+    
+            Recall Class:  1   
+            Press Release (Y/N):  N
+    
+            Domestic Est. Number:  08999  M   
+              Name:  ROCHESTER MEATS
+    
+            Imported Product (Y/N):  N       
+            Foreign Estab. Number:  N/A
+    
+            City:  ROCHESTER    
+            State:  MN   
+            Country:  USA
+    
+            Product:  GROUND BEEF PATTIES, FROZEN
+    
+            Problem:  BACTERIA   
+            Description: E. COLI O157:H7
+    
+            Total Pounds Recalled:  152,000   
+            Pounds Recovered:  5,862","Hazard, Food Safety, Recall, Notice, FSIS, Food Safety Inspection Service.
+
+Hazard-related terms: Food Safety, Recall, Notice.
+
+Food-related terms: Recall, Notice, FSIS, Food Safety Inspection Service.",biological,"meat, egg and dairy products",escherichia coli,frozen beef patties
+1996,9,12,us,Recall Notification: FSIS-024-96,"Case Number: 024-96  Recall Notification Report:  N
+    
+            Date Opened: 12/09/1996   
+            Date Closed: 12/03/1997 
+    
+            Recall Class:  1   
+            Press Release (Y/N):   
+            Y
+    
+            Domestic Est. Number:  09453  M   
+              Name:  GOULDS COUNTRY STORE
+    
+            Imported Product (Y/N):  N       
+            Foreign Estab. Number:  N/A
+    
+            City:  PIERMONT    
+            State:  NH   
+            Country:  USA
+    
+            Product:  SLICED HAM
+    
+            Problem:  BACTERIA   
+            Description: LISTERIA
+    
+            Total Pounds Recalled:  52   
+            Pounds Recovered:  51","1. Recall
+2. Notification
+3. Hazard
+4. Food
+5. Inspection
+6. Service
+
+Extracted terms:
+
+1. Recall
+2. Notification
+3. Hazard
+4. Food
+5. Inspection
+
+These terms are related to food safety and recall notification.",biological,"meat, egg and dairy products",listeria monocytogenes,sliced ham
+1996,12,11,us,Recall Notification: FSIS-023-96,"Case Number: 023-96  Recall Notification Report:  N
+    
+            Date Opened: 11/12/1996   
+            Date Closed: 06/23/1997 
+    
+            Recall Class:  3   
+            Press Release (Y/N):  N
+    
+            Domestic Est. Number:  01494  M   
+              Name:  DAKOTA PORK INDUSTRIES
+    
+            Imported Product (Y/N):  N       
+            Foreign Estab. Number:  N/A
+    
+            City:  MITCHELL    
+            State:  SD   
+            Country:  USA
+    
+            Product:  HAM
+    
+            Problem:  MISBRANDED   
+            Description: MISBRANDED
+    
+            Total Pounds Recalled:  23,280   
+            Pounds Recovered:  9,140","* Hazard
+* Recall
+* Notification
+* Food Safety
+* FSIS
+* FDA
+* Hazard Analysis
+* Risk Management
+* Food Safety Inspection
+* Food Safety Standards
+* Recall Notification
+* Food Safety and Inspection Service
+* FDA",fraud,"meat, egg and dairy products",incorrect labeling,ham
+1997,2,6,us,Recall Notification: FSIS-006-97,"Case Number: 006-97  Recall Notification Report:  N
+    
+            Date Opened: 06/02/1997   
+            Date Closed: 01/05/1998 
+    
+            Recall Class:  1   
+            Press Release (Y/N):  N
+    
+            Domestic Est. Number:  00021  P   
+              Name:  HESTER INDUSTRIES
+    
+            Imported Product (Y/N):  N       
+            Foreign Estab. Number:  N/A
+    
+            City:  MOOREFIELD    
+            State:  WV   
+            Country:  USA
+    
+            Product:  COOKED CHICKEN
+    
+            Problem:  BACTERIA   
+            Description: LISTERIA
+    
+            Total Pounds Recalled:  17,434   
+            Pounds Recovered:  7,150","food, hazard, recall, notice, FSIS, food safety, warning, notice of non-compliance, food safety inspection, inspection, inspection result, notice of non-compliance, inspection result, inspection, inspection result, inspection, inspection result, inspection, inspection result, inspection, inspection, inspection result, inspection, inspection, inspection result, inspection, inspection result, inspection, inspection result, inspection, inspection, inspection result, inspection, inspection result, inspection, inspection result, inspection, inspection result",biological,prepared dishes and snacks,listeria spp,cooked chicken
+1997,3,9,us,Recall Notification: FSIS-016-97,"Case Number: 016-97  Recall Notification Report:  N
+    
+            Date Opened: 09/03/1997   
+            Date Closed: 03/30/1998 
+    
+            Recall Class:  2   
+            Press Release (Y/N):  N
+    
+            Domestic Est. Number:  02260Y P   
+              Name:  ADVANCE MEAT COMPANY
+    
+            Imported Product (Y/N):  N       
+            Foreign Estab. Number:  N/A
+    
+            City:  ENID    
+            State:  OK   
+            Country:  USA
+    
+            Product:  GRILLED CHICKEN BREAST
+    
+            Problem:  EXTRANEOUS MATERIAL   
+            Description: PLASTIC
+    
+            Total Pounds Recalled:  3,042   
+            Pounds Recovered:  219","Hazard, Food Safety, Recall, Inspection, FSIS, 97, Notice
+
+Extracted terms: 
+
+1. Hazard
+2. Food Safety
+3. Recall
+4. Inspection
+5. FSIS
+6. 97
+7. Notice 
+
+The following terms are related to food safety and hazard:
+
+1. Food Safety
+2. Hazard
+
+The following terms are related to the recall:
+
+1. Recall
+2. Notice 
+
+The following terms are related to the inspection:
+
+1",foreign bodies,"meat, egg and dairy products",plastic fragment,chicken breast
+1997,3,10,us,Recall Notification: FSIS-022-97,"Case Number: 022-97  Recall Notification Report:  N
+    
+            Date Opened: 10/03/1997   
+            Date Closed: 08/14/1998 
+    
+            Recall Class:  1   
+            Press Release (Y/N):  N
+    
+            Domestic Est. Number:  01092  M   
+              Name:  KAYSERI BASTERMA INC.
+    
+            Imported Product (Y/N):  N       
+            Foreign Estab. Number:  N/A
+    
+            City:  Poughkeepsie    
+            State:  NY   
+            Country:  USA
+    
+            Product:  Kayseri Soujouk (dry sausage)
+    
+            Problem:  BACTERIA   
+            Description: LISTERIA
+    
+            Total Pounds Recalled:  347   
+            Pounds Recovered:  347","Food Safety, Hazard, Notification, Recall, FSIS, Food Service Industry, Service Industry, Food Safety Standards, Industry Standards, Food Service Standards, Service Standards, Food Safety Inspection, Food Safety Inspectors, Food Safety Inspectors' Training, Hazardous Substances, Food Service Hazards, Hazardous Substances Handling, Food Safety Regulations, Food Safety Regulations and Standards, Food Service Regulations, Food Safety Regulations and Enforcement, Food Safety Inspection Regulations, Food Safety Inspection Regulations and Enforcement,",biological,"meat, egg and dairy products",listeria spp,sausage
+1997,3,10,us,Recall Notification: FSIS-021-97,"Case Number: 021-97  Recall Notification Report:  N
+    
+            Date Opened: 10/03/1997   
+            Date Closed: 03/02/1998 
+    
+            Recall Class:  1   
+            Press Release (Y/N):  N
+    
+            Domestic Est. Number:  00053  M   
+              Name:  BEEF AMERICA OPERATION CO. INC
+    
+            Imported Product (Y/N):  N       
+            Foreign Estab. Number:  N/A
+    
+            City:  Norfolk    
+            State:  NE   
+            Country:  USA
+    
+            Product:  Ground Beef
+    
+            Problem:  BACTERIA   
+            Description: E. COLI O157:H7
+    
+            Total Pounds Recalled:  443,656   
+            Pounds Recovered:  400","Hazard, Food Safety, Label, Warning, Recall, FSIS, Inspection, Meat, Beef, Pork, Chicken, Egg, Processed, Hazardous Ingredients, Raw, Poultry, Raw Meat, Raw Poultry, Food Allergen, Food Safety Inspection, Hazardous Substances, Label Claim, Warning Label, Food Allergic Reaction, Food Poisoning, Meat Inspection, Beef Inspection, Pork Inspection, Chicken Inspection, Egg Inspection, Processed Meat, Hazardous Ingredients List, Raw Meat",biological,"meat, egg and dairy products",escherichia coli,ground beef
+1997,7,3,us,Recall Notification: FSIS-010-97,"Case Number: 010-97  Recall Notification Report:  N
+    
+            Date Opened: 03/07/1997   
+            Date Closed: 08/21/1997 
+    
+            Recall Class:  1   
+            Press Release (Y/N):  N
+    
+            Domestic Est. Number:  06444  M   
+              Name:  ANGUS MEATS
+    
+            Imported Product (Y/N):  N       
+            Foreign Estab. Number:  N/A
+    
+            City:  SPOKANE    
+            State:  WA   
+            Country:  USA
+    
+            Product:  GROUND BEEF
+    
+            Problem:  BACTERIA   
+            Description: E. COLI O157:H7
+    
+            Total Pounds Recalled:  1,427   
+            Pounds Recovered:  115","Food, Hazard, Safety Inspection, Inspection, Safety, Inspection, Food Safety, Food Inspection, Hazard, Inspection, Food, Inspection, Food Safety, Food Inspection, Hazard, Inspection, Food, Inspection, Food Safety, Food Inspection, Hazard, Inspection, Food Safety, Food Inspection, Hazard, Inspection, Food Safety, Food Inspection, Hazard, Inspection, Food Safety, Food Inspection, Hazard, Inspection, Food Safety, Food Inspection, Hazard, Inspection, Food Safety, Food Inspection, Hazard,",biological,"meat, egg and dairy products",escherichia coli,ground beef
+1997,7,10,us,Recall Notification: FSIS-023-97,"Case Number: 023-97  Recall Notification Report:  N
+    
+            Date Opened: 10/07/1997   
+            Date Closed: 04/20/1998 
+    
+            Recall Class:  2   
+            Press Release (Y/N):  N
+    
+            Domestic Est. Number:  00703  P   
+              Name:  ZARTIC INC.
+    
+            Imported Product (Y/N):  N       
+            Foreign Estab. Number:  N/A
+    
+            City:  Rome    
+            State:  GA   
+            Country:  USA
+    
+            Product:  Breaded Chicken Patty Nuggets
+    
+            Problem:  EXTRANEOUS MATERIAL   
+            Description: PLASTIC
+    
+            Total Pounds Recalled:  21,660   
+            Pounds Recovered:  7,935","- Hazard
+- Food safety
+- Recall
+- Notification
+- FSIS
+- Food safety inspection
+- FSIS-023-97
+
+Hazard-related terms: 
+- Recall
+- Hazard
+- Food safety
+- Food safety inspection
+
+Food safety-related terms: 
+- Food safety
+- Recall
+- Notification
+- Food safety inspection
+
+The hazard-related term is 'Hazard' and the food safety-related terms are 'Food safety' and 'Food safety inspection'.",foreign bodies,"meat, egg and dairy products",plastic fragment,chicken based products
+1997,11,8,us,Recall Notification: FSIS-014-97,"Case Number: 014-97  Recall Notification Report:  N
+    
+            Date Opened: 08/11/1997   
+            Date Closed: 01/28/1998 
+    
+            Recall Class:  2   
+            Press Release (Y/N):  N
+    
+            Domestic Est. Number:  N/A   
+              Name:  PIK VRBOVEC MESNA  INDUSTRIJA
+    
+            Imported Product (Y/N):  Y       
+            Foreign Estab. Number:  10
+    
+            City:  VRBOVEC    
+            State:  F   
+            Country:  CROATIA
+    
+            Product:  ROAST BEEF W/GRAVY
+    
+            Problem:  DRUG   
+            Description: SULFAMETHAZINE
+    
+            Total Pounds Recalled:  6,908   
+            Pounds Recovered:  6,498","Food Safety, Hazardous Foods, Meat Products, Recall, FSIS, Food Safety Inspection Service, Meat Inspection, Hazardous Materials, Foodborne Illness, Inspectors, Inspection, Inspection Criteria, Inspection Criteria for Meat, Hazardous Food, Inspection Criteria for Meat Products, Food Safety Inspection, Hazardous Materials, Food Safety Inspection Service, Hazardous Foods, Meat Inspection, Food Safety Inspection Criteria, Meat Products, Hazardous Materials, Hazardous Foods, Food Safety Inspection Service, Meat Inspection",chemical,"meat, egg and dairy products",sulfamethazine unauthorised,thermal processed beef meat
+1997,11,9,us,Recall Notification: FSIS-018-97,"Case Number: 018-97  Recall Notification Report:  N
+    
+            Date Opened: 09/11/1997   
+            Date Closed: 09/11/1997 
+    
+            Recall Class:  1   
+            Press Release (Y/N):   
+            Y
+    
+            Domestic Est. Number:  N/A   
+              Name:  GREAT VALUE SUPERMARKET
+    
+            Imported Product (Y/N):  N       
+            Foreign Estab. Number:  N/A
+    
+            City:  EMPORIA    
+            State:  VA   
+            Country:  USA
+    
+            Product:  GROUND BEEF
+    
+            Problem:  BACTERIA   
+            Description: E. COLI O157:H7
+    
+            Total Pounds Recalled:  70   
+            Pounds Recovered:  0","* Hazard
+* Food
+* Recall
+* Notification
+
+Hazards: 
+* Contamination
+* Microbial
+* Chemical
+* Physical
+
+Food-related terms: 
+* Food
+* Food safety
+* Hazardous
+* Foodborne
+* Food storage
+* Food handling
+* Food preparation
+* Food safety inspection
+* Food recall
+* Food contamination
+
+Note: The list only includes terms that are directly related to the title 'Recall Notification: FSIS-018-",biological,"meat, egg and dairy products",escherichia coli,ground beef
+1997,12,8,us,Recall Notification: FSIS-015-97,"Case Number: 015-97  Recall Notification Report:  N
+    
+            Date Opened: 08/12/1997   
+            Date Closed: 02/09/1999 
+    
+            Recall Class:  1   
+            Press Release (Y/N):   
+            Y
+    
+            Domestic Est. Number:  13569  M   
+              Name:  Hudson Foods
+    
+            Imported Product (Y/N):  N       
+            Foreign Estab. Number:  N/A
+    
+            City:  Columbus    
+            State:  NE   
+            Country:  USA
+    
+            Product:  GROUND BEEF
+    
+            Problem:  BACTERIA   
+            Description: E. COLI O157:H7
+    
+            Total Pounds Recalled:  25,000,000   
+            Pounds Recovered:  10,104,439","food, hazard, recall, notification, FSIS, FSIS-015-97, meat, poultry, fish, fishery, shrimp, shrimp fishing, shrimp processing, shrimp landing, shrimp landing area, shrimp fishing gear, shrimp landing gear, fishery management, fish processing, fish landing, fish processing facility, fish processing area, fishery management area, fishery, fishing gear, fishing industry, fishing gear industry, seafood, seafood industry, fish processing facility, seafood processing, seafood landing",biological,"meat, egg and dairy products",escherichia coli,ground beef
+1997,12,9,us,Recall Notification: FSIS-017-97,"Case Number: 017-97  Recall Notification Report:  N
+    
+            Date Opened: 09/12/1997   
+            Date Closed: 01/05/1998 
+    
+            Recall Class:  1   
+            Press Release (Y/N):   
+            Y
+    
+            Domestic Est. Number:  06431  M   
+              Name:  BAVARIAN MEAT PRODUCTS
+    
+            Imported Product (Y/N):  N       
+            Foreign Estab. Number:  N/A
+    
+            City:  SEATTLE    
+            State:  WA   
+            Country:  USA
+    
+            Product:  CERVELAT SEMI-DRY SAUSAGE
+    
+            Problem:  BACTERIA   
+            Description: SALMONELLA
+    
+            Total Pounds Recalled:  450   
+            Pounds Recovered:  696","Hazard, Food Safety, Recall, Notice, FSIS, Food Safety Inspection
+
+Extracted terms:
+
+* Hazard
+* Food Safety
+* Recall
+* Notice
+* FSIS (Federal Safety and Inspection Service)
+* Food Safety Inspection
+
+Note that the term ""Food Safety Inspection"" is a compound term, so it is included in the list of extracted terms.",biological,"meat, egg and dairy products",salmonella,sausage
+1998,1,14,au,Balfour Wauchope—Cake with Icing,"PRA No. 1998/3436 Date published 14 Jan 1998 Product description Brands: Gibbs 400g, Sumners 350g & Foodlands 350g. Code Between 8002 And 8012. What are the defects? Rancid Taste In Icing. What are the hazards? Contamination. What should consumers do? Contact The Supplier Undertaking The Recall Action. Supplier Balfour Wauchope Pty Ltd Coordinating agency Food Standards Australia New Zealand is the coordinating agency for this recall. Product category Confectionery × Close","Balfour Wauchope, cake, icing, hazard, food, wauchope, Balfour, cake, icing
+
+The word 'hazard' is the term that appears in the title.
+
+The word 'food' appears twice in the title.
+
+The word 'wauchope' appears twice in the title.
+
+The word 'Balfour' appears twice in the title.",organoleptic aspects,cereals and bakery products,taste disturbance,cakes
+1998,3,4,au,Hans Continental Smallgoods—Latvian Liverwurst,"PRA No. 1998/3492 Date published 4 Mar 1998 Product description Use By Date - 13 April 1998. Produced On 12 February 1998. 250gm Roll. Distributed Through All Major Supermarket Chains And Stores, For Example Coles And Woolworths. What are the defects? Possibility That Some Of The Product Has Only Been Partially Cooked. The Product Is Soft And Has An Off Smell When Opened. What are the hazards? Contamination. What should consumers do? Product Should Not Be Consumed. Any Consumers Of This Product Should Contact Their Doctor Immediately. For More Information Call 1800 060 909. Supplier Hans Continental Smallgoods Pty Ltd Where the product was sold Nationally Coordinating agency Food Standards Australia New Zealand is the coordinating agency for this recall. Product category Meat, seafood and deli × Close","liverwurst, hazard, food-related, Latvian, Continental, smallgoods
+
+Hazard-related terms: foodborne, risk, contamination
+
+Food-related terms: liverwurst, smallgoods, Continental, Latvian, risk, hazard, foodborne
+
+Additional terms: Continental, smallgoods, Latvian, risk, hazard, foodborne, liverwurst
+
+Additional terms: hazard, foodborne, risk, food-related, Continental, smallgoods, Latvian, liver",organoleptic aspects,"meat, egg and dairy products",abnormal smell,Precooked cooked pork meat products
+1998,3,24,us,Recall Notification: FSIS-011-98,"Case Number: 011-98  Recall Notification Report:   
+            RNR011-98
+    
+            Date Opened: 04/24/1998   
+            Date Closed: 08/31/1998 
+    
+            Recall Class:  2   
+            Press Release (Y/N):  N
+    
+            Domestic Est. Number:  00138  P   
+              Name:  Vlasic Foods International
+    
+            Imported Product (Y/N):         
+            Foreign Estab. Number:  N/A
+    
+            City:  Fayetteville    
+            State:  AR   
+            Country:  USA
+    
+            Product:  Boneless Chicken Dinners
+    
+            Problem:  MISBRANDED   
+            Description: UNDECLARED SUBSTANCE
+    
+            Total Pounds Recalled:  9,888   
+            Pounds Recovered:  1,926","- Hazard
+- Food safety
+- Recall
+- Notice
+- FSIS (Food Safety and Inspection Service)
+- Inspection
+
+Extracted terms related to food safety and hazard: 
+
+* Hazard
+* Food safety
+* Recall
+* Notice
+* Inspection 
+
+These terms relate to the topic of food safety and are relevant to the FSIS (Food Safety and Inspection Service).",allergens,"meat, egg and dairy products",allergens,chicken
+1998,3,26,ca,Archive - ALLERGY ALERT - UNDECLARED SOY PROTEIN AND SOY LECITHIN IN DUNCAN HINES WHITE CAKE MIX,"Newsroom > Food Recalls and Allergy Alerts > Archives 
+This archive of previously issued food recalls and allergy alerts is provided for reference and research purposes.
+Users should note that the products listed in the archive have been subject to removal from the marketplace or appropriate corrective action. Food recalls or allergy alerts are not an indication of the food safety status of products produced at a later date.
+The following information was transmitted to the news media today, March 26, 1998, by Aurora Foods of Columbus Ohio in conjunction with Procter & Gamble of Toronto.
+FOR IMMEDIATE RELEASE
+ALLERGY ALERT - UNDECLARED SOY PROTEIN AND SOY LECITHIN IN DUNCAN HINES WHITE CAKE MIX
+Media Inquiries: Mary L. Murtha (416) 730-4705
+Toronto, March 26, 1998 - Aurora Foods of Columbus Ohio in conjunction with Procter & Gamble of Toronto are warning people with Soybean allergies not to consume Duncan Hines White cake mix (lot code 8028E2, embossed on the top flap of the package, UPC 56100 10710)because the product label does not list ""Soy protein and soy lecithin"" as ingredients. No other Duncan Hines mixes are involved. This pertains only to product sold in Canada, and only people with soy allergies are affected.
+There are 12,000 packages of Duncan Hines White Cake mix being recalled because they contain a different flavour of cake mix. As a result, there is undeclared Soy in the mix which may cause serious or life-threatening reactions in persons with Soy allergies. No illnesses have been reported to date as a result of this situation.
+Duncan Hines is distributed by Procter & Gamble through national food retail stores in Canada. Retailers have been notified and any affected product is being removed from store shelves. The Canadian Food Inspection Agency has been notified. No products outside of Canada are involved.
+Consumers who have purchased the White Cake product of this specific code can return it to the store from which it was purchased for a full refund, or may dispose of the product and call 1-800-346-4678 for a refund.
+The line of Duncan Hines products has recently been purchased by Aurora Foods, from Procter & Gamble, and P&G continues to distribute Duncan Hines in Canada during the transition.
+End of Company Transmission
+- 30 -
+Canadian Food Inspection Agency Gisèle Aucoin Food Division Nepean, Ontario Telephone (613) 225-2342, ext. 4395 Cellular (613) 290-0153
+This archive of previously issued food recalls and allergy alerts is provided for reference and research purposes.
+Users should note that the products listed in the archive have been subject to removal from the marketplace or appropriate corrective action. Food recalls or allergy alerts are not an indication of the food safety status of products produced at a later date.
+The following information was transmitted to the news media today, March 26, 1998, by Aurora Foods of Columbus Ohio in conjunction with Procter & Gamble of Toronto.
+FOR IMMEDIATE RELEASE
+ALLERGY ALERT - UNDECLARED SOY PROTEIN AND SOY LECITHIN IN DUNCAN HINES WHITE CAKE MIX
+Media Inquiries: Mary L. Murtha (416) 730-4705
+Toronto, March 26, 1998 - Aurora Foods of Columbus Ohio in conjunction with Procter & Gamble of Toronto are warning people with Soybean allergies not to consume Duncan Hines White cake mix (lot code 8028E2, embossed on the top flap of the package, UPC 56100 10710)because the product label does not list ""Soy protein and soy lecithin"" as ingredients. No other Duncan Hines mixes are involved. This pertains only to product sold in Canada, and only people with soy allergies are affected.
+There are 12,000 packages of Duncan Hines White Cake mix being recalled because they contain a different flavour of cake mix. As a result, there is undeclared Soy in the mix which may cause serious or life-threatening reactions in persons with Soy allergies. No illnesses have been reported to date as a result of this situation.
+Duncan Hines is distributed by Procter & Gamble through national food retail stores in Canada. Retailers have been notified and any affected product is being removed from store shelves. The Canadian Food Inspection Agency has been notified. No products outside of Canada are involved.
+Consumers who have purchased the White Cake product of this specific code can return it to the store from which it was purchased for a full refund, or may dispose of the product and call 1-800-346-4678 for a refund.
+The line of Duncan Hines products has recently been purchased by Aurora Foods, from Procter & Gamble, and P&G continues to distribute Duncan Hines in Canada during the transition.
+End of Company Transmission
+- 30 -
+Canadian Food Inspection Agency Gisèle Aucoin Food Division Nepean, Ontario Telephone (613) 225-2342, ext. 4395 Cellular (613) 290-0153
+Users should note that the products listed in the archive have been subject to removal from the marketplace or appropriate corrective action. Food recalls or allergy alerts are not an indication of the food safety status of products produced at a later date.
+The following information was transmitted to the news media today, March 26, 1998, by Aurora Foods of Columbus Ohio in conjunction with Procter & Gamble of Toronto.
+FOR IMMEDIATE RELEASE
+ALLERGY ALERT - UNDECLARED SOY PROTEIN AND SOY LECITHIN IN DUNCAN HINES WHITE CAKE MIX
+Media Inquiries: Mary L. Murtha (416) 730-4705
+Toronto, March 26, 1998 - Aurora Foods of Columbus Ohio in conjunction with Procter & Gamble of Toronto are warning people with Soybean allergies not to consume Duncan Hines White cake mix (lot code 8028E2, embossed on the top flap of the package, UPC 56100 10710)because the product label does not list ""Soy protein and soy lecithin"" as ingredients. No other Duncan Hines mixes are involved. This pertains only to product sold in Canada, and only people with soy allergies are affected.
+There are 12,000 packages of Duncan Hines White Cake mix being recalled because they contain a different flavour of cake mix. As a result, there is undeclared Soy in the mix which may cause serious or life-threatening reactions in persons with Soy allergies. No illnesses have been reported to date as a result of this situation.
+Duncan Hines is distributed by Procter & Gamble through national food retail stores in Canada. Retailers have been notified and any affected product is being removed from store shelves. The Canadian Food Inspection Agency has been notified. No products outside of Canada are involved.
+Consumers who have purchased the White Cake product of this specific code can return it to the store from which it was purchased for a full refund, or may dispose of the product and call 1-800-346-4678 for a refund.
+The line of Duncan Hines products has recently been purchased by Aurora Foods, from Procter & Gamble, and P&G continues to distribute Duncan Hines in Canada during the transition.
+End of Company Transmission
+- 30 -
+Canadian Food Inspection Agency Gisèle Aucoin Food Division Nepean, Ontario Telephone (613) 225-2342, ext. 4395 Cellular (613) 290-0153
+The following information was transmitted to the news media today, March 26, 1998, by Aurora Foods of Columbus Ohio in conjunction with Procter & Gamble of Toronto.
+FOR IMMEDIATE RELEASE
+ALLERGY ALERT - UNDECLARED SOY PROTEIN AND SOY LECITHIN IN DUNCAN HINES WHITE CAKE MIX
+Media Inquiries: Mary L. Murtha (416) 730-4705
+Toronto, March 26, 1998 - Aurora Foods of Columbus Ohio in conjunction with Procter & Gamble of Toronto are warning people with Soybean allergies not to consume Duncan Hines White cake mix (lot code 8028E2, embossed on the top flap of the package, UPC 56100 10710)because the product label does not list ""Soy protein and soy lecithin"" as ingredients. No other Duncan Hines mixes are involved. This pertains only to product sold in Canada, and only people with soy allergies are affected.
+There are 12,000 packages of Duncan Hines White Cake mix being recalled because they contain a different flavour of cake mix. As a result, there is undeclared Soy in the mix which may cause serious or life-threatening reactions in persons with Soy allergies. No illnesses have been reported to date as a result of this situation.
+Duncan Hines is distributed by Procter & Gamble through national food retail stores in Canada. Retailers have been notified and any affected product is being removed from store shelves. The Canadian Food Inspection Agency has been notified. No products outside of Canada are involved.
+Consumers who have purchased the White Cake product of this specific code can return it to the store from which it was purchased for a full refund, or may dispose of the product and call 1-800-346-4678 for a refund.
+The line of Duncan Hines products has recently been purchased by Aurora Foods, from Procter & Gamble, and P&G continues to distribute Duncan Hines in Canada during the transition.
+End of Company Transmission
+- 30 -
+Canadian Food Inspection Agency Gisèle Aucoin Food Division Nepean, Ontario Telephone (613) 225-2342, ext. 4395 Cellular (613) 290-0153
+FOR IMMEDIATE RELEASE
+ALLERGY ALERT - UNDECLARED SOY PROTEIN AND SOY LECITHIN IN DUNCAN HINES WHITE CAKE MIX
+Media Inquiries: Mary L. Murtha (416) 730-4705
+Toronto, March 26, 1998 - Aurora Foods of Columbus Ohio in conjunction with Procter & Gamble of Toronto are warning people with Soybean allergies not to consume Duncan Hines White cake mix (lot code 8028E2, embossed on the top flap of the package, UPC 56100 10710)because the product label does not list ""Soy protein and soy lecithin"" as ingredients. No other Duncan Hines mixes are involved. This pertains only to product sold in Canada, and only people with soy allergies are affected.
+There are 12,000 packages of Duncan Hines White Cake mix being recalled because they contain a different flavour of cake mix. As a result, there is undeclared Soy in the mix which may cause serious or life-threatening reactions in persons with Soy allergies. No illnesses have been reported to date as a result of this situation.
+Duncan Hines is distributed by Procter & Gamble through national food retail stores in Canada. Retailers have been notified and any affected product is being removed from store shelves. The Canadian Food Inspection Agency has been notified. No products outside of Canada are involved.
+Consumers who have purchased the White Cake product of this specific code can return it to the store from which it was purchased for a full refund, or may dispose of the product and call 1-800-346-4678 for a refund.
+The line of Duncan Hines products has recently been purchased by Aurora Foods, from Procter & Gamble, and P&G continues to distribute Duncan Hines in Canada during the transition.
+End of Company Transmission
+- 30 -
+Canadian Food Inspection Agency Gisèle Aucoin Food Division Nepean, Ontario Telephone (613) 225-2342, ext. 4395 Cellular (613) 290-0153
+ALLERGY ALERT - UNDECLARED SOY PROTEIN AND SOY LECITHIN IN DUNCAN HINES WHITE CAKE MIX
+Media Inquiries: Mary L. Murtha (416) 730-4705
+Toronto, March 26, 1998 - Aurora Foods of Columbus Ohio in conjunction with Procter & Gamble of Toronto are warning people with Soybean allergies not to consume Duncan Hines White cake mix (lot code 8028E2, embossed on the top flap of the package, UPC 56100 10710)because the product label does not list ""Soy protein and soy lecithin"" as ingredients. No other Duncan Hines mixes are involved. This pertains only to product sold in Canada, and only people with soy allergies are affected.
+There are 12,000 packages of Duncan Hines White Cake mix being recalled because they contain a different flavour of cake mix. As a result, there is undeclared Soy in the mix which may cause serious or life-threatening reactions in persons with Soy allergies. No illnesses have been reported to date as a result of this situation.
+Duncan Hines is distributed by Procter & Gamble through national food retail stores in Canada. Retailers have been notified and any affected product is being removed from store shelves. The Canadian Food Inspection Agency has been notified. No products outside of Canada are involved.
+Consumers who have purchased the White Cake product of this specific code can return it to the store from which it was purchased for a full refund, or may dispose of the product and call 1-800-346-4678 for a refund.
+The line of Duncan Hines products has recently been purchased by Aurora Foods, from Procter & Gamble, and P&G continues to distribute Duncan Hines in Canada during the transition.
+End of Company Transmission
+- 30 -
+Canadian Food Inspection Agency Gisèle Aucoin Food Division Nepean, Ontario Telephone (613) 225-2342, ext. 4395 Cellular (613) 290-0153
+Media Inquiries: Mary L. Murtha (416) 730-4705
+Toronto, March 26, 1998 - Aurora Foods of Columbus Ohio in conjunction with Procter & Gamble of Toronto are warning people with Soybean allergies not to consume Duncan Hines White cake mix (lot code 8028E2, embossed on the top flap of the package, UPC 56100 10710)because the product label does not list ""Soy protein and soy lecithin"" as ingredients. No other Duncan Hines mixes are involved. This pertains only to product sold in Canada, and only people with soy allergies are affected.
+There are 12,000 packages of Duncan Hines White Cake mix being recalled because they contain a different flavour of cake mix. As a result, there is undeclared Soy in the mix which may cause serious or life-threatening reactions in persons with Soy allergies. No illnesses have been reported to date as a result of this situation.
+Duncan Hines is distributed by Procter & Gamble through national food retail stores in Canada. Retailers have been notified and any affected product is being removed from store shelves. The Canadian Food Inspection Agency has been notified. No products outside of Canada are involved.
+Consumers who have purchased the White Cake product of this specific code can return it to the store from which it was purchased for a full refund, or may dispose of the product and call 1-800-346-4678 for a refund.
+The line of Duncan Hines products has recently been purchased by Aurora Foods, from Procter & Gamble, and P&G continues to distribute Duncan Hines in Canada during the transition.
+End of Company Transmission
+- 30 -
+Canadian Food Inspection Agency Gisèle Aucoin Food Division Nepean, Ontario Telephone (613) 225-2342, ext. 4395 Cellular (613) 290-0153
+Toronto, March 26, 1998 - Aurora Foods of Columbus Ohio in conjunction with Procter & Gamble of Toronto are warning people with Soybean allergies not to consume Duncan Hines White cake mix (lot code 8028E2, embossed on the top flap of the package, UPC 56100 10710)because the product label does not list ""Soy protein and soy lecithin"" as ingredients. No other Duncan Hines mixes are involved. This pertains only to product sold in Canada, and only people with soy allergies are affected.
+There are 12,000 packages of Duncan Hines White Cake mix being recalled because they contain a different flavour of cake mix. As a result, there is undeclared Soy in the mix which may cause serious or life-threatening reactions in persons with Soy allergies. No illnesses have been reported to date as a result of this situation.
+Duncan Hines is distributed by Procter & Gamble through national food retail stores in Canada. Retailers have been notified and any affected product is being removed from store shelves. The Canadian Food Inspection Agency has been notified. No products outside of Canada are involved.
+Consumers who have purchased the White Cake product of this specific code can return it to the store from which it was purchased for a full refund, or may dispose of the product and call 1-800-346-4678 for a refund.
+The line of Duncan Hines products has recently been purchased by Aurora Foods, from Procter & Gamble, and P&G continues to distribute Duncan Hines in Canada during the transition.
+End of Company Transmission
+- 30 -
+Canadian Food Inspection Agency Gisèle Aucoin Food Division Nepean, Ontario Telephone (613) 225-2342, ext. 4395 Cellular (613) 290-0153
+There are 12,000 packages of Duncan Hines White Cake mix being recalled because they contain a different flavour of cake mix. As a result, there is undeclared Soy in the mix which may cause serious or life-threatening reactions in persons with Soy allergies. No illnesses have been reported to date as a result of this situation.
+Duncan Hines is distributed by Procter & Gamble through national food retail stores in Canada. Retailers have been notified and any affected product is being removed from store shelves. The Canadian Food Inspection Agency has been notified. No products outside of Canada are involved.
+Consumers who have purchased the White Cake product of this specific code can return it to the store from which it was purchased for a full refund, or may dispose of the product and call 1-800-346-4678 for a refund.
+The line of Duncan Hines products has recently been purchased by Aurora Foods, from Procter & Gamble, and P&G continues to distribute Duncan Hines in Canada during the transition.
+End of Company Transmission
+- 30 -
+Canadian Food Inspection Agency Gisèle Aucoin Food Division Nepean, Ontario Telephone (613) 225-2342, ext. 4395 Cellular (613) 290-0153
+Duncan Hines is distributed by Procter & Gamble through national food retail stores in Canada. Retailers have been notified and any affected product is being removed from store shelves. The Canadian Food Inspection Agency has been notified. No products outside of Canada are involved.
+Consumers who have purchased the White Cake product of this specific code can return it to the store from which it was purchased for a full refund, or may dispose of the product and call 1-800-346-4678 for a refund.
+The line of Duncan Hines products has recently been purchased by Aurora Foods, from Procter & Gamble, and P&G continues to distribute Duncan Hines in Canada during the transition.
+End of Company Transmission
+- 30 -
+Canadian Food Inspection Agency Gisèle Aucoin Food Division Nepean, Ontario Telephone (613) 225-2342, ext. 4395 Cellular (613) 290-0153
+Consumers who have purchased the White Cake product of this specific code can return it to the store from which it was purchased for a full refund, or may dispose of the product and call 1-800-346-4678 for a refund.
+The line of Duncan Hines products has recently been purchased by Aurora Foods, from Procter & Gamble, and P&G continues to distribute Duncan Hines in Canada during the transition.
+End of Company Transmission
+- 30 -
+Canadian Food Inspection Agency Gisèle Aucoin Food Division Nepean, Ontario Telephone (613) 225-2342, ext. 4395 Cellular (613) 290-0153
+The line of Duncan Hines products has recently been purchased by Aurora Foods, from Procter & Gamble, and P&G continues to distribute Duncan Hines in Canada during the transition.
+End of Company Transmission
+- 30 -
+Canadian Food Inspection Agency Gisèle Aucoin Food Division Nepean, Ontario Telephone (613) 225-2342, ext. 4395 Cellular (613) 290-0153
+End of Company Transmission
+- 30 -
+Canadian Food Inspection Agency Gisèle Aucoin Food Division Nepean, Ontario Telephone (613) 225-2342, ext. 4395 Cellular (613) 290-0153
+- 30 -
+Canadian Food Inspection Agency Gisèle Aucoin Food Division Nepean, Ontario Telephone (613) 225-2342, ext. 4395 Cellular (613) 290-0153
+Canadian Food Inspection Agency Gisèle Aucoin Food Division Nepean, Ontario Telephone (613) 225-2342, ext. 4395 Cellular (613) 290-0153","1. Allergy
+2. Hazard
+3. Soy
+4. Lecithin
+5. Duncan Hines
+6. White cake mix
+
+Terms related to food:
+1. Allergy
+2. Hazard
+3. Soy
+4. Lecithin
+5. Duncan Hines
+6. White cake mix
+
+Terms related to food safety:
+1. Hazard
+2. Lecithin
+3. Soy
+
+Terms related to food-related hazards:
+1.",allergens,cereals and bakery products,soybeans and products thereof,cakes
+1998,4,6,us,Recall Notification: FSIS-017-98,"Case Number: 017-98  Recall Notification Report:   
+            RNR017-98
+    
+            Date Opened: 06/04/1998   
+            Date Closed: 03/02/1999 
+    
+            Recall Class:  1   
+            Press Release (Y/N):   
+            Y
+    
+            Domestic Est. Number:  18854  M   
+              Name:  Shahbaz Meat Products
+    
+            Imported Product (Y/N):  N       
+            Foreign Estab. Number:  N/A
+    
+            City:  Sun Valley    
+            State:  CA   
+            Country:  USA
+    
+            Product:  Dry Sausage
+    
+            Problem:  BACTERIA   
+            Description: LISTERIA
+    
+            Total Pounds Recalled:  272   
+            Pounds Recovered:  238","food, recall, notification, hazard, safety, inspection, inspectional, inspection, inspectional safety, inspectional safety measures.
+
+Hazard-related terms:
+- Hazard
+- Safety
+- Inspection
+
+Food-related terms:
+- Food
+- Recall
+- Inspection
+- Inspectional
+- Inspectional safety
+
+Combining the two lists:
+
+- Food
+- Recall
+- Hazard
+- Inspection
+- Inspectional
+- Inspectional safety
+- Inspectional safety measures
+- Safety
+- Inspection",biological,"meat, egg and dairy products",listeria monocytogenes,dry sausage
+1998,4,17,au,Allfect Ltd—Ghost Drop Lollies,PRA No. 1998/3522 Date published 17 Apr 1998 Product description 4.5gm What are the defects? Possibility Product May Contain Metal Shavings What are the hazards? Contamination What should consumers do? Customers To Return Product To Suppliers Supplier Allfect Ltd Coordinating agency Food Standards Australia New Zealand is the coordinating agency for this recall. Product category Confectionery × Close,"Ghost, Drop, Lollies
+
+Hazard-related terms: Ghost, Drop
+
+Food-related terms: Lollies
+
+Extracting the relevant terms from the title:
+
+* Ghost
+* Drop
+* Lollies
+
+These terms relate to food and a company called Allfect Ltd, suggesting that the company may be involved in the production or sale of lollies.",foreign bodies,confectionery,metal fragment,candies
+1998,5,11,us,Recall Notification: FSIS-037-98,"Case Number: 037-98  Recall Notification Report:   
+            RNR037-98
+    
+            Date Opened: 11/05/1998   
+            Date Closed: 04/21/1999 
+    
+            Recall Class:  1   
+            Press Release (Y/N):   
+            y
+    
+            Domestic Est. Number:  00245C M   
+              Name:  IBP Inc.
+    
+            Imported Product (Y/N):  N       
+            Foreign Estab. Number:  N/A
+    
+            City:  Dakota City    
+            State:  NE   
+            Country:  USA
+    
+            Product:  Coarse and fine ground beef
+    
+            Problem:  BACTERIA   
+            Description: E. COLI O157:H7
+    
+            Total Pounds Recalled:  556,226   
+            Pounds Recovered:  171,595","- Hazard
+- Food
+- Recall
+- Notice
+- Food Safety Inspection
+
+Hazard-related terms:
+- Food Safety Inspection
+
+Note: The term 'Food Safety Inspection' is related to food safety and is a hazard-related term. 
+
+- Hazard
+- Food
+- Recall
+- Notice
+- Food Safety Inspection
+- Safety 
+
+Hazard-related terms:
+- Food Safety Inspection
+- Safety 
+
+Note: The terms 'Food Safety Inspection' and 'Safety' are related to food",biological,"meat, egg and dairy products",escherichia coli,ground beef
+1998,6,7,us,Recall Notification: FSIS-020-98,"Case Number: 020-98  Recall Notification Report:   
+            RNR020-98
+    
+            Date Opened: 07/06/1998   
+            Date Closed: 09/11/1998 
+    
+            Recall Class:  1   
+            Press Release (Y/N):  N
+    
+            Domestic Est. Number:  04705  M   
+              Name:  Purdy & Sons
+    
+            Imported Product (Y/N):  N       
+            Foreign Estab. Number:  N/A
+    
+            City:  Sherburne    
+            State:  NY   
+            Country:  USA
+    
+            Product:  Ground Beef
+    
+            Problem:  BACTERIA   
+            Description: E. COLI O157:H7
+    
+            Total Pounds Recalled:  220   
+            Pounds Recovered:  20","Food Safety and Inspection Service, Hazard, Recall, Notification, FSIS, Food Safety Inspection Service, 1998
+
+Hazard-related terms: 
+Food Safety Inspection Service, Hazard, Recall, Notification, FSIS, Food Safety Inspection Service, 1998, 1998
+
+Food Safety and Inspection Service
+
+Note: The term 'FSIS' is used twice in the title, which is unusual and could be interpreted as a mistake. However, it is likely a typo and the intended",biological,"meat, egg and dairy products",escherichia coli,ground beef
+1998,6,10,au,Alba Gelati,PRA No. 1998/3555 Date published 10 Jun 1998 Product description All Flavours & Use By Dates. Identifying features N/A What are the defects? Possible Salmonella Contamination. What are the hazards? Contamination What should consumers do? Discard Product Or Return To Alba Gelati. For Further Information Tel.: 08 8337 9933. Supplier Alba Gelati Pty Ltd Coordinating agency Food Standards Australia New Zealand is the coordinating agency for this recall. Product category Chilled and frozen × Close,"Gelati, Alba, Hazards, Food, Risks
+
+Extracted Hazard: Gelati
+
+Extracted Food-related term: Gelati
+
+The term 'Alba' is also related to food, as Alba Gelati is a type of gelato.",biological,ices and desserts,salmonella,ice cream
+1998,6,29,au,Franklins Limited—Frozen Chicken Nuggets,"PRA No. 1998/3575 Date published 29 Jun 1998 Product description No Frills - All Use By Dates - 500g Packets. Distributed Through Franklins No Frills, Big Fresh And Fresh Stores. What are the defects? Labelling Issue - Confusion Regarding Cooking Instructions As This Product Is Not A Pre-cooked Product And Must Be Cooked According To The Packet. What are the hazards? Labelling What should consumers do? Either Follow The Cooking Instructions Provided Or Return To The Nearest Franklins Store For A Full Refund. Supplier Franklins Limited Where the product was sold Nationally Coordinating agency Food Standards Australia New Zealand is the coordinating agency for this recall. Product category Chilled and frozen × Close","Frozen, Chicken, Nuggets, Hazard, Risk, Food, Safety, Labeling, Ingredients, Allergen, Cross-contamination, Cooking, Temperature.
+
+Extracted terms: 
+
+* Frozen
+* Chicken
+* Nuggets
+* Hazard
+* Risk
+* Food
+* Safety
+* Labeling
+* Ingredients
+* Allergen
+* Cross-contamination
+* Cooking
+* Temperature 
+
+These terms relate to food and safety, and are likely to be relevant to the food industry, including",fraud,"meat, egg and dairy products",incorrect labeling,chicken based products
+1998,8,5,au,Franklins Ltd—Big Fresh & Franklins Fresh Labelled Cakes,"PRA No. 1998/3613 Date published 5 Aug 1998 Product description Cakes - Apple Crunch, Blueberry & Apple Crunch, Apricot Crunch , & Sticky Date Pudding. All Use By Dates (short Life Product). 250gm. What are the defects? An Ingredient (non Fat Milk Solids) Was Omitted From The Label. What are the hazards? Labelling What should consumers do? Customers Who Are Allergic To Non Fat Milk Solids Are Advised Not To Consume The Product But Return To Franklins For A Full Refund. Further Enquiries Phone 1800 621 111. Supplier Franklins Ltd Where the product was sold Nationally Coordinating agency Food Standards Australia New Zealand is the coordinating agency for this recall. Product category Confectionery × Close","- Fresh
+- Labelled
+- Cakes
+- Hazard
+
+Note: The term 'Franklins' is likely a brand name, and 'Big Fresh' and 'Franklins Fresh' are likely labels or packaging names.
+
+Extracted terms:
+
+- Fresh
+- Labelled
+- Hazard
+- Big Fresh
+- Franklins
+- Cakes
+- Franklins Fresh",allergens,cereals and bakery products,milk and products thereof,cakes
+1998,8,10,au,Tarac Australia—Beenleigh Dark Rum,PRA No. 1998/3617 Date published 10 Aug 1998 Product description 700ml Glass Bottle. Distributed By AIW Who Supply Safeway And Woolworths. Identifying features Bottle Code - 19698-86. Carton Code - 15-7-98. What are the defects? May Be Contaminated With Glass Fragments. What are the hazards? Contamination What should consumers do? Return To Place Of Purchase For A Full Refund Either In Cash Or Replacement Product. Any Queries Phone The Corporate Affairs Manager On 08 8562 1522. Supplier Tarac Australia Pty Ltd Where the product was sold Nationally Coordinating agency Food Standards Australia New Zealand is the coordinating agency for this recall. Product category Drinks × Close,"Australia, Dark Rum, Beenleigh
+
+Extract the following hazard-related terms: 
+
+* Risk
+* Hazard
+* Danger
+* Risk management
+* Hazard control
+
+Extract the following food-related terms: 
+
+* Rum
+* Dark
+
+Note: Some of these terms may have broader meanings or connotations, but in the context of this exercise, they are being used to identify terms that are related to the specific theme of ""food-related"" and ""hazard-related"" terms. 
+
+Additional terms that",foreign bodies,alcoholic beverages,glass fragment,rum
+1998,10,22,us,Recall Notification: FSIS-035-98,"Case Number: 035-98  Recall Notification Report:   
+            RNR035-98
+    
+            Date Opened: 10/22/1998   
+            Date Closed: 07/07/1999 
+    
+            Recall Class:  1   
+            Press Release (Y/N):   
+            Y
+    
+            Domestic Est. Number:  06655  P   
+              Name:  Dixie Packers
+    
+            Imported Product (Y/N):  N       
+            Foreign Estab. Number:  N/A
+    
+            City:  Madison    
+            State:  FL   
+            Country:  USA
+    
+            Product:  Frankfurters
+    
+            Problem:  BACTERIA   
+            Description: LISTERIA
+    
+            Total Pounds Recalled:  1,734,002   
+            Pounds Recovered:  540,883","* Hazard
+* Recall
+* Food safety
+* Food products
+* Inspection
+* FSIS
+* Food safety inspection
+* Product safety
+
+Hazard-related terms: 
+
+* Recall
+* Hazard
+* Inspection
+
+Food-related terms: 
+
+* Food safety
+* Food products
+* Food inspection
+* Food safety inspection
+* Food safety
+
+The following terms were not included in the list: 
+
+* FSIS (Food Safety Inspection Service)
+* FSIS-035-98",biological,"meat, egg and dairy products",listeria monocytogenes,thermal processed pork meat
+1998,11,27,ca,Archive - PRODUCT ALERT - POSSIBLE BOTULISM TOXIN IN ULIVETO DEL SAPORE BRAND GIANT OLIVES TUSCAN STYLE,"OTTAWA, November 27, 1998 -- The Canadian Food Inspection Agency (CFIA) is warning consumers not to eat Black Olives in Brine, packed in 4250 ml cans and identified as ""Bella Di Cerignola - olive in salamoia - Drupa Originale Cerignola"". The olives are packed by Bio Conserve srl, Italy.
+The Agency is also warning consumers not to eat Livia Brand Pickled Vegetables in Oil, sold in 500 ml jars, UPC 5621100010, manufactured by Livabec Foods Inc., Sherrington, Quebec.
+Livabec Foods, Inc. is recalling these products from the market place because neither the olives nor the pickled vegetables were processed in a manner sufficient to prevent Clostridium botulinum growth and toxin formation. Ingestion of C. botulinum toxin could lead to severe illness.
+To date, no botulism illnesses have been reported in association with these products.
+Both products were distributed in the Montreal area. Any unused product should be returned to the point of purchase or be destroyed.
+For information please contact Mr. Cimaglia, Livabec Foods Inc. at (450) 454-6214.
+This archive of previously issued food recalls and allergy alerts is provided for reference and research purposes.
+Users should note that the products listed in the archive have been subject to removal from the marketplace or appropriate corrective action. Food recalls or allergy alerts are not an indication of the food safety status of products produced at a later date.
+OTTAWA, November 27, 1998 -- The Canadian Food Inspection Agency (CFIA) is warning consumers not to eat Black Olives in Brine, packed in 4250 ml cans and identified as ""Bella Di Cerignola - olive in salamoia - Drupa Originale Cerignola"". The olives are packed by Bio Conserve srl, Italy.
+The Agency is also warning consumers not to eat Livia Brand Pickled Vegetables in Oil, sold in 500 ml jars, UPC 5621100010, manufactured by Livabec Foods Inc., Sherrington, Quebec.
+Livabec Foods, Inc. is recalling these products from the market place because neither the olives nor the pickled vegetables were processed in a manner sufficient to prevent Clostridium botulinum growth and toxin formation. Ingestion of C. botulinum toxin could lead to severe illness.
+To date, no botulism illnesses have been reported in association with these products.
+Both products were distributed in the Montreal area. Any unused product should be returned to the point of purchase or be destroyed.
+For information please contact Mr. Cimaglia, Livabec Foods Inc. at (450) 454-6214.
+Users should note that the products listed in the archive have been subject to removal from the marketplace or appropriate corrective action. Food recalls or allergy alerts are not an indication of the food safety status of products produced at a later date.
+OTTAWA, November 27, 1998 -- The Canadian Food Inspection Agency (CFIA) is warning consumers not to eat Black Olives in Brine, packed in 4250 ml cans and identified as ""Bella Di Cerignola - olive in salamoia - Drupa Originale Cerignola"". The olives are packed by Bio Conserve srl, Italy.
+The Agency is also warning consumers not to eat Livia Brand Pickled Vegetables in Oil, sold in 500 ml jars, UPC 5621100010, manufactured by Livabec Foods Inc., Sherrington, Quebec.
+Livabec Foods, Inc. is recalling these products from the market place because neither the olives nor the pickled vegetables were processed in a manner sufficient to prevent Clostridium botulinum growth and toxin formation. Ingestion of C. botulinum toxin could lead to severe illness.
+To date, no botulism illnesses have been reported in association with these products.
+Both products were distributed in the Montreal area. Any unused product should be returned to the point of purchase or be destroyed.
+For information please contact Mr. Cimaglia, Livabec Foods Inc. at (450) 454-6214.
+OTTAWA, November 27, 1998 -- The Canadian Food Inspection Agency (CFIA) is warning consumers not to eat Black Olives in Brine, packed in 4250 ml cans and identified as ""Bella Di Cerignola - olive in salamoia - Drupa Originale Cerignola"". The olives are packed by Bio Conserve srl, Italy.
+The Agency is also warning consumers not to eat Livia Brand Pickled Vegetables in Oil, sold in 500 ml jars, UPC 5621100010, manufactured by Livabec Foods Inc., Sherrington, Quebec.
+Livabec Foods, Inc. is recalling these products from the market place because neither the olives nor the pickled vegetables were processed in a manner sufficient to prevent Clostridium botulinum growth and toxin formation. Ingestion of C. botulinum toxin could lead to severe illness.
+To date, no botulism illnesses have been reported in association with these products.
+Both products were distributed in the Montreal area. Any unused product should be returned to the point of purchase or be destroyed.
+For information please contact Mr. Cimaglia, Livabec Foods Inc. at (450) 454-6214.
+The Agency is also warning consumers not to eat Livia Brand Pickled Vegetables in Oil, sold in 500 ml jars, UPC 5621100010, manufactured by Livabec Foods Inc., Sherrington, Quebec.
+Livabec Foods, Inc. is recalling these products from the market place because neither the olives nor the pickled vegetables were processed in a manner sufficient to prevent Clostridium botulinum growth and toxin formation. Ingestion of C. botulinum toxin could lead to severe illness.
+To date, no botulism illnesses have been reported in association with these products.
+Both products were distributed in the Montreal area. Any unused product should be returned to the point of purchase or be destroyed.
+For information please contact Mr. Cimaglia, Livabec Foods Inc. at (450) 454-6214.
+Livabec Foods, Inc. is recalling these products from the market place because neither the olives nor the pickled vegetables were processed in a manner sufficient to prevent Clostridium botulinum growth and toxin formation. Ingestion of C. botulinum toxin could lead to severe illness.
+To date, no botulism illnesses have been reported in association with these products.
+Both products were distributed in the Montreal area. Any unused product should be returned to the point of purchase or be destroyed.
+For information please contact Mr. Cimaglia, Livabec Foods Inc. at (450) 454-6214.
+To date, no botulism illnesses have been reported in association with these products.
+Both products were distributed in the Montreal area. Any unused product should be returned to the point of purchase or be destroyed.
+For information please contact Mr. Cimaglia, Livabec Foods Inc. at (450) 454-6214.
+Both products were distributed in the Montreal area. Any unused product should be returned to the point of purchase or be destroyed.
+For information please contact Mr. Cimaglia, Livabec Foods Inc. at (450) 454-6214.
+For information please contact Mr. Cimaglia, Livabec Foods Inc. at (450) 454-6214.
+CFIA contact:
+Marie-Sylvie Trotttier Canadian Food Inspection Agency, Montreal ( (514) 283-3815, ext. 340 Pager: (514) 946-5312
+Food Safety Facts on Botulism (Clostridium Botulinum)
+Marie-Sylvie Trotttier Canadian Food Inspection Agency, Montreal ( (514) 283-3815, ext. 340 Pager: (514) 946-5312
+Food Safety Facts on Botulism (Clostridium Botulinum)
+Food Safety Facts on Botulism (Clostridium Botulinum)","Botulism toxin, Uliveto, Giant olives, Tuscan style
+
+Hazard-related terms: Toxic, Poisonous, Uliveto, Giant olives, Tuscan style, Botulism toxin, Hazardous substance, Food contamination, Food safety, Product alert
+
+Food-related terms: Uliveto, Giant olives, Tuscan style, Olive oil, Olive oil production, Food product, Food safety, Food hazard, Food contamination, Food adulteration, Food labeling,",biological,fruits and vegetables,clostridium botulinum,olives
+1998,12,8,us,Recall Notification: FSIS-023-98,"Case Number: 023-98  Recall Notification Report:   
+            RNR023-98
+    
+            Date Opened: 08/12/1998   
+            Date Closed: 12/08/1998 
+    
+            Recall Class:  I   
+            Press Release (Y/N):   
+            Y
+    
+            Domestic Est. Number:  07429  M   
+              Name:  Hampton Meat Processig Co.
+    
+            Imported Product (Y/N):  N       
+            Foreign Estab. Number:  N/A
+    
+            City:  Hopkinsville    
+            State:  KY   
+            Country:  USA
+    
+            Product:  Ground Beef
+    
+            Problem:  BACTERIA   
+            Description: E. COLI O157:H7
+    
+            Total Pounds Recalled:  260   
+            Pounds Recovered:  344","Hazard, Recall, Notification, FSIS, Food Safety, Hazardous Substances, FSIS-023-98.
+
+Extraction:
+
+* Hazard
+* Recall
+* Notification
+* FSIS
+* Food Safety
+* Hazardous Substances
+* FSIS-023-98
+
+This title is from the FSIS (Food Safety and Inspection Service) and contains terms related to food safety and inspection. The specific term that stands out is 'Hazardous Substances', which is a term",biological,"meat, egg and dairy products",escherichia coli,ground beef
+1998,12,11,au,Woolworths Limited—Home Brand—Assorted Biscuits,PRA No. 1998/3749 Date published 11 Dec 1998 Product description Home Brand Family Assorted Biscuits 500g - Ubd 8 Apr 99; Home Brand Choc Chip Cookie 375g - Ubd 9 Apr 99 & 19 Apr 99; Home Brand Milk Arrowroot 250g - Ubd 8 Apr 99; Home Brand Milk Coffee 250g - Ubd 7 Apr 99. What are the defects? Chemical Contamination During Transportation. What are the hazards? Contamination What should consumers do? Return Product To Place Of Purchase For Refund. Supplier Woolworths Ltd Where the product was sold Nationally Coordinating agency Food Standards Australia New Zealand is the coordinating agency for this recall. Product category Groceries × Close,"- Biscuits
+- Woolworths Limited
+- Hazard
+- Home Brand
+
+Extracted terms: 
+- Biscuits
+- Woolworths Limited
+- Hazard
+- Home Brand
+- Assorted (Note: this term is not typically associated with food, but could be related to a food product or brand. However, the context suggests that it may be a generic term for a product line or category, which could be food-related.)",chemical,cereals and bakery products,other not classified chemical hazards,biscuits
+1999,1,15,au,Liquorland—Scotch Whisky—Hankey Bannister,"PRA No. 1999/3780 Date published 15 Jan 1999 Product description All Batches Purchased Since 1 October 1998 To The Present. Glass Bottle. 700ml. Country Of Origin: Scotland. Distributed Through Liquorland, Vintage Cellars, Quaffers Liquor Markets, Farmer Bros & Local Hero. What are the defects? Glass Fragment Contamination. What are the hazards? Contamination. What should consumers do? Return To Store Where Purchased For A Full Refund. Customer Enquiries Phone 1800 001 452. Supplier Liquorland (aust.) Pty Ltd Where the product was sold Nationally Coordinating agency Food Standards Australia New Zealand is the coordinating agency for this recall. Product category Drinks × Close","liquor, whisky, Hankey Bannister, hazard, scotch
+
+Notes:
+* Liquorland is a whisky brand.
+* Scotch whisky is a type of whisky made from malted barley.
+* Hankey Bannister is a company that produces and distributes whisky.
+
+Hazard-related terms: none
+
+Food-related terms: none
+
+Combined list:
+* liquor
+* whisky
+* Hankey Bannister",foreign bodies,alcoholic beverages,glass fragment,whisky
+1999,1,19,au,Coles Myer Supermarkets—Value Bag Choc Sultanas,PRA No. 1999/3785 Date published 19 Jan 1999 Product description Brand Name: Savings. Best Before - 4 August 1999 400gm Bag. Sold At Coles & Bi-lo Stores In Victoria . What are the defects? Possibility That Packages May Contain Peanuts. What are the hazards? Adverse Reaction. What should consumers do? Return To Local Store For A Full Refund. For Further Information Contact Customer Information Line On 1800 061 562 Supplier Coles Myer Supermarkets Where the product was sold Victoria Coordinating agency Food Standards Australia New Zealand is the coordinating agency for this recall. Product category Confectionery × Close,"value, bag, choc, sultanas, supermarkets, hazard, risk
+
+Extracted terms: value, hazard, risk
+
+The extracted terms 'value' and 'hazard' and 'risk' are related to food-related hazards. 'Value' refers to the quality of the product, while 'hazard' and 'risk' refer to the potential danger of consuming the product. 
+
+The extracted term 'choc' refers to chocolate, which is a type of food. 'S",allergens,confectionery,peanuts and products thereof,milk chocolate covered raisins
+1999,2,19,au,Blue Lotus Foods—Tofu Cutlets,"PRA No. 1999/3826 Date published 19 Feb 1999 Product description 240g. All Batches With Best Before Dates Between 12 March 1999 Up To And Including 14 April 1999. Identifying features N/A What are the defects? Bacterial Contamination - Higher Than Acceptable Levels Of Micro-organisms. What are the hazards? Contamination. What should consumers do? Return The Product To The Point Of Purchase For An Immediate Refund. Supplier Blue Lotus Foods Pty Ltd Coordinating agency Food Standards Australia New Zealand is the coordinating agency for this recall. Product category Meat, seafood and deli Groceries × Close","Blue Lotus, Foods, Tofu, Cutlets, Hazard, Food Safety, Food Handling, Foodborne Illness, Food Poisoning, Food Allergy.
+
+Extracted terms: Blue Lotus, Foods, Tofu, Cutlets, Hazard, Food Safety, Food Handling, Foodborne Illness, Food Poisoning, Food Allergy. 
+
+Note: The terms 'Blue Lotus', 'Tofu', 'Cutlets', and 'Food Allergy' are related to food-related terms",biological,other food product / mixed,other not classified biological hazards,tofu
+1999,2,24,au,Kooka's Country Cookies—Choc Coated Assorted,"PRA No. 1999/3835 Date published 24 Feb 1999 Product description Only The Choc Coated Assorted. All Use By Dates Prior To And Including 24 September 99. 3 Biscuits Per Pkt. 500g. Sold Through Coles, Bi-lo And General Outlets. What are the defects? Contains A Small Amount Of Peanuts The Presence Of Which Is Not Indicated On The Label And Represents A Risk To A Small Proportion Of The Population Who Suffer Allergic Reactions To Peanuts. What are the hazards? Adverse Reaction What should consumers do? Return Product To The Place Of Purchase For A Full Refund. For Further Information Contact Kooka's Country Cookies On (03) 5497 1763 Supplier Kooka's Country Cookies Where the product was sold Nationally Coordinating agency Food Standards Australia New Zealand is the coordinating agency for this recall. Product category Groceries × Close","- Hazard
+- Cookie
+- Choc",allergens,cereals and bakery products,peanuts and products thereof,cookies
+1999,3,12,au,"Jalong Goat Dairy—Frozen Goat Milk, Soft Cheese & Fetta",PRA No. 1999/3862 Date published 12 Mar 1999 Product description All Use-by Dates. All Product Sizes. Identifying features N/A What are the defects? Unacceptable Levels Of Micro-organisms. What are the hazards? Contamination What should consumers do? Return To Place Of Purchase For A Full Refund. Supplier Jalong Goat Dairy Where the product was sold Western Australia Coordinating agency Food Standards Australia New Zealand is the coordinating agency for this recall. Product category Eggs and dairy × Close,"- Goat
+- Dairy
+- Frozen
+- Milk
+- Soft cheese
+- Fetta
+- Hazard
+- Goat milk
+
+Hazards: 
+- Raw milk
+- Goat milk
+- Goat milk (Raw)
+
+Note: The title contains 6 terms related to food and 4 terms related to hazards.",biological,"meat, egg and dairy products",other not classified biological hazards,cheese
+1999,3,19,au,Coles Myer Supermarkets—Chocolate Sultanas 400gm,"PRA No. 1999/3870 Date published 19 Mar 1999 Product description All Batches. Savings Value Bag Choc Sultanas, Bi-lo Choc Sultanas And Value Bag Chocolate Coated Sultanas Purchased From Coles Supermarkets, Bi-lo, Newmart And Pick'n'pay Stores Nationally. What are the defects? Some Bags May Contain Peanuts Which Could Pose A Risk To People Allergic To Peanuts. What are the hazards? Adverse Reaction What should consumers do? Return To Place Of Purchase For A Full Refund. For Further Information Contact Customer Information Line On 1800 061 562. Supplier Coles Myer Supermarkets Where the product was sold Nationally Coordinating agency Food Standards Australia New Zealand is the coordinating agency for this recall. Product category Confectionery × Close","Supermarkets, Chocolate, Sultanas, Hazard
+
+Extracted terms:
+
+* Supermarkets
+* Chocolate
+* Sultanas
+* Hazard
+
+Note: Hazard is a term related to food safety and risk, rather than a type of food itself. The other two terms, Supermarkets and Chocolate, are clearly related to food products. Sultanas are a type of dried fruit, which is also a type of food.",allergens,confectionery,peanuts and products thereof,milk chocolate covered raisins
+1999,3,19,au,Kmart—Boxed Chocolates And Easter Chocolate Items,PRA No. 1999/3871 Date published 19 Mar 1999 Product description Purchased From Kmart Burwood Store In Victoria Between 18 January And 18 March 1999. What are the defects? May Have Picked Up A Taint While In Storage. What are the hazards? Contamination. What should consumers do? Return To Nearest Kmart Store For A Full Refund Or Exchange. For Further Information Contact The Kmart Customer Information Line On 1800 634 251. Supplier Kmart Australia Ltd Where the product was sold Victoria Coordinating agency Food Standards Australia New Zealand is the coordinating agency for this recall. Product category Confectionery × Close,"chocolates, boxed, hazards, Easter, chocolate items, kmart
+
+Note: The terms are extracted from the given title and are in the form of phrases. The extracted terms are not in any particular order.
+
+Food-related terms:
+1. chocolates
+2. Easter
+
+Hazard-related terms:
+1. hazards
+2. chocolate items
+3. boxed
+4. kmart",organoleptic aspects,"cocoa and cocoa preparations, coffee and tea",spoilage,chocolates
+1999,3,19,au,Uncle Tobys—Bluebird Dunkaroos Biscuits,"PRA No. 1999/3874 Date published 19 Mar 1999 Product description Strawberry And Choc Hazelnut. All Use By Dates Between 01.11.99 & 20.11.99 Inclusive. 135g. Distributed Nationally Through Davids, Franklins, Woolworths, Coles/myer And Their Associated Companies. What are the defects? May Contain Metal Fragments And Shavings Ranging In Size From 2 To 3mm. What are the hazards? Contamination What should consumers do? Return To Place Of Purchase For Refund. Supplier The Uncle Tobys Company Limited Where the product was sold Nationally Coordinating agency Food Standards Australia New Zealand is the coordinating agency for this recall. Product category Groceries × Close","- Bluebird
+- Dunkaroos
+- Biscuits
+- Hazards
+- Uncle Tobys
+- Food
+- Bluebird Dunkaroos Biscuits
+
+Extracted terms:
+- Bluebird
+- Dunkaroos
+- Biscuits
+- Hazards
+- Uncle Tobys
+- Food
+- Bluebird Dunkaroos Biscuits
+- Bluebird
+- Dunkaroos Biscuits
+- Hazards
+- Uncle Tobys Food
+-",foreign bodies,cereals and bakery products,metal fragment,biscuits
+1999,4,13,au,Haberfields—Country Fresh Thickened Cream,PRA No. 1999/3899 Date published 13 Apr 1999 Product description Haberfields Country Fresh Thickened Cream 300ml - Use By Date 28/4/99; And Ice Coffee 300ml - Use By Date 19/4/99 Identifying features N/A What are the defects? May Be Contaminated With Listeria Monocytogenes. What are the hazards? Contamination. What should consumers do? Return To Point Of Purchase For A Full Refund. Supplier Parmalat Foods Where the product was sold Nationally Coordinating agency Food Standards Australia New Zealand is the coordinating agency for this recall. Product category Eggs and dairy × Close,"- Country
+- Fresh
+- Thickened
+- Cream
+- Hazard
+
+Extraction:
+- Country: Haberfields
+- Fresh: 
+  - Fresh cream
+- Hazard:
+  - Hazard
+  - Thickened cream
+- Food-related:
+  - Cream
+  - Thickened cream
+- Other terms:
+  - Country: Haberfields
+  - Fresh: Fresh cream
+  - Hazard: Hazard
+  - Food-related: Fresh cream, Thickened cream",biological,"meat, egg and dairy products",listeria monocytogenes,other dairy products
+1999,5,6,au,Green's—Pastry Mix,PRA No. 1999/3930 Date published 6 May 1999 Product description 300g Packets. Best Before 27 August 99. Identifying features N/A What are the defects? May Contain Pieces Of Metal Wire 1-2cm Long And About 0.5mm Diameter. What are the hazards? Contamination. What should consumers do? Return To Retail Outlet For A Refund. For Further Enquiries Ring (02) 9830 9999. Supplier Greens General Foods Coordinating agency Food Standards Australia New Zealand is the coordinating agency for this recall. Product category Groceries × Close,"Green's Pastry Mix, Food-related, Hazard-related, Food safety, Bakery, Pastry, Mix, Bakery mix, Pastry mix, Safety, Hazards, Food handling, Storage, Storage conditions, Bakery equipment, Bakery products, Food processing, Food safety regulations, Bakery hazards, Food safety precautions, Food handling procedures, Bakery equipment maintenance, Food safety inspection, Food safety testing, Bakery products safety, Food processing hazards, Bakery products quality, Food safety inspection procedures, Bakery equipment inspection, Food",foreign bodies,prepared dishes and snacks,metal fragment,pastry
+1999,5,7,au,Coles—Eucalyptus & Honey Tea Recipe,"PRA No. 1999/3931 Date published 7 May 1999 Product description Available From All Coles Supermarkets And The Coles Website. The Recipe Is On The Back Page Of 'great Meal Ideas'. The Brochure Can Be Distinguished By 1st Anniversary Edition Logo On The Top Right Of The Front Page. What are the defects? The Recipe Contains Eucalyptus Oil As An Ingredient, Which Could Pose A Health Risk. What are the hazards? Injury. What should consumers do? Consumers Advised Not To Prepare This Recipe. For A Replacement Recipe Contact Bushells Tea On 1800 801 885. Recipes Will Also Be Available In Coles Supermarkets Within 6 Weeks. Supplier Coles Supermarkets Australia Py Ltd Where the product was sold Nationally Responsible regulator Australian Competition and Consumer Commission is the responsible regulator for this recall. Product category Groceries Drinks × Close","Coles, Eucalyptus, Honey, Tea, Hazard, Safety.
+
+Extracted terms:
+
+- Coles
+- Eucalyptus
+- Honey
+- Tea
+- Hazard
+- Safety
+
+Note: The term 'Hazard' was extracted because it refers to a potential risk or danger. The term 'Safety' was also extracted because it refers to the opposite of the term 'Hazard'.",fraud,"cocoa and cocoa preparations, coffee and tea",incorrect labeling,tea
+1999,6,15,au,Ricegrowers' Co-operative—Long Grain Jasmine Rice,PRA No. 1999/3982 Date published 15 Jun 1999 Product description Koala Brand. Best Before 22 March 2000. L5. Packaged On 22 March 1999 And Became Available Shortly After That Date Throughout Australia. What are the defects? May Contain Foreign Matter Including Gravel. What are the hazards? Contamination What should consumers do? Return To Place Of Purchase For A Full Refund. For Further Information Contact Ricegrowers' Co-operative Ltd On Freecall 1800 357555. Supplier Ricegrowers' Co-operative Limited Where the product was sold Nationally Coordinating agency Food Standards Australia New Zealand is the coordinating agency for this recall. Product category Groceries × Close,"- Ricegrowers
+- Co-operative
+- Long Grain Jasmine Rice
+- Hazard
+- Health
+
+**Extracted terms:**
+
+1. Ricegrowers
+2. Co-operative
+3. Long Grain Jasmine Rice
+4. Hazard
+5. Health
+
+Note: The extracted terms are not exhaustive and may not represent all the relevant terms in the original text.",foreign bodies,cereals and bakery products,stones,rice
+1999,6,25,ca,Eggs and products thereof in ice cream by Island Farms Dairy from Canada,"Newsroom > Food Recalls and Allergy Alerts > Archives 
+This archive of previously issued food recalls and allergy alerts is provided for reference and research purposes.
+Users should note that the products listed in the archive have been subject to removal from the marketplace or appropriate corrective action. Food recalls or allergy alerts are not an indication of the food safety status of products produced at a later date.
+The following information was transmitted to the news media today, June 25, 1999 by Island Farms Dairy, Victoria , B.C.
+VICTORIA, June 25, 1999 - Island Farms Dairy of Victoria, B.C. is warning consumers with egg yolk allergies not to consume Icy Bay Lemon Yukon Ice Cream sold in the 2L carton, with UPC code 0 57726 06675 9, because the product has been found to contain egg yolk which is not declared on the label.
+Island Farms Dairy is recalling 626 units of this product because the undeclared egg yolk in this flavour may cause a serious or life-threatening reaction in persons with egg yolk allergies.
+The 2L size of Icy Bay Lemon Yukon Ice Cream was distributed through all local grocers carrying Island Farms Dairy products across Vancouver Island and the B.C. Lower Mainland.
+No illnesses have been reported to date.
+Consumers should return this product to their local grocer or directly to Island Farms Dairy for a product credit.
+Consumers can contact Island Farms Dairy by calling (250) 360-5200.
+This archive of previously issued food recalls and allergy alerts is provided for reference and research purposes.
+Users should note that the products listed in the archive have been subject to removal from the marketplace or appropriate corrective action. Food recalls or allergy alerts are not an indication of the food safety status of products produced at a later date.
+The following information was transmitted to the news media today, June 25, 1999 by Island Farms Dairy, Victoria , B.C.
+VICTORIA, June 25, 1999 - Island Farms Dairy of Victoria, B.C. is warning consumers with egg yolk allergies not to consume Icy Bay Lemon Yukon Ice Cream sold in the 2L carton, with UPC code 0 57726 06675 9, because the product has been found to contain egg yolk which is not declared on the label.
+Island Farms Dairy is recalling 626 units of this product because the undeclared egg yolk in this flavour may cause a serious or life-threatening reaction in persons with egg yolk allergies.
+The 2L size of Icy Bay Lemon Yukon Ice Cream was distributed through all local grocers carrying Island Farms Dairy products across Vancouver Island and the B.C. Lower Mainland.
+No illnesses have been reported to date.
+Consumers should return this product to their local grocer or directly to Island Farms Dairy for a product credit.
+Consumers can contact Island Farms Dairy by calling (250) 360-5200.
+Users should note that the products listed in the archive have been subject to removal from the marketplace or appropriate corrective action. Food recalls or allergy alerts are not an indication of the food safety status of products produced at a later date.
+The following information was transmitted to the news media today, June 25, 1999 by Island Farms Dairy, Victoria , B.C.
+VICTORIA, June 25, 1999 - Island Farms Dairy of Victoria, B.C. is warning consumers with egg yolk allergies not to consume Icy Bay Lemon Yukon Ice Cream sold in the 2L carton, with UPC code 0 57726 06675 9, because the product has been found to contain egg yolk which is not declared on the label.
+Island Farms Dairy is recalling 626 units of this product because the undeclared egg yolk in this flavour may cause a serious or life-threatening reaction in persons with egg yolk allergies.
+The 2L size of Icy Bay Lemon Yukon Ice Cream was distributed through all local grocers carrying Island Farms Dairy products across Vancouver Island and the B.C. Lower Mainland.
+No illnesses have been reported to date.
+Consumers should return this product to their local grocer or directly to Island Farms Dairy for a product credit.
+Consumers can contact Island Farms Dairy by calling (250) 360-5200.
+The following information was transmitted to the news media today, June 25, 1999 by Island Farms Dairy, Victoria , B.C.
+VICTORIA, June 25, 1999 - Island Farms Dairy of Victoria, B.C. is warning consumers with egg yolk allergies not to consume Icy Bay Lemon Yukon Ice Cream sold in the 2L carton, with UPC code 0 57726 06675 9, because the product has been found to contain egg yolk which is not declared on the label.
+Island Farms Dairy is recalling 626 units of this product because the undeclared egg yolk in this flavour may cause a serious or life-threatening reaction in persons with egg yolk allergies.
+The 2L size of Icy Bay Lemon Yukon Ice Cream was distributed through all local grocers carrying Island Farms Dairy products across Vancouver Island and the B.C. Lower Mainland.
+No illnesses have been reported to date.
+Consumers should return this product to their local grocer or directly to Island Farms Dairy for a product credit.
+Consumers can contact Island Farms Dairy by calling (250) 360-5200.
+VICTORIA, June 25, 1999 - Island Farms Dairy of Victoria, B.C. is warning consumers with egg yolk allergies not to consume Icy Bay Lemon Yukon Ice Cream sold in the 2L carton, with UPC code 0 57726 06675 9, because the product has been found to contain egg yolk which is not declared on the label.
+Island Farms Dairy is recalling 626 units of this product because the undeclared egg yolk in this flavour may cause a serious or life-threatening reaction in persons with egg yolk allergies.
+The 2L size of Icy Bay Lemon Yukon Ice Cream was distributed through all local grocers carrying Island Farms Dairy products across Vancouver Island and the B.C. Lower Mainland.
+No illnesses have been reported to date.
+Consumers should return this product to their local grocer or directly to Island Farms Dairy for a product credit.
+Consumers can contact Island Farms Dairy by calling (250) 360-5200.
+Island Farms Dairy is recalling 626 units of this product because the undeclared egg yolk in this flavour may cause a serious or life-threatening reaction in persons with egg yolk allergies.
+The 2L size of Icy Bay Lemon Yukon Ice Cream was distributed through all local grocers carrying Island Farms Dairy products across Vancouver Island and the B.C. Lower Mainland.
+No illnesses have been reported to date.
+Consumers should return this product to their local grocer or directly to Island Farms Dairy for a product credit.
+Consumers can contact Island Farms Dairy by calling (250) 360-5200.
+The 2L size of Icy Bay Lemon Yukon Ice Cream was distributed through all local grocers carrying Island Farms Dairy products across Vancouver Island and the B.C. Lower Mainland.
+No illnesses have been reported to date.
+Consumers should return this product to their local grocer or directly to Island Farms Dairy for a product credit.
+Consumers can contact Island Farms Dairy by calling (250) 360-5200.
+No illnesses have been reported to date.
+Consumers should return this product to their local grocer or directly to Island Farms Dairy for a product credit.
+Consumers can contact Island Farms Dairy by calling (250) 360-5200.
+Consumers should return this product to their local grocer or directly to Island Farms Dairy for a product credit.
+Consumers can contact Island Farms Dairy by calling (250) 360-5200.
+Consumers can contact Island Farms Dairy by calling (250) 360-5200.
+For more information, media please contact:
+Bill Keck Island Farms Dairy 2220 Dowler Place Victoria, B.C. (250) 360-5200 - daytime (250) 652-5940 - after hours
+End of Company Transmission John Wakelin Canadian Food Inspection Agency Ottawa, ON (613) 225-2342 ext. 4722 (613) 794-1330
+Bill Keck Island Farms Dairy 2220 Dowler Place Victoria, B.C. (250) 360-5200 - daytime (250) 652-5940 - after hours
+End of Company Transmission John Wakelin Canadian Food Inspection Agency Ottawa, ON (613) 225-2342 ext. 4722 (613) 794-1330
+End of Company Transmission John Wakelin Canadian Food Inspection Agency Ottawa, ON (613) 225-2342 ext. 4722 (613) 794-1330","**
+
+1. Eggs
+2. Products
+3. Theofor
+4. Ice cream
+5. Hazard
+6. Dairy
+
+**Notes:**
+
+- The extracted terms are in the same order as they appear in the original title.
+- The terms are categorized as follows:
+  - Food-related terms: eggs, products, ice cream
+  - Hazard-related terms: hazard",allergens,ices and desserts,eggs and products thereof,ice cream
+1999,7,12,au,Nestle—Billabong chocolate ice cream 8 pack,PRA No. 1999/4005 Date published 12 Jul 1999 Product description Nestle Peters Brand. Marked Best Before 16 Feb 00 On End-flap Of Box. Multipack X 8. 660ml. Please Note This Recall Does Not Apply To Billabong Icecreams Sold As Individual Items. Identifying features N/A What are the defects? Some Icecreams Have An Unusual Tast Due To Contamination With Food Grade Sanitiser. What are the hazards? Contamination What should consumers do? Please Return The Carton That Contained The Product To The Store Where It Was Purchased For A Full Refund And Dispose Of Any Remaining Icecreams. Enquiries Can Be Directed To Freecall 1800 069 678. Supplier Nestle Australia Ltd Where the product was sold Nationally Coordinating agency Food Standards Australia New Zealand is the coordinating agency for this recall. Product category Confectionery Eggs and dairy × Close,"- Nestle
+- Billabong
+- Chocolate
+- Ice cream
+- 8 pack
+- Hazard
+- Food-related
+- Hazards
+
+Hazard-related terms: 
+- Chocolate
+- Hazards
+- Food-related
+
+Food-related terms: 
+- Chocolate
+- Ice cream
+- 8 pack
+- Hazard
+- Food-related
+- Hazards
+
+The final answer is: There are no hazard-related terms.",organoleptic aspects,ices and desserts,taste disturbance,ice cream
+1999,7,30,au,Henry Jones Foods—Allowrie Fruit Of The Forest Jam,PRA No. 1999/4024 Date published 30 Jul 1999 Product description Date Marking: Best Before Aug2001 20079 (across Lid). 375gm Glass Jar. Sold At Woolworths Supermarkets And Food For Less Supermarkets In Nsw And The Act Only. Available For Purchase On Or After 23 July 1999. What are the defects? Possibility That The Glass Jars May Contain Fused Glass. What are the hazards? Contamination What should consumers do? Return To The Point Of Purchase For An Immediate Full Cash Refund. Further Enquiries Can Be Made By Calling (03) 9342 1000. Supplier Henry Jones Foods Pty Ltd Where the product was sold Australian Capital Territory New South Wales Coordinating agency Food Standards Australia New Zealand is the coordinating agency for this recall. Product category Groceries × Close,"food, jam, hazard, forest, Jones, Allowrie
+
+Extract the terms from the title and classify them into hazard-related and food-related categories.
+
+## Step 1: Identify the terms in the title
+The title is 'Henry Jones Foods—Allowrie Fruit Of The Forest Jam'. The terms in the title are 'Henry Jones Foods', 'Allowrie Fruit', 'Forest', 'Jam', 'Hazard', and 'Jones'.
+
+## Step 2: Classify the terms into hazard-related",foreign bodies,confectionery,glass fragment,jam
+1999,7,30,au,Tan & Co. Pty Ltd—Frozen coconut milk with Taro (ice cream),PRA No. 1999/4023 Date published 30 Jul 1999 Product description No Date Or Batch Code Numbers. 400gm. Country Of Origin: Thailand. Sold In Melbourne Metro Only. What are the defects? Unacceptable Levels Of Coliforms. What are the hazards? Contamination Supplier Tan & Co. Pty Ltd Where the product was sold Victoria Coordinating agency Food Standards Australia New Zealand is the coordinating agency for this recall. Product category Confectionery × Close,"frozen coconut milk, Taro, ice cream, hazard, food-related, extract, frozen, coconut, milk, Taro, ice cream.
+
+Hazard-related terms: frozen, coconut, milk, Taro, ice cream. 
+
+Food-related terms: frozen coconut milk, Taro, ice cream, frozen, coconut milk, Taro, ice cream.
+
+Extraction results:
+
+* Hazard-related terms: 
+  - frozen
+  - coconut
+  - milk
+  - Taro",biological,ices and desserts,coliforms,ice cream
+1999,8,6,au,National Foods Ltd—Yo-Split Vanilla Yogurt with Muesli 'n Fruit,PRA No. 1999/4035 Date published 6 Aug 1999 Product description Reduced Fat Yogurt 175g. All Use By Codes. Does Not Apply To Any Other Yo-split Product Varieties. Identifying features All Use By Codes What are the defects? Product Contains Almond Slivers That Are Not Listed On The Ingredient List. Potential For Allergic Reaction To Nuts In Some People. What are the hazards? Adverse Reaction What should consumers do? Return To Point Of Purchase For A Full Refund. For Any Further Information Please Ring 1800 677 852. Supplier National Foods Ltd Where the product was sold Nationally Coordinating agency Food Standards Australia New Zealand is the coordinating agency for this recall. Product category Groceries × Close,"National Foods Ltd, Yo-Split, Vanilla Yogurt, Muesli, Fruit
+
+Hazards:
+
+* Food Poisoning
+* Allergic Reactions
+* Food Contamination
+* Cross-Contamination
+* Food Allergens
+* Handling of Food
+* Food Safety
+* Unstable Food Products
+* Spoilage
+
+Food-related terms:
+
+* Yo-Split
+* Vanilla Yogurt
+* Muesli
+* Fruit
+* Yogurt
+* Milk
+* Dairy",allergens,"meat, egg and dairy products",almond,yoghurt
+1999,8,24,au,Franklins Ltd—No Frills—Chocolate mint slice biscuits,"PRA No. 1999/4056 Date published 24 Aug 1999 Product description Use By Date 31 July 2000. Batch Codes 1889a & 1889d. Bar Code: 9310172192900. 400g Bonus Pack. Distributed Via Franklins, No Frills, Big Fresh And Franklins Fresh Stores. Product Has Been On The Market Since 16 July 1999. What are the defects? May Contain Small Pieces Of Metal. What are the hazards? Contamination What should consumers do? Return To The Nearest Franklins No Frills, Big Fresh Or Franklins Fresh Store For A Full Refund. For Further Information Call Customer Relations Department On 1800 62 1111. Supplier Franklins Ltd Where the product was sold Nationally Coordinating agency Food Standards Australia New Zealand is the coordinating agency for this recall. Product category Groceries × Close","- Chocolate
+- Mint
+- Biscuits
+- Frills
+
+Hazard-related terms:
+- No Frills
+- Chocolate mint slice biscuits
+
+Terms",foreign bodies,cereals and bakery products,metal fragment,biscuits
+1999,8,27,au,Koh-kae—Peanuts coconut cream flavour,PRA No. 1999/4060 Date published 27 Aug 1999 Product description No Use By Date. Batch Code - 8043cb. Pull Ring Tin (plastic Lid). 360g. Country Of Origin: Thailand. What are the defects? May Have High Levels Of Aflatoxins. What are the hazards? Contamination What should consumers do? Return To Place Of Purchase For A Full Refund. Supplier Koh-kae Coordinating agency Food Standards Australia New Zealand is the coordinating agency for this recall. Product category Groceries × Close,"peanuts, coconut cream, flavour
+
+Hazard-related terms: danger, hazard, risk
+
+Food-related terms: flavour, peanuts, coconut cream
+
+Note: I extracted the terms from the title as they appear directly or indirectly in the title, and I considered 'danger' and 'hazard' as separate terms since they are not directly related to the food but are related to the context of the title.
+
+Also, note that I did not include 'risk' as a hazard-related term since it is",chemical,"nuts, nut products and seeds",Aflatoxin,peanuts
+1999,8,31,au,Green Valley Dairy—Cheese 100% Pure Cow's milk,PRA No. 1999/4061 Date published 31 Aug 1999 Product description Use By Date 30/10/99. 1/2 Kg & 300gm Blocks. Mainly Sold Through Small Supermarkets In The Western Suburbs Of Sydney. What are the defects? Contains Higher Than Acceptable Levels Of Bacterial Organisms. What are the hazards? Contamination What should consumers do? Return Product To Point Of Purchase For A Full Refund. For Further Information Please Contact: Green Valley Dairy On (02) 9628 2369. Supplier Green Valley Dairy Where the product was sold New South Wales Coordinating agency Food Standards Australia New Zealand is the coordinating agency for this recall. Product category Eggs and dairy × Close,"* Cheese
+* Cow's milk
+* Pure
+* Hazard
+* Valley
+* Dairy
+* Cheese 100% Pure
+* Cow's milk
+* Valley
+
+Extracting the terms related to food and hazard:
+
+* Cheese
+* Cow's milk
+* Hazard
+* Valley
+* Dairy
+* Cheese 100% Pure
+* Cow's milk
+* Valley
+
+Terms related to food:
+* Cheese
+* Cow's milk
+* Dairy
+* Cheese 100% Pure",biological,"meat, egg and dairy products",other not classified biological hazards,cow milk cheese
+1999,9,2,au,Blue Lotus—Organic tofu hakea & smoked tofu,PRA No. 1999/4065 Date published 2 Sep 1999 Product description Blue Lotus Organic Tofu Hakea 375g - Best Before 3/11/99. Blue Lotus Smoked Tofu 200g - Best Before 3/11/99. Distributed Via Coles And Health Food Stores. Identifying features Blue Lotus Organic Tofu Hakea 375g - Batch Code 4914089. Blue Lotus Smoked Tofu 200g - Batch Code 4910089 What are the defects? May Contain Higher Than Acceptable Levels Of Micro-organisms. What are the hazards? Contamination What should consumers do? Return The Product To The Point Of Purchase For A Full Refund. For Further Information Please Call O3 9728 6011. Supplier Blue Lotus Foods Pty Ltd Where the product was sold Nationally Coordinating agency Food Standards Australia New Zealand is the coordinating agency for this recall. Product category Chilled and frozen × Close,"hakea, tofu, smoked tofu, food-related, hazard, organic.
+
+**Extracted terms:**
+
+* Food-related: hakea, tofu
+* Hazard: smoked tofu
+* Organic: tofu
+
+**Additional extracted terms:** Blue Lotus (note: this term is not related to food, but rather to the Blue Lotus flower, which is a type of cannabis)
+
+**Note:** The extracted terms are not in a specific order, but rather a list of terms that match the criteria.",biological,other food product / mixed,other not classified biological hazards,tofu
+1999,9,7,au,Acquilla Bulk Trading—Sasso Pasta D'acciughe Linea Mare anchovies paste,"PRA No. 1999/4071 Date published 7 Sep 1999 Product description 60g. Use By Date 31.5.00. Imported From Italy. Tube Packaging. Distributed Via Small Reailers I.e. Deli's To Sydney Metro, Newcastle, Wollongong, Griffith And Canberra. What are the defects? May Contain Higher Than Acceptable Levels Of Histamine. What are the hazards? Adverse Reaction What should consumers do? Return The Product To The Point Of Purchase For A Full Refund. For Further Information Please Phone (02) 9560 9733. Supplier Acquilla Bulk Trading Pty Ltd Where the product was sold Australian Capital Territory New South Wales Coordinating agency Food Standards Australia New Zealand is the coordinating agency for this recall. Product category Groceries × Close",Acquilla - Bulk - Trading - Sasso - Pasta - D'acciughe - Linea - Mare - anchovies paste - Hazard - Risk - Food safety - Hazardous materials - Risk assessment -,chemical,seafood,toxin,anchovy paste
+1999,9,7,au,Oriental Merchant—Koh-kae peanuts coconut cream flavour,"PRA No. 1999/4072 Date published 7 Sep 1999 Product description 360g & 130g Pull Ring Tin. Use By Date - Exp 01 Aug 2000 Om (appears On Base Of Can). Imported From Thailand. Distributed Via Coles, Woolworths, Safeway, Franklins And Small Asian Outlets. What are the defects? Higher Than Acceptable Levels Of Aflatoxin. What are the hazards? Contamination What should consumers do? Return The Product To The Point Of Purchase For A Full Refund. For Further Information Phone (03) 9250 8133. Supplier Oriental Merchant Pty Ltd Coordinating agency Food Standards Australia New Zealand is the coordinating agency for this recall. Product category Groceries × Close","Oriental, Merchant, Koh-kae, Peanuts, Coconut, Cream, Flavour
+
+Hazard-related terms: None found.
+
+Food-related terms: 
+1. Peanuts
+2. Coconut
+3. Cream
+4. Flavour
+
+These terms are related to food and its preparation, and are likely to be relevant to the topic of a recipe or cooking process.",chemical,"nuts, nut products and seeds",Aflatoxin,peanuts
+1999,9,24,au,Princi Smallgoods—Fermented Dry Italian sausage cacciatore,PRA No. 1999/4084 Date published 24 Sep 1999 Product description 375g. Green Tag Lot Code. What are the defects? May Be Contaminated With E. Coli. What are the hazards? Contamination What should consumers do? Return To Point Of Purchase For Full Refund. Any Enquiries To Princi Smallgoods (08) 9249 7359. Supplier Princi Smallgoods Coordinating agency Food Standards Australia New Zealand is the coordinating agency for this recall. Product category Groceries × Close,"smallgoods','sausage', 'cacciatore', 'fermented', 'hazard', 'dry'
+
+Extracted terms:
+
+1. smallgoods
+2. sausage
+3. cacciatore
+4. fermented
+5. hazard
+6. dry",biological,"meat, egg and dairy products",escherichia coli,sausage
+1999,10,20,ca,PRESENCE OF UNDECLARED PEANUT BUTTER IN CHOCOLATE ICE CREAM CAKE MANUFACTURED BY ICE CREAM UNLIMITED INC.,"Newsroom > Food Recalls and Allergy Alerts > Archives 
+This archive of previously issued food recalls and allergy alerts is provided for reference and research purposes.
+Users should note that the products listed in the archive have been subject to removal from the marketplace or appropriate corrective action. Food recalls or allergy alerts are not an indication of the food safety status of products produced at a later date.
+OTTAWA, October 20, 1999  The Canadian Food Inspection Agency (CFIA) is warning consumers with an allergy to peanuts not to eat chocolate ice cream cake manufactured by Ice Cream Unlimited Inc. of Winnipeg, Manitoba. The product contains peanut butter that is not declared on the label.
+The product is sold in an 8"" round, 1.28 kg. size and bears the lot number 253C. It has been distributed to Safeway Stores in Saskatchewan, Manitoba, and Ontario.
+Consumption of peanuts can cause serious allergic reactions in individuals with an allergy to peanut protein. There have been no reported illnesses associated with the consumption of this product.
+The manufacturer, Ice Cream Unlimited lnc. of Winnipeg, Manitoba is voluntarily recalling the product from the marketplace. The Canadian Food Inspection Agency is monitoring the effectiveness of the recall.
+For more information, media and consumers can contact:
+Gordon Andrushuk Ice Cream Unlimited Inc. (204) 632-7887
+This archive of previously issued food recalls and allergy alerts is provided for reference and research purposes.
+Users should note that the products listed in the archive have been subject to removal from the marketplace or appropriate corrective action. Food recalls or allergy alerts are not an indication of the food safety status of products produced at a later date.
+OTTAWA, October 20, 1999  The Canadian Food Inspection Agency (CFIA) is warning consumers with an allergy to peanuts not to eat chocolate ice cream cake manufactured by Ice Cream Unlimited Inc. of Winnipeg, Manitoba. The product contains peanut butter that is not declared on the label.
+The product is sold in an 8"" round, 1.28 kg. size and bears the lot number 253C. It has been distributed to Safeway Stores in Saskatchewan, Manitoba, and Ontario.
+Consumption of peanuts can cause serious allergic reactions in individuals with an allergy to peanut protein. There have been no reported illnesses associated with the consumption of this product.
+The manufacturer, Ice Cream Unlimited lnc. of Winnipeg, Manitoba is voluntarily recalling the product from the marketplace. The Canadian Food Inspection Agency is monitoring the effectiveness of the recall.
+For more information, media and consumers can contact:
+Gordon Andrushuk Ice Cream Unlimited Inc. (204) 632-7887
+Users should note that the products listed in the archive have been subject to removal from the marketplace or appropriate corrective action. Food recalls or allergy alerts are not an indication of the food safety status of products produced at a later date.
+OTTAWA, October 20, 1999  The Canadian Food Inspection Agency (CFIA) is warning consumers with an allergy to peanuts not to eat chocolate ice cream cake manufactured by Ice Cream Unlimited Inc. of Winnipeg, Manitoba. The product contains peanut butter that is not declared on the label.
+The product is sold in an 8"" round, 1.28 kg. size and bears the lot number 253C. It has been distributed to Safeway Stores in Saskatchewan, Manitoba, and Ontario.
+Consumption of peanuts can cause serious allergic reactions in individuals with an allergy to peanut protein. There have been no reported illnesses associated with the consumption of this product.
+The manufacturer, Ice Cream Unlimited lnc. of Winnipeg, Manitoba is voluntarily recalling the product from the marketplace. The Canadian Food Inspection Agency is monitoring the effectiveness of the recall.
+For more information, media and consumers can contact:
+Gordon Andrushuk Ice Cream Unlimited Inc. (204) 632-7887
+OTTAWA, October 20, 1999  The Canadian Food Inspection Agency (CFIA) is warning consumers with an allergy to peanuts not to eat chocolate ice cream cake manufactured by Ice Cream Unlimited Inc. of Winnipeg, Manitoba. The product contains peanut butter that is not declared on the label.
+The product is sold in an 8"" round, 1.28 kg. size and bears the lot number 253C. It has been distributed to Safeway Stores in Saskatchewan, Manitoba, and Ontario.
+Consumption of peanuts can cause serious allergic reactions in individuals with an allergy to peanut protein. There have been no reported illnesses associated with the consumption of this product.
+The manufacturer, Ice Cream Unlimited lnc. of Winnipeg, Manitoba is voluntarily recalling the product from the marketplace. The Canadian Food Inspection Agency is monitoring the effectiveness of the recall.
+For more information, media and consumers can contact:
+Gordon Andrushuk Ice Cream Unlimited Inc. (204) 632-7887
+The product is sold in an 8"" round, 1.28 kg. size and bears the lot number 253C. It has been distributed to Safeway Stores in Saskatchewan, Manitoba, and Ontario.
+Consumption of peanuts can cause serious allergic reactions in individuals with an allergy to peanut protein. There have been no reported illnesses associated with the consumption of this product.
+The manufacturer, Ice Cream Unlimited lnc. of Winnipeg, Manitoba is voluntarily recalling the product from the marketplace. The Canadian Food Inspection Agency is monitoring the effectiveness of the recall.
+For more information, media and consumers can contact:
+Gordon Andrushuk Ice Cream Unlimited Inc. (204) 632-7887
+Consumption of peanuts can cause serious allergic reactions in individuals with an allergy to peanut protein. There have been no reported illnesses associated with the consumption of this product.
+The manufacturer, Ice Cream Unlimited lnc. of Winnipeg, Manitoba is voluntarily recalling the product from the marketplace. The Canadian Food Inspection Agency is monitoring the effectiveness of the recall.
+For more information, media and consumers can contact:
+Gordon Andrushuk Ice Cream Unlimited Inc. (204) 632-7887
+The manufacturer, Ice Cream Unlimited lnc. of Winnipeg, Manitoba is voluntarily recalling the product from the marketplace. The Canadian Food Inspection Agency is monitoring the effectiveness of the recall.
+For more information, media and consumers can contact:
+Gordon Andrushuk Ice Cream Unlimited Inc. (204) 632-7887
+For more information, media and consumers can contact:
+Gordon Andrushuk Ice Cream Unlimited Inc. (204) 632-7887
+Gordon Andrushuk Ice Cream Unlimited Inc. (204) 632-7887
+For more information contact:
+Canadian Food Inspection Agency Jean-Louis Michaud (613) 225-2342, ext. 3799 Pager: (613) 7600-0570
+ 
+Canadian Food Inspection Agency Jean-Louis Michaud (613) 225-2342, ext. 3799 Pager: (613) 7600-0570
+ 
+ ","- Undeclared
+- Peanut
+- Butter
+- Hazard
+- Chocolate
+- Ice cream
+- Cake
+- Manufactured
+- Unlimited
+- Incident
+- Food-related
+- Hazard-related
+- Precautionary
+- Labeling
+
+Terms related to food: 
+
+- Undeclared
+- Peanut
+- Butter
+- Hazard
+- Chocolate
+- Ice cream
+- Cake
+
+Terms related to hazard: 
+
+- Undeclared
+- Hazard
+- Chocolate",allergens,ices and desserts,peanuts and products thereof,ice cream
+1999,10,28,au,Pura And Woolworths—Whole Milk,"PRA No. 1999/4128 Date published 28 Oct 1999 Product description Pura Whole Milk 1 Litre Carton; Woolworths Whole Milk 1 Litre Carton And 600ml Carton; Use By Date 31 October. What are the defects? May Contain Listeria Monocytogenes. This Bacteria Can Cause Serious Illness In Pregnant Women, The Elderly, Young Babies And People With Low Immune Systems. What are the hazards? Contamination What should consumers do? Immediately Dispose Of Products Bearing Code Ub Mdp 31 Oct And Advise Toll Free Customer Relations Number 1800 677 852. Supplier National Foods Limited Coordinating agency Food Standards Australia New Zealand is the coordinating agency for this recall. Product category Eggs and dairy × Close","1. Whole Milk
+2. Hazard
+3. Food
+4. Pura
+5. Woolworths
+6. Milk
+
+This title contains the following food-related terms:
+1. Milk
+2. Food
+
+And the following hazard-related terms:
+1. Hazard",biological,"meat, egg and dairy products",listeria monocytogenes,milk
+1999,11,17,au,John West—Scottish sardines In vegetable oil,PRA No. 1999/4147 Date published 17 Nov 1999 Product description Batch Code L9166 - Stamped On End Of Cardboard Pack. Can Inserted Into A Cardboard Pack. 110gm. Country Of Origin: Scotland (arrived 18 Aug 99). What are the defects? Possibility Of Seam Defects In Small Number Of Cans. What are the hazards? Contamination What should consumers do? Return The Product To The Place Of Purchase For A Full Refund. Supplier Unilever Foods Coordinating agency Food Standards Australia New Zealand is the coordinating agency for this recall. Product category Groceries × Close,"** 
+
+* sardines
+* vegetable oil
+* hazard
+* extract
+* food-related 
+
+These terms relate to food and are likely to be found in a title related to food or food products. They can be used in a sentence to describe the content of the title.",packaging defect,seafood,packaging defect,sardines
+1999,12,30,au,Simplot Australia—Frozen Neptune Black Tiger Prawns,"PRA No. 2000/4199 Date published 30 Dec 1999 Product description Cooked And Peeled With Tails. Product Of Thailand. Best Before Date Of 31/03/2001. Sold Through Wholesale Outlets In Nsw And Wa Between 29/11/99 And 24/12/99. What are the defects? May Contain Harmful Microbiological Bacteria Vibrio Cholera. What are the hazards? Contamination What should consumers do? Return To Point Of Purchase. Supplier Simplot Australia Pty Limited Where the product was sold New South Wales Western Australia Coordinating agency Food Standards Australia New Zealand is the coordinating agency for this recall. Product category Meat, seafood and deli × Close","Frozen, Tiger Prawns, Hazard, Simplot
+
+Extracted terms:
+- Frozen
+- Tiger Prawns
+- Hazard
+- Simplot
+
+Hazard-related terms: Frozen, Tiger Prawns, Hazard
+
+Food-related terms: Tiger Prawns, Simplot, Frozen
+
+Note: Hazard is also a term related to food safety and handling, but in this context, it is likely referring to a potential risk or danger associated with the food itself rather than a hazard caused by",biological,seafood,vibrio spp,prawns
+2000,1,7,au,Woolworths Limited—Homebrand Corn & Chicken flavour noodles,"PRA No. 2000/4205 Date published 7 Jan 2000 Product description Best Before Oct 2000. 85g. Lot Code: Apn: 9300633611125. Clear Cellophane Packet. Sold At Woolworths Supermarkets, Food For Less And Flemings Food Stores In Nsw And Act Only Between 1 And 20 December 1999. What are the defects? May Contain Fine Aluminium Wire Fragments. What are the hazards? Contamination What should consumers do? Return To Place Of Purchase For A Full Cash Refund. If Further Information Is Required Call Toll Free 1800 703 009. Supplier Woolworths Ltd Where the product was sold Australian Capital Territory New South Wales Coordinating agency Food Standards Australia New Zealand is the coordinating agency for this recall. Product category Groceries × Close","- Corn
+- Chicken
+- Noodles
+- Flavor
+- Limited 
+- Homebrand 
+- Woolworths 
+- Limited 
+- Homebrand 
+- Hazard 
+- Limited 
+- Hazard 
+- Limited 
+- Hazard 
+
+**Updated List:**
+
+- Corn",chemical,prepared dishes and snacks,chemical compound (high content),noodles
+2000,2,24,au,Valcorp Fine Foods—Gee Vee mild chillies in brine,PRA No. 2000/4241 Date published 24 Feb 2000 Product description Use By Date: 19.01.02. Batch Code: Gva 14010 & Gva 21010. 420g. Jar. Country Of Origin; Australia. Distributed Via Safeway In Victoria And Davids In Nsw & Act. Product Has Been On The Market Since 25.01.00. What are the defects? Tests Have Detected Variation In Yeast And Bacteria Microbial Levels. What are the hazards? Contamination. What should consumers do? Return The Product To The Point Of Purchase For An Immediate Full Cash Refund. For Further Information Please Call (03) 9429 5999. Supplier Valcorp Fine Foods Pty Ltd Where the product was sold Australian Capital Territory New South Wales Victoria Coordinating agency Food Standards Australia New Zealand is the coordinating agency for this recall. Product category Groceries × Close,"mild chillies, brine
+
+Hazards: food poisoning, foodborne illness
+
+Food-related terms: chillies, brine, Gee Vee
+
+Hazard-related terms: food poisoning, foodborne illness
+
+Note: The term 'Gee Vee' is likely a brand name or a product name, but its relevance to the terms 'food poisoning' and 'foodborne illness' is not immediately apparent.",biological,fruits and vegetables,yeasts,chillies
+2000,3,8,au,Pauls—Breaka chocolate UHT milk,"PRA No. 2000/4261 Date published 8 Mar 2000 Product description 250ml Single Pack And 6 X 250ml Multi Packs With Drinking Straw. Use By Dates 21/9/2000, 22/9/2000 & 23/9/2000. Teta Packs. What are the defects? DUE TO THE INTERMITTENT MALFUNCTION OF A PACKAGING MACHINE, SOME PACKS MAY ALLOW AIR TO ENTER THE PACKS CAUSING THE CONTENTS TO SPOIL. What are the hazards? Contamination. What should consumers do? Return The Product To The Point Of Purchase For An Immediate Cash Refund. For Further Information Please Call 1800 676 961. Supplier Pauls Ltd Where the product was sold Nationally Coordinating agency Food Standards Australia New Zealand is the coordinating agency for this recall. Product category Eggs and dairy × Close","- UHT
+- Milk
+- Chocolate
+- Breaka
+- Hazard
+- Extract
+
+Extracted terms:
+
+- UHT
+- Milk
+- Chocolate
+- Breaka
+- Hazard
+- Extract
+- Pauls 
+- Breaka 
+- Hazard 
+- Pauls 
+- Chocolate 
+- UHT 
+- Milk 
+- Extract 
+- Hazard 
+- Pauls 
+- Chocolate 
+- UHT 
+- Milk 
+- Extract 
+- Pauls 
+- Breaka",organoleptic aspects,"meat, egg and dairy products",spoilage,other dairy products
+2000,5,4,au,Coles Supermarkets—Farmland sausage meat,"PRA No. 2000/4324 Date published 4 May 2000 Product description 500gm. Use By Date - 17 May 2000. Distributed In Coles Supermarkets In Victoria Today, Thursday 4 May 2000. What are the defects? May Contain Metal Fragments. What are the hazards? Contamination What should consumers do? Return To Your Nearest Coles Supermarket For A Full Refund Or Exchange. For Further Information Contact Coles Customer Information Line On 1800 061 562. Supplier Coles Supermarkets Australia Pty Ltd Where the product was sold Victoria Coordinating agency Food Standards Australia New Zealand is the coordinating agency for this recall. Product category Meat, seafood and deli × Close","1. Coles
+2. Supermarkets
+3. Farmland
+4. Sausage meat
+5. Hazard
+6. Food
+7. Supermarkets
+8. Food safety
+9. Hazardous substances
+
+Hazard-related terms:
+
+1. Hazard
+2. Food safety
+3. Hazardous substances
+
+Food-related terms:
+
+1. Sausage meat",foreign bodies,"meat, egg and dairy products",metal fragment,sausage
+2000,8,12,au,Norco Co-Operative—Richmond Vanilla Icecream,"PRA No. 2000/4573 Date published 12 Aug 2000 Product description 8 Litre White Plastic Container. Best Before 27/09/02. Distributed via route trade (corner stores, Farmer Charlie, etc.) Company advised that this product is not distributed via the major retailers. What are the defects? Possible glass fragment contamination. What are the hazards? Contamination. What should consumers do? Do not consumer this product. Return to the point of purchase for a full refund. For further information please contact Norco Co-Op. on (02) 6627 8113. Supplier Norco Co-Operative Ltd Where the product was sold New South Wales Queensland Coordinating agency Food Standards Australia New Zealand is the coordinating agency for this recall. Product category Confectionery Eggs and dairy × Close","Food Hazards
+Co-operative
+Richmond
+Hazards
+Co-op
+Richmond
+Food
+Richmond",foreign bodies,ices and desserts,glass fragment,ice cream
+2000,8,21,au,National Foods Ltd—Fruche,"PRA No. 2000/4389 Date published 21 Aug 2000 Product description Fresh Dairy Food Product. All varieties, flavours and package sizes. All use by dates up to and including 24 July 2000. What are the defects? Metal fragment contamination accidentally introduced during manufacture. What are the hazards? Contamination What should consumers do? Contact National Foods immediately on 1800 677 852 to arrange for refund and collection. Supplier National Foods Ltd Where the product was sold Nationally Coordinating agency Food Standards Australia New Zealand is the coordinating agency for this recall. Product category Eggs and dairy × Close","Fruche, National Foods Ltd, Hazard, Food safety, Food handling, Food products, Food industry, Food processing, Food packaging, Food contamination, Food waste, Food hygiene, Food safety measures, Food storage, Food preparation, Food handling safety.
+
+Extracted terms:
+
+1. Fruche
+2. National Foods Ltd
+3. Hazard
+4. Food safety
+5. Food handling
+6. Food products
+7. Food industry
+8. Food processing
+9. Food packaging
+10",foreign bodies,"meat, egg and dairy products",metal fragment,cream cheese
+2000,8,21,au,Pixie Ice Cream—Berry Koolick flavour Ice Blocks,"PRA No. 2000/4385 Date published 21 Aug 2000 Product description Home Ice Cream Brand. Date marking: 20/6/2002, 21/6/2002. Boxes of 30 ice blocks that are not sold individually. Distribution in NSW and Qld by home vending, not distributed through supermarkets. What are the defects? May be contaminated with listeria monocytogenes. What are the hazards? Contamination. What should consumers do? Contact your distributor. Supplier Pixie Ice Cream Where the product was sold New South Wales Queensland Coordinating agency Food Standards Australia New Zealand is the coordinating agency for this recall. Product category Confectionery × Close","**
+
+1. Ice Cream
+2. Berry
+3. Koolick
+4. Flavour
+5. Hazard
+
+**Notes:**
+
+* 'Berry' refers to the food item 'Ice Cream—Berry Koolick flavour Ice Blocks'.
+* 'Koolick' is likely a typo or a misnomer for 'Ice Cream', and 'Flavour' is a common term used to",biological,ices and desserts,listeria monocytogenes,ice cream
+2000,8,25,au,Fidlers Choice—Tasty Cheese,"PRA No. 2000/4417 Date published 25 Aug 2000 Product description Use by date 28 November 2000. Batch Code: 24 July 2000. 380g Vacuum sealed. Sold in Victoria, Melbourne Metro only. Distributed via small independent supermarkets. What are the defects? Listeria monocytogenes contamination which may cause illness in pregnant women, the very young, the elderly and people with low immune systems. What are the hazards? Contamination. What should consumers do? Return the product to point of purchase for an immediate full cash refund. Supplier G.S. Fidler Investments Pty Ltd Where the product was sold Victoria Coordinating agency Food Standards Australia New Zealand is the coordinating agency for this recall. Product category Eggs and dairy × Close","Fidlers, Cheese, Choice, Hazard.
+
+Extracting food-related and hazard-related terms from the title: 
+
+Fidlers (food-related term) 
+Choice (food-related term) 
+Hazard (hazard-related term)
+
+Note: Hazard is a general term that can also relate to food safety and quality, but in this context, it is used to describe a risk or threat.",biological,"meat, egg and dairy products",listeria monocytogenes,cheese
+2000,8,25,au,Delight Dim Sum—Siu Mai,PRA No. 2000/4416 Date published 25 Aug 2000 Product description 500g. Siu Mai (Steam 15 minutes). All product manufactured prior to 7 August 2000. Product manufactured prior to this date does not have either a best before or use by date. Distributed mainly to Asian supermarkets. What are the defects? Incorrect labelling. Product contains peanuts that are not listed on ingredient label. Presence of peanuts may cause an allergic reaction in some people. What are the hazards? Adverse Reaction. What should consumers do? Return to the place of purchase for a full refund. For further information contact Delight Dim Sum on (02) 9580 0983. Supplier Delight Dim Sum Where the product was sold New South Wales Coordinating agency Food Standards Australia New Zealand is the coordinating agency for this recall. Product category Groceries × Close,"- Dim sum
+- Siu mai
+- Hazard
+- Food
+
+Hazard-related terms: 
+- Dim sum
+- Hazard
+- Food
+
+Food-related terms: 
+- Dim sum
+- Siu mai
+- Food
+- Hazard
+
+Extracted terms: 
+- Dim sum
+- Siu mai
+- Hazard
+- Food
+
+**Note:** There are no additional extracted terms beyond the ones already listed. The extracted terms are the ones that contain the words ""dim sum",allergens,prepared dishes and snacks,peanuts and products thereof,ready to eat - cook meals
+2000,9,21,au,Franklins Ltd—First Choice Young Corn Cuts,PRA No. 2000/4476 Date published 21 Sep 2000 Product description All Batch Codes. Ring Pull Can 425g. Product of Thailand. What are the defects? Cans may have a manufacturing fault that may cause a build up of gas and the can to swell. What should consumers do? Return to your nearest Franklins store for a full refund. For enquiries please phone Franklins Customer Relations Hotline 1800 621 111. Supplier Franklins Ltd Where the product was sold Australian Capital Territory New South Wales Queensland Coordinating agency Food Standards Australia New Zealand is the coordinating agency for this recall. Product category Fruit and veg × Close,"Food-related terms: 
+Hazard-related terms: 
+Other terms: 
+
+Food-related terms: 
+Young Corn Cuts 
+
+Hazard-related terms: 
+First Choice 
+
+Other terms: 
+Franklins Ltd 
+
+Note: The term 'Young Corn Cuts' is food-related. 'First Choice' is a company name and could be considered a hazard-related term as it may imply a product or service that is hazardous to one's health if not handled properly. 'Franklins Ltd'",packaging defect,cereals and bakery products,packaging defect,corn
+2000,10,26,au,Buderim Ginger Ltd—Ginger Lemon & Lime Marmalade,PRA No. 2000/4513 Date published 26 Oct 2000 Product description Best Before 08 May 02. EAN 9310371190158. 450g Glass Jar. Bottled in NSW. On the marketplace for 5 months. What are the defects? Possible glass fragment contaminaton. What are the hazards? Contamination What should consumers do? Return the product to the store where it was purchased for a full refund. Enquiries can be directed to Freecall 1800 067 686. Supplier Buderim Ginger Ltd Where the product was sold Australian Capital Territory New South Wales Queensland South Australia Victoria Coordinating agency Food Standards Australia New Zealand is the coordinating agency for this recall. Product category Groceries × Close,"ginger, lemon, lime, marmalade, hazard, extract, food-related
+
+**Hazard-related terms:**
+
+* ginger
+* marmalade
+
+**Food-related terms:**
+
+* ginger
+* lemon
+* lime
+* marmalade
+* extract
+* food
+* hazard",foreign bodies,confectionery,glass fragment,jam
+2000,10,31,au,Pura—UHT (long life) Whole Milk,"PRA No. 2000/4514 Date published 31 Oct 2000 Product description Use by date 10 July 2001. 1 litre Blue Slimline Brick Pack. Distributed via Newmart Supermarkets in the Perth metro area. What are the defects? Possible spoilage, which may cause cartons to swell, milk to curdle and have an off smell. What should consumers do? Return to place of purchase for a refund. Further inquiries can be directed to Customer Relations Department on freecall 1800 677 852. Supplier National Foods Ltd Where the product was sold Western Australia Coordinating agency Food Standards Australia New Zealand is the coordinating agency for this recall. Product category Eggs and dairy × Close","Whole Milk, UHT, Life, Hazard
+
+Extract the food-related and hazard-related terms from the title. 
+
+Here is the title with the terms extracted:
+
+Pura—UHT (long life) Whole Milk
+
+Food-related terms: 
+- Whole Milk
+
+Hazard-related terms: 
+- UHT (long life)
+- Life (not a food-related term, it is a general term)
+- Hazard (not a food-related term, it is a general term)",organoleptic aspects,"meat, egg and dairy products",spoilage,milk
+2000,11,28,au,Bluebird—Incredibites Choc/Hazelnut Snack,PRA No. 2000/4567 Date published 28 Nov 2000 Product description Use by Date 20/06/01. 150g Packet contains 6 x 25g sachets. Distributed through major retailers from 22/11/00. What are the defects? Abnormal levels of microbial contamination. What are the hazards? Contamination. What should consumers do? Customers should not consume the product. Return the product to the point of purchase for an immediate full cash refund. For further information contact Bluebird Foods on Free Call 1800 025 768. Supplier Bluebird Foods Where the product was sold Australian Capital Territory New South Wales Queensland South Australia Victoria Western Australia Coordinating agency Food Standards Australia New Zealand is the coordinating agency for this recall. Product category Confectionery × Close,"Bluebird, Incredibites, Choc, Hazelnut, Snack.
+
+Hazard-related terms: Hazelnut, Hazards, Hazards-related, Hazards.
+
+Food-related terms: Snack, Snacks, Bluebird, Bluebird Choc/Hazelnut, Hazelnut, Hazelnuts, Bluebird Hazelnut, Hazelnut Snack, Incredibites, Incredibites Choc/Hazelnut.
+
+Note: The extracted terms",biological,cereals and bakery products,other not classified biological hazards,cookies
+2000,12,11,us,"Recall Notification Report 075-2000, Expanded","Product(s) Recalled: 
+    Cooked Ready-To-Eat ''HICKORY SMOKED HoneySuckle White 
+	TURKEY HAM''
+  Production Dates/Identifying Codes:
+    Produced May 1, through Dec. 11, 2000.  The product 
+	subject to recall bear Establishment number P-635, and the ''use-by'' or ''freeze-by'' 
+	date of  ''02261W'' and earlier.  The product is sold fresh, unsliced and prepackaged 
+	in two-pound chubs for consumer use.
+  Problem/Reason for Recall:
+    The products may be contaminated with Listeria monocytogenes.
+  How/When Discovered:
+    A company review of the establishment records revealed 
+	inconsistencies in the product pasteurization process.  Consequently, Cargill Turkey Products 
+	authorities notified the Food Safety and Inspection Service (FSIS) of the decision to 
+	voluntarily expand the December 14, 2000, recall.
+  Establishment: 
+    P-635/635Cargill Turkey Products2510 East Lakeshore DriveWaco, Texas 76705
+  Corporate Contact/Recall Coordinator:
+    Mr. Ralph Kutzer; 254-412-3680
+  Consumer Contact:
+    Call 888-621-2717 or visit the firm's website 
+	(http://www.plantation-foods.com)
+  Media Contact:
+    Mr. Mark Klein; 254-412-3478 
+  Quantity Recalled: 
+    Approximately 195,000 pounds
+  Distribution: 
+    For consumer use in Colorado, Kansas, Louisiana, 
+	Massachusetts, Michigan, Ohio, Pennsylvania, Tennessee, Texas and Wisconsin.  
+	The product was also distributed in Minnesota for use by a correctional facility.
+  Recall Classification:
+    Class I
+  Recall Notification Level:
+    Consumer
+  Press Release:
+    Yes
+  Direct Notification Means: 
+    The firm will notify it's customers orally and will follow-up 
+	with written communications.
+  FSIS Followup Activities:
+    Effectiveness checks by the FSIS, District Enforcement Operations.
+  Other Agencies Involved: 
+    The Centers for Disease Control and Prevention (CDC)
+  FSIS Contacts:
+    Compliance/Recall Coordinator: 202-418-8874
+      Recall Management Division: 202-690-6389 
+      Media Inquiries: 202-720-9113
+      Congressional Inquiries: 202-720-3897
+      Consumer Inquiries: 1-800-535-4555
+      Web Site: http://www.fsis.usda.gov/ (FSIS Main
+        Page) or http://www.fsis.usda.gov/oa/recalls/rec_intr.htm
+        (Recall Information Center)
+    
+  Date of Recall Meeting: 
+    December 14, 2000
+  Recall Case Number: 
+    075-2000, EXPANDED","* Hazard
+* Food
+* Recall
+* Notification
+* Report
+* 075-2000
+* Expanded
+
+Note: The extracted terms are from the title of the report. There are no additional terms related to food or hazard from the provided text.",biological,"meat, egg and dairy products",listeria monocytogenes,turkey and turkey preparations
+2000,12,14,us,Turkey And Chicken Products Recalled From Texas Plant For PossibleListeria Contamination,"WASHINGTON, Dec.14--Cargill Turkey Products is voluntarily
+      recalling approximately 16.7 million pounds of ready-to-eat turkey and
+      chicken products, produced at its facility in Waco, Texas, that may be
+      contaminated with Listeria monocytogenes, the U.S. Department of
+      Agricultures Food Safety and Inspection Service announced today.
+      The products subject to recall were distributed to retail
+      establishments, restaurants, and institutions nationwide and exported to
+      Venezuela and Iceland. The products subject to recall were produced from
+      May 1 to December 11 and are marked with the establishment number
+      ""P-635.""
+      The sliced products that consumers may have purchased at retail are:
+      Owens Hickory Smoked Pre-Sliced Turkey Breast, fresh
+        Plantation
+          Fiesta Pre-Sliced Turkey Breast, fresh
+            Mesquite Smoked Pre-Sliced Turkey Breast, fresh and frozen
+            Pre-Sliced Smoke Banquet-style Turkey Breast, fresh and frozen
+            Black Forest Turkey Ham, fresh
+            Pre-Sliced Turkey Pastrami, fresh and frozen
+            Pre-Sliced Star Turkey Breast
+          
+        Riverside
+          Pre-Sliced Hickory Smoked Turkey Breast, fresh and frozen
+            Pre-Sliced Oven Prepared Turkey Breast, frozen
+          
+        Honeysuckle White Pre-Sliced Oven Prepared Turkey, fresh and frozen
+      Unsliced products include:
+      Dine Rite Picnic Dark Turkey, fresh and frozen
+        Old South Turkey Ham, fresh
+        Plantation Cajun Fried Turkey, frozen
+        Honeysuckle White Cajun-Style Fried Whole Turkey, frozen
+      The following products may have been distributed at deli counters,
+      restaurants or institutions:
+      Boars Head
+          Our Premium Low Salt Turkey, frozen
+            Golden Catering Skin-on Turkey Breast, fresh
+            Carmel Colored Our Premium Turkey Breast, fresh
+            Our Premium Low Salt Skinless Turkey Breast, fresh
+            Smoked Turkey Breast, fresh
+            Oil Browned Chicken Breast, fresh
+            Oven Prepared Skinless Turkey Breast, fresh
+            Smoked Chicken Breast, fresh.
+          
+      Other products were sold in bulk and would not be labeled at the point
+      of purchase.
+      ""Because of the potential for foodborne illness, we urge consumers
+      to check to see if they have purchased any of these products,"" said
+      Thomas J. Billy, FSIS administrator. ""If they find the recalled
+      products, consumers should not eat them, but return them to the point of
+      purchase. Consumers may also wish to ask delis and restaurants if
+      purchased products are subject to the recall.""
+      The problem was discovered through illnesses identified by state health
+      departments and reported to the Centers for Disease Control and
+      Prevention. FSIS and the CDC are currently studying these illnesses. While
+      the study is ongoing, Cargill is recalling the products based on a
+      preliminary analysis of epidemiological data. Anyone concerned about an
+      illness should contact a physician.
+      Consumption of food contaminated with Listeria monocytogenes can cause
+      listeriosis, an uncommon but potentially fatal disease. Healthy people
+      rarely contract listeriosis. Listeriosis can cause high fever, severe
+      headache, neck stiffness, and nausea. Listeriosis can also cause
+      miscarriages and stillbirths, as well as serious and sometimes fatal
+      infections in those with weak immune systems--infants, the frail or
+      elderly, and persons with chronic disease, with HIV infection, or taking
+      chemotherapy.
+      Consumers with questions about the recall may contact Cargill Turkey
+      Products at (888) 621- 2717, 24 hours a day, seven days a week.
+      Information is also available on the companys website at http://www.plantation-foods.com.
+      Media with questions may contact Mark Klein, Cargill communication
+      manager, at (254) 412-3478. Media with questions about illnesses can
+      contact the CDC press office at (404) 639-3286.
+      Consumers with food safety questions can phone the toll-free USDA Meat
+      and Poultry Hotline at 1-800-535-4555. The hotline can be reached from 10
+      a.m. to 4 p.m. (Eastern Time) Monday through Friday, and recorded food
+      safety messages are available 24 hours a day.
+      #
+      NOTE: Access news releases and other information at the FSIS Web site
+      at http://www.fsis.usda.gov 
+    LISTERIA PRECAUTIONS
+      People at risk for
+    listeriosis and their family members or individuals preparing food for them should:
+    Reheat until steaming hot the following
+    types of ready-to-eat foods: hot dogs, luncheon meats, cold cuts, fermented and dry
+    sausage, and other deli-style meat and poultry products. Thoroughly reheating food can
+    help kill any bacteria that might be present. If you cannot reheat these foods, do not eat
+    them. 
+    Wash hands with hot, soapy water after
+    handling these types of ready-to-eat foods. (Wash for at least 20 seconds.) Also wash
+    cutting boards, dishes, and utensils. Thorough washing helps eliminate any bacteria that
+    might get on your hands or other surfaces from food before it is reheated. 
+    Do not eat soft cheeses such as feta, Brie,
+    Camembert, blue-veined or Mexican-style cheese. You can eat hard cheeses, processed
+    cheeses, cream cheese, cottage cheese, and yogurt.
+    Do not drink raw, unpasteurized milk or eat
+    foods made from it, such as unpasteurized cheese. 
+    Observe all expiration dates for
+    perishable items that are precooked or ready-to-eat.","turkey, chicken, products, recall, Texas, plant, listeria, contamination, food, hazard.
+
+**Possible answers:**
+
+1. Food safety
+2. Hazard
+3. Food recall
+4. Listeria
+5. Food safety regulation
+6. Hazardous food
+7. Foodborne illness
+8. Foodborne contamination
+9. Food safety inspection
+10. Foodborne illness risk
+
+**Correct answer:** 1, 2, 3, 4,",biological,"meat, egg and dairy products",listeria monocytogenes,turkey and turkey preparations
+2001,2,9,us,Recall Notification Report 006-2001,"Product(s) Recalled: 
+    ""Maple Leaf Farms Partially Boned Roasted Young 
+	Duckling Halves"" in 7.5 pound boxes and ""Sysco Imperial Partially Boned, Fully 
+	Cooked, Roasted Young Duckling Halves"" in 8.25 pound boxes.
+  Production Dates/Identifying Codes:
+    Produced January 10, 2001. The Maple Leaf Farms 
+	product bears the code ""1010"" and the Sysco product bears the code ""011001"" on 
+	the boxes and individual packages. The number P-2375 appears in the USDA mark 
+	of inspection on the boxes.
+  Problem/Reason for Recall:
+    The product may be contaminated with 
+	Listeria monocytogenes.
+  How/When Discovered:
+    On February 9, 2001, the firm notified FSIS that 
+	the product was being recalled based on positive microbiological results from 
+	their private laboratory.
+  Federal Establishment: 
+    02375  M/02375  PSerenade Foods, Inc.
+	P.O. Box 308Milford, IN 46542
+  Consumer Contact:
+    Dan Harper, Corporate Communications Manager, 219-658-4121
+  Media Contact:
+    Dan Harper, Corporate Communications Manager, 219-658-4121
+  Quantity Recalled: 
+    Approximately 6,000 pounds
+  Distribution: 
+    Texas, California, Florida, Wisconsin, Michigan, 
+	North Carolina, Illinois, New York, Pennsylvania, Massachusetts and Nevada
+  Recall Classification:
+    Class I
+  Recall Notification Level:
+    User
+  Press Release:
+    Yes
+  Direct Notification Means: 
+    The firm has notified its customers orally and 
+	will follow-up in writing.
+  FSIS Followup Activities:
+    Effectiveness checks by the FSIS, District
+      Enforcement Operations.
+  Other Agencies Involved: 
+    None
+  FSIS Contacts:
+    Compliance/Recall Coordinator: 202-418-8874
+      Recall Management Division: 202-690-6389 
+      Media Inquiries: 202-720-9113
+      Congressional Inquiries: 202-720-3897
+      Consumer Inquiries: 1-800-535-4555
+      Web Site: http://www.fsis.usda.gov/ (FSIS Main
+        Page) or http://www.fsis.usda.gov/oa/recalls/rec_intr.htm
+        (Recall Information Center)
+    
+  Date of Recall Meeting: 
+    February 9, 2001
+  Recall Case Number: 
+    006-2001","Recall, Notification, Report, Hazard, Food, Safety, Consumer, Consumer Protection, Food Safety, Food Standards, Food Inspection, Hazard Analysis, Hazard Control, Foodborne Illness, Food Poisoning, Food Contamination, Foodborne Pathogens, Food Safety Regulations, Food Safety Standard.
+
+Extracting the relevant terms:
+
+* Recall
+* Notification
+* Food Safety
+* Hazard
+* Food Contamination
+* Food Safety Regulations
+* Food Safety Standard
+
+Terms related to consumer protection:
+
+* Consumer",biological,prepared dishes and snacks,listeria monocytogenes,ready to eat - cook meals
+2001,2,15,au,Coles—Chewy Oat and Raisin and Anzac Cookies,"PRA No. 2001/4639 Date published 15 Feb 2001 Product description 8 Pack. Best Before 26/2/01. Packed in clear plastic clam cylinder. Only product purchased from Coles Keysborough Vic, with a useby date up to and including 26 February 2001 is affected. What are the defects? May have included Coles Peanut cookies with other varieties, which could pose a health risk to people allergic to peanuts. What should consumers do? Return to the nearest Coles Supermarket for a full refund or exchange. Customers requiring further information can contact the Coles customer information line on 1800 061 562. Supplier Coles Parkmore Where the product was sold Victoria Coordinating agency Food Standards Australia New Zealand is the coordinating agency for this recall. Product category Groceries × Close","chewy, oat, raisin, Anzac, hazard, cookies
+
+Extracted terms:
+- Chewy
+- Oat
+- Raisin
+- Anzac
+- Hazard
+- Cookies
+
+Note: Hazard is mentioned in the title but not in the extracted list. I have excluded it from the extracted list.",allergens,cereals and bakery products,peanuts and products thereof,biscuits
+2001,2,19,us,Indiana Firm Recalls Duckling Products,"WASHINGTON, Feb.
+      9, 2001Serenade Foods, Inc. a Milford, Ind., firm, also doing business
+      as Maple Leaf Farms, is voluntarily recalling approximately 6,000 pounds
+      of duckling products that may be contaminated with Listeria
+      monocytogenes, the U.S. Department of Agricultures Food Safety and
+      Inspection Service announced today.
+      The duckling
+      products were produced on Jan. 10, and distributed to food service
+      establishments in California, Florida, Illinois, Massachusetts, Michigan,
+      New York, Nevada, North Carolina, Pennsylvania, Texas, and Wisconsin.
+      Food service
+      products subject to recall include:
+      ""SYSCO IMPERIAL PARTIALLY BONED
+          FULLY COOKED ROASTED YOUNG DUCKLING HALVES"" in 8.25 lb. boxes
+          with a package code of 011001; and
+        ""Maple Leaf Farms PARTIALLY BONED
+          ROASTED YOUNG DUCKLING HALVES""in 7.5 lb. boxes with a package
+          code of 1010;
+      
+      All products being
+      recalled bear the establishment number ""EST. P-2375"" inside the
+      USDA seal of inspection.
+      ""Because of
+      the potential for foodborne illness, we want consumers to be aware of the
+      recall,"" said Tom Billy, FSIS administrator. ""Purchasers or
+      consumers of duckling may wish to ask restaurants or places where they
+      consume duckling if the product or meal contains the recalled
+      product.""
+      The company
+      notified FSIS of a positive Listeria monocytogenes test result and
+      initiated a recall.
+      This is the second
+      voluntary product recall by Serenade Foods, Inc., this year. On Jan. 16,
+      the company recalled 4,400 pounds of duckling product for possible Listeria
+      monocytogenes contamination.
+      Consumption of
+      food contaminated with Listeria monocytogenes can cause
+      listeriosis, an uncommon but potentially fatal disease. Healthy people
+      rarely contract listeriosis. Listeriosis can cause high fever, severe
+      headache, neck stiffness, and nausea. Listeriosis can also cause
+      miscarriages and stillbirths, as well as serious and sometimes fatal
+      infections in those with weak immune systems--infants, the frail or
+      elderly, and persons with chronic disease, with HIV infection, or taking
+      chemotherapy.
+      FSIS has received
+      no reports of illness associated with consumption of this product. Anyone
+      concerned about an illness should contact a physician.
+      Consumers and
+      media with questions about the recall may contact Dan Harper, Serenade
+      Foods Corporate Communications Manager at (219) 658-4121.
+      Consumers with
+      food safety questions can phone the toll-free USDA Meat and Poultry
+      Hotline at 1-800-535-4555. The hotline can be reached from 10 a.m. to 4
+      p.m. (Eastern Time) Monday through Friday, and recorded food safety
+      messages are available 24 hours a day.
+      #
+
+    NOTE: Access news releases and
+    other information at the FSIS Web site at http://www.fsis.usda.gov
+
+  
+
+ 
+    LISTERIA PRECAUTIONS
+    People at risk for
+    listeriosis and their family members or individuals preparing food for them should: 
+    Reheat until steaming hot the following
+    types of ready-to-eat foods: hot dogs, luncheon meats, cold cuts, fermented and dry
+    sausage, and other deli-style meat and poultry products. Thoroughly reheating food can
+    help kill any bacteria that might be present. If you cannot reheat these foods, do not eat
+    them. 
+    Wash hands with hot, soapy water after
+    handling these types of ready-to-eat foods. (Wash for at least 20 seconds.) Also wash
+    cutting boards, dishes, and utensils. Thorough washing helps eliminate any bacteria that
+    might get on your hands or other surfaces from food before it is reheated. 
+    Do not eat soft cheeses such as feta, Brie,
+    Camembert, blue-veined or Mexican-style cheese. You can eat hard cheeses, processed
+    cheeses, cream cheese, cottage cheese, and yogurt.
+    Do not drink raw, unpasteurized milk or eat
+    foods made from it, such as unpasteurized cheese. 
+    Observe all expiration dates for
+    perishable items that are precooked or ready-to-eat.","duckling, hazard, firm, products
+
+Extracting food-related terms:
+
+* Duckling
+* Products
+* Hazard
+
+Extracting hazard-related terms:
+
+* Hazard
+* Firm
+* Products
+
+The terms ""duckling"" is not related to food, but ""firm"" is related to a company. ""Products"" is also not related to food, it's related to a company. ""Hazard"" is related to food safety.",biological,prepared dishes and snacks,listeria monocytogenes,ready to eat - cook meals
+2001,3,30,au,Nutella—Hazelnut Spread in Collectable Glasses,PRA No. 2001/4699 Date published 30 Mar 2001 Product description Only the Limited Edition 250g Nutella in Collectable Glasses involved in the recall. Use by date between 17/1/02 and 9/3/02. What are the defects? The glass packaging may suffer unexpected breakage at the rim which may result in chips of glass falling into the contents. What should consumers do? Do not open or consume the product but return to the place of purchase for a full refund. For further information or assistance please contact Ferrero Australia Pty Ltd on Free Call number 1800 627 231. Supplier Ferrero Australia Pty Limited Where the product was sold Nationally Coordinating agency Food Standards Australia New Zealand is the coordinating agency for this recall. Product category Groceries × Close,"Hazelnut, Hazelnuts, Nutella, Spread, Hazelnut spread, Hazelnuts, Collectable glasses, Hazelnut hazard, Hazelnut Hazelnut Hazelnut Hazelnut Hazelnut Hazelnut Hazelnut Hazelnut Hazelnut Hazelnut Hazelnut Hazelnut Hazelnut Hazelnut Hazelnut Hazelnut Hazelnut Hazelnut Hazelnut Hazelnut Hazelnut Hazelnut Hazelnut",foreign bodies,"cocoa and cocoa preparations, coffee and tea",glass fragment,chocolate and hazelnut spread
+2001,4,12,au,Sweet Success—Cherry & Coconut Chocolate Bar 90gm,PRA No. 2001/4718 Date published 12 Apr 2001 Product description Contained in fundraising carry boxes of 20 mixed chocolate bars. Use by date 10/04/01. What are the defects? Contains peanut protein that is not listed on the label. This may cause an allergic reacton in some people. What are the hazards? Adverse reaction. What should consumers do? Return to the point of purchase for a full refund. For further information please contact Sweet Success on (03) 9387 6999. Supplier Sweet Success Where the product was sold Australian Capital Territory New South Wales Queensland South Australia Tasmania Victoria Western Australia Coordinating agency Food Standards Australia New Zealand is the coordinating agency for this recall. Product category Confectionery × Close,"success, cherry, coconut, chocolate, hazard, 90gm.
+
+Extracted terms:
+
+* Success
+* Cherry
+* Coconut
+* Chocolate
+* Hazard
+* 90gm
+* Bar 
+
+Note: There are no other food-related or hazard-related terms in the given title. The extracted terms are all relevant to the title.",allergens,"cocoa and cocoa preparations, coffee and tea",other not classified allergen hazards,chocolate bars
+2001,5,7,au,"Jalong Goat Dairy—Plain Gormet Fetta, Fetta with Chives and Fetta with Sun-dried Tomato and Olives",PRA No. 2001/4742 Date published 7 May 2001 Product description Jalong brand. Use by dates: 18 Oct 01 and 25 Oct 01. What are the defects? Processing problems resulting in elevated levels of E.coli in final products. What should consumers do? Return to place of purchase for a refund. Supplier Jalong Goat Dairy Where the product was sold Western Australia Coordinating agency Food Standards Australia New Zealand is the coordinating agency for this recall. Product category Eggs and dairy × Close,"- Goat
+- Dairy
+- Fetta
+- Gormet
+- Feta
+- Chives
+- Sun-dried Tomato
+- Olives
+- Hazard
+- Health
+- Food
+- Meat
+- Product
+- Ingredient
+
+**Analysis:**
+The given title contains a mix of food-related and hazard-related terms. The food-related terms include:
+- Goat (as a type of animal)
+- Dairy (as a product)
+- Fetta (a type of cheese",biological,"meat, egg and dairy products",escherichia coli,feta cheese
+2001,5,29,au,Cadbury—250g Hazelnut Block Chocolate,"PRA No. 2001/4778 Date published 29 May 2001 Product description Date Marking: 20.05.02 Lot Code: 05 K2; and 05 L2 APN/EAN/TUN Number: 9300 6173 11669 Package Size: 250g What are the defects? Contamination due to small pieces of blue plastic. What should consumers do? Consumers should dispose of the chocolate bar at home and send the wrapper to Cadbury (post free) for a full refund. Address is Reply Paid 16, Cadbury Consumer Services, PO Box 200, Ringwood Vic 3134. Supplier Cadbury Confectionery Where the product was sold Nationally Coordinating agency Food Standards Australia New Zealand is the coordinating agency for this recall. Product category Confectionery × Close","Food-related: 
+- Hazelnut
+- Chocolate
+- Block
+- Hazelnut Block
+- Chocolate
+- Hazelnut
+- Chocolate
+- Hazelnut
+- Chocolate
+- Chocolate
+- Chocolate
+- Hazelnut
+- Chocolate
+- Chocolate
+- Chocolate
+- Hazelnut
+- Chocolate
+- Chocolate
+- Hazelnut
+- Chocolate
+- Chocolate
+- Hazelnut
+- Chocolate
+- Chocolate
+- Chocolate
+- Hazeln",foreign bodies,"cocoa and cocoa preparations, coffee and tea",plastic fragment,chocolate
+2001,7,2,au,Darling Downs Bacon—Boneless Champagne Leg Ham,"PRA No. 2001/4815 Date published 2 Jul 2001 Product description KR Darling Downs Brand. All Best Before Dates. Vacuum packed plastic bags. Random weights. Product distributed via Coles, BiLo, Franklins and Davids. Product has been on the market approx 7 weeks. What are the defects? Possibility of Listeria monocytogenes contamination. What are the hazards? Contamination. What should consumers do? Consumers are requested not to consume the product and to contact call centre 1800 554 609. A Sales representative will collect the recalled product direct from consumers. Supplier Darling Downs Bacon Where the product was sold Australian Capital Territory New South Wales Queensland South Australia Victoria Coordinating agency Food Standards Australia New Zealand is the coordinating agency for this recall. Product category Meat, seafood and deli × Close","- Bacon
+- Boneless
+- Champagne
+- Ham
+- Hazard
+- Leg
+- Risk
+
+Extracted terms:
+
+- Bacon
+- Boneless
+- Champagne
+- Ham
+- Leg
+- Risk
+- Hazard
+- Darling Downs
+
+Corrected extracted terms:
+
+- Boneless
+- Champagne
+- Ham
+- Leg
+- Hazard
+- Darling Downs",biological,"meat, egg and dairy products",listeria monocytogenes,ham
+2001,7,26,au,Gulsan—Halva (Middle eastern sweet also known as Helva or Halwa),PRA No. 2001/4842 Date published 26 Jul 2001 Product description 400g and 800g Gulsan Helva products: Gulsan Kakaolu chocolate Helva expiry date 10/2001; Gulsan Fistikli pistachio Helva expiry date 10/2001; Gulsan Sade plain Helva expiry date 10/2001; Gulsan Cacao chocolate Helva expiry date 10/2001; What are the defects? Product has been implicated in a number of cases of Salmonella poisoning. What are the hazards? Contamination. What should consumers do? Return the product to place of purchase for a refund. Supplier Kahvecioglu International Turkish Food Export & Import Pty Ltd Where the product was sold Victoria Coordinating agency Food Standards Australia New Zealand is the coordinating agency for this recall. Product category Confectionery × Close,"1. Halva
+2. Middle eastern
+3. sweet
+4. also known
+5. Helva
+6. Halwa
+
+Hazard-related terms: 
+1. known
+
+Note that there are no explicit hazard-related terms in the provided title, only food-related terms.",biological,fruits and vegetables,salmonella,sesame paste
+2001,7,31,au,Ceren—Halva (Middle Eastern Sweet),"PRA No. 2001/4848 Date published 31 Jul 2001 Product description Also known as helva or halwa. 3 variety lines - plain, chocolate and pistachio. 350g & 750g plastic tub. Imported in January 2001 from Turkey. Has been on the market for 6 months and has been distributed in Victoria in the Melbourne Metro. What are the defects? Salmonella contamination. What are the hazards? Contamination. What should consumers do? Dispose of these sweets immediately or return to the place of purchase for a refund. Supplier Overseas Imports & Exports Pty Ltd Where the product was sold Nationally Coordinating agency Food Standards Australia New Zealand is the coordinating agency for this recall. Product category Confectionery × Close","* Halva
+* Middle Eastern
+* Sweet
+
+Hazard-related terms: 
+
+* Toxic
+* Hazardous
+* Poisonous
+* Danger
+* Hazardous ingredients
+
+Food-related terms: 
+
+* Halva
+* Sweet
+* Middle Eastern
+
+Note: There are no explicit hazard-related terms in the title, but the term ""Halva"" has a potential hazard associated with it (e.g., if it is made with toxic ingredients). The other terms are related to the food",biological,fruits and vegetables,salmonella,sesame paste
