@@ -1,0 +1,101 @@
+{
+    "alcoholic beverages": [
+        "alcoholic beverage",
+        "beverage",
+        "alcoholic",
+        "beverages"
+    ],
+    "cereals and bakery products": [
+        "cereals",
+        "bakery",
+        "products"
+    ],
+    "cocoa and cocoa preparations, coffee and tea": [
+        "cocoa",
+        "coffee",
+        "tea"
+    ],
+    "dietetic foods, food supplements, fortified foods": [
+        "dietetic",
+        "fortified",
+        "food",
+        "supplements"
+    ],
+    "fats and oils": [
+        "fats",
+        "oils"
+    ],
+    "feed materials": [
+        "materials"
+    ],
+    "food additives and flavourings": [
+        "additive",
+        "flavourings",
+        "food additives"
+    ],
+    "food contact materials": [
+        "food",
+        "contact",
+        "materials"
+    ],
+    "fruits and vegetables": [
+        "fruits",
+        "vegetables"
+    ],
+    "herbs and spices": [
+        "herbs",
+        "spices"
+    ],
+    "honey and royal jelly": [
+        "honey",
+        "royal jelly"
+    ],
+    "ices and desserts": [
+        "desserts",
+        "ices"
+    ],
+    "meat, egg and dairy products": [
+        "meat",
+        "egg",
+        "dairy products"
+    ],
+    "non-alcoholic beverages": [
+        "beverage",
+        "beverages"
+    ],
+    "nuts, nut products and seeds": [
+        "nut",
+        "nuts",
+        "products",
+        "seeds"
+    ],
+    "other food product / mixed": [
+        "food",
+        "mixed"
+    ],
+    "pet feed": [
+        "pet"
+    ],
+    "prepared dishes and snacks": [
+        "dishes",
+        "snacks",
+        "prepared"
+    ],
+    "seafood": [
+        "seafood"
+    ],
+    "soups, broths, sauces and condiments": [
+        "broth",
+        "broths",
+        "soups",
+        "soup",
+        "sauces",
+        "sauce",
+        "condiments",
+        "condiment"
+    ],
+    "sugars and syrups": [
+        "sugars",
+        "syrups"
+    ]
+}
