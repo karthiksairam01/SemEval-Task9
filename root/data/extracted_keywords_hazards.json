@@ -1,0 +1,428 @@
+{
+    "Aflatoxin": [
+        "aflatoxin"
+    ],
+    "abnormal smell": [
+        "smell",
+        "abnormal"
+    ],
+    "alcohol content": [
+        "alcohol",
+        "content"
+    ],
+    "alkaloids": [
+        "alkaloids"
+    ],
+    "allergens": [
+        "allergens"
+    ],
+    "almond": [
+        "almond"
+    ],
+    "altered organoleptic characteristics": [
+        "altered",
+        "organoleptic",
+        "characteristics"
+    ],
+    "amygdalin": [
+        "amygdalin"
+    ],
+    "antibiotics, vet drugs": [
+        "antibiotics"
+    ],
+    "bacillus spp.": [
+        "bacillus"
+    ],
+    "bad smell / off odor": [
+        "bad",
+        "smell",
+        "odor"
+    ],
+    "bone fragment": [
+        "bone",
+        "fragment"
+    ],
+    "brazil nut": [
+        "brazil",
+        "nut"
+    ],
+    "bulging packaging": [
+        "bulging"
+    ],
+    "cashew": [
+        "cashew"
+    ],
+    "celery and products thereof": [
+        "celery",
+        "products"
+    ],
+    "cereals containing gluten and products thereof": [
+        "cereals",
+        "gluten",
+        "products"
+    ],
+    "cereals": [
+        "cereals"
+    ],
+    "chemical compound (high content)": [
+        "chemical",
+        "compound",
+        "high"
+    ],
+    "chemical compound (unauthorised)": [
+        "chemical",
+        "compound",
+        "unauthorised"
+    ],
+    "chemical": [
+        "chemical"
+    ],
+    "chlorine": [
+        "chlorine"
+    ],
+    "clostridium botulinum": [
+        "clostridium",
+        "botulinum"
+    ],
+    "coconut": [
+        "coconut"
+    ],
+    "coliforms": [
+        "coliforms"
+    ],
+    "compositional deviation": [
+        "compositional",
+        "deviation"
+    ],
+    "contaminant": [
+        "contaminant"
+    ],
+    "cronobacter spp": [
+        "cronobacter"
+    ],
+    "crustaceans and products thereof": [
+        "crustaceans",
+        "products"
+    ],
+    "dairy products": [
+        "dairy products",
+        "products",
+        "dairy"
+    ],
+    "damaged packaging": [
+        "damaged"
+    ],
+    "dioxins": [
+        "dioxins"
+    ],
+    "e 425 - konjac unauthorised": [
+        "konjac"
+    ],
+    "eggs and products thereof": [
+        "egg",
+        "products"
+    ],
+    "enteroviruses": [
+        "enteroviruses"
+    ],
+    "escherichia coli": [
+        "escherichia coli"
+    ],
+    "false marketing claims": [
+        "claim",
+        "false"
+    ],
+    "fish and products thereof": [
+        "fish",
+        "products"
+    ],
+    "foreign bodies": [
+        "foreign bodies",
+        "foreign body",
+        "bodies"
+    ],
+    "glass fragment": [],
+    "haloxyfop": [
+        "haloxyfop"
+    ],
+    "hazelnut": [
+        "hazelnut"
+    ],
+    "heavy metals": [
+        "heavy metals",
+        "heavy metal",
+        "metals"
+    ],
+    "high content of copper": [
+        "copper",
+        "content"
+    ],
+    "high content of cyanide": [
+        "cyanide",
+        "high"
+    ],
+    "high content of vitamins": [
+        "vitamins"
+    ],
+    "improper conditions": [
+        "improper",
+        "conditions"
+    ],
+    "improper packaging": [
+        "improper"
+    ],
+    "incorrect labeling": [
+        "incorrect"
+    ],
+    "incorrect use by dates": [
+        "use",
+        "date",
+        "incorrect"
+    ],
+    "insects": [
+        "insects"
+    ],
+    "inspection issues": [
+        "issue",
+        "inspection"
+    ],
+    "insufficient labelling/documentation": [
+        "insufficient"
+    ],
+    "listeria monocytogenes": [
+        "listeria monocytogenes"
+    ],
+    "listeria spp": [
+        "listeria"
+    ],
+    "metal fragment": [
+        "metal",
+        "fragment"
+    ],
+    "microbiological contamination": [
+        "microbiological",
+        "contamination"
+    ],
+    "milk and products thereof": [
+        "milk",
+        "products"
+    ],
+    "misbranding": [
+        "misbranding"
+    ],
+    "misdescription": [
+        "misdescription"
+    ],
+    "molluscs and products thereof": [
+        "molluscs",
+        "products"
+    ],
+    "moulds": [
+        "moulds"
+    ],
+    "mustard and products thereof": [
+        "mustard"
+    ],
+    "nitrogen": [
+        "nitrogen"
+    ],
+    "non compliance with HACCP": [
+        "haccp",
+        "non compliance"
+    ],
+    "novel food": [
+        "novel",
+        "food"
+    ],
+    "nuts": [
+        "nuts"
+    ],
+    "ochratoxin": [
+        "ochratoxin"
+    ],
+    "organochlorine": [
+        "organochlorine"
+    ],
+    "other misbranding issues": [
+        "misbranding",
+        "issues"
+    ],
+    "other not classified allergen hazards": [
+        "hazards",
+        "allergen"
+    ],
+    "other not classified biological hazards": [
+        "hazards",
+        "hazard",
+        "biological"
+    ],
+    "other not classified chemical hazards": [
+        "chemical",
+        "hazards"
+    ],
+    "other not classified hazards for foreign bodies": [
+        "hazards",
+        "foreign bodies",
+        "body",
+        "foreign body",
+        "hazard"
+    ],
+    "packaging defect": [
+        "defect"
+    ],
+    "paralytic shellfish poisoning (psp) toxins": [
+        "paralytic",
+        "shellfish",
+        "toxins"
+    ],
+    "pathogenic bacteria": [
+        "pathogenic"
+    ],
+    "patulin": [
+        "patulin"
+    ],
+    "peanuts and products thereof": [
+        "peanuts",
+        "products"
+    ],
+    "pecan nut": [
+        "pecan",
+        "nut"
+    ],
+    "phenylpyrazole": [
+        "phenylpyrazole"
+    ],
+    "pieces of wood": [
+        "wood",
+        "pieces"
+    ],
+    "pistachio nut": [
+        "nut",
+        "pistachio"
+    ],
+    "plastic fragment": [
+        "plastic",
+        "fragment"
+    ],
+    "polycyclic aromatic hydrocarbons": [],
+    "poor hygienic state": [
+        "hygienic",
+        "poor"
+    ],
+    "poor or insufficient controls": [
+        "insufficient",
+        "poor"
+    ],
+    "product category/characteristics": [
+        "product"
+    ],
+    "pseudomonas spp.": [
+        "pseudomonas"
+    ],
+    "rubber fragments": [
+        "fragments",
+        "rubber"
+    ],
+    "salmonella": [
+        "salmonella"
+    ],
+    "sesame seeds and products thereof": [
+        "sesame",
+        "seeds",
+        "products"
+    ],
+    "soybeans and products thereof": [
+        "soybeans",
+        "products"
+    ],
+    "specified risk material (srm)": [
+        "specified",
+        "risk",
+        "material",
+        "srm"
+    ],
+    "spoilage": [
+        "spoilage"
+    ],
+    "staphylococcal enterotoxin": [
+        "staphylococcal enterotoxin",
+        "enterotoxin"
+    ],
+    "stones": [
+        "stones"
+    ],
+    "sulfamethazine unauthorised": [
+        "unauthorised"
+    ],
+    "sulphur dioxide and sulphites": [
+        "sulphur",
+        "sulphites"
+    ],
+    "sulphur dioxide": [
+        "sulphur",
+        "dioxide",
+        "sulphur dioxide"
+    ],
+    "taste disturbance": [
+        "taste",
+        "disturbance"
+    ],
+    "too high content of fluorinated organic chemicals": [
+        "fluorinated",
+        "high",
+        "chemical",
+        "organic"
+    ],
+    "too high content of tetrahydrocannabinol (THC)": [
+        "tetrahydrocannabinol",
+        "thc",
+        "high",
+        "content"
+    ],
+    "toxin": [
+        "toxin"
+    ],
+    "unauthorised colour sudan 4": [
+        "sudan",
+        "colour"
+    ],
+    "unauthorised import": [
+        "unauthorised",
+        "import"
+    ],
+    "unauthorised operator": [
+        "operator"
+    ],
+    "unauthorised placing on the market": [
+        "place",
+        "market",
+        "placing on"
+    ],
+    "unauthorised substance ethylene oxide": [
+        "oxide",
+        "ethylene"
+    ],
+    "unauthorised substance sildenafil": [
+        "sildenafil"
+    ],
+    "undeclared additive": [
+        "undeclared",
+        "additive"
+    ],
+    "undeclared constituent": [
+        "constituent"
+    ],
+    "unfit for human consumption": [
+        "consumption",
+        "human"
+    ],
+    "vibrio spp": [
+        "vibrio"
+    ],
+    "walnut": [
+        "walnut"
+    ],
+    "yeasts": [
+        "yeasts"
+    ]
+}
