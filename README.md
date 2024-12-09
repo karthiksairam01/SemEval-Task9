@@ -11,7 +11,7 @@ The datasets folder contains a csv of the manually labeled English food recall t
 The data analysis file sifts through the data and gathers all the product and hazard categories and filters duplicates. 
 
 ### Root
-This folder is where our pipeline is stored
+This folder is where intermediate files for our pipeline are stored.
 #### cocoex
 This folder contains tsv files for all of the following (obtained by processing titles/labels through CoCo-Ex): [input titles](https://github.com/karthiksairam01/SemEval-Task9/blob/main/root/cocoex/outputfile_all.tsv) [products](https://github.com/karthiksairam01/SemEval-Task9/blob/main/root/cocoex/products.tsv), [hazards](https://github.com/karthiksairam01/SemEval-Task9/blob/main/root/cocoex/hazards.tsv), [product categories](https://github.com/karthiksairam01/SemEval-Task9/blob/main/root/cocoex/product_categories.tsv), [hazard categories](https://github.com/karthiksairam01/SemEval-Task9/blob/main/root/cocoex/hazard_categories.tsv). These files are fed into LLaMA in the pipeline.
 #### data
