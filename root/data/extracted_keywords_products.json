@@ -1,0 +1,3973 @@
+{
+    "Catfishes (freshwater)": [
+        "catfish",
+        "freshwater"
+    ],
+    "Dried pork meat": [
+        "meat",
+        "dried"
+    ],
+    "Fishes not identified": [
+        "identify",
+        "fishes"
+    ],
+    "Groupers (generic)": [
+        "groupers",
+        "generic"
+    ],
+    "Not classified pork meat": [
+        "meat",
+        "pork"
+    ],
+    "Pangas catfishes (generic)": [
+        "catfish",
+        "pangas"
+    ],
+    "Precooked cooked pork meat products": [
+        "cook",
+        "cooked",
+        "products",
+        "meat",
+        "pork"
+    ],
+    "Torpedo-shaped catfishes (generic)": [
+        "catfishes",
+        "generic"
+    ],
+    "Veggie Burger": [
+        "veggie",
+        "burger"
+    ],
+    "adobo seasoning": [
+        "adobo"
+    ],
+    "after dinner mints": [
+        "mints",
+        "dinner"
+    ],
+    "alcoholic beverages": [
+        "alcoholic beverages",
+        "alcoholic",
+        "beverages"
+    ],
+    "alfalfa sprouts": [
+        "alfalfa",
+        "sprouts"
+    ],
+    "all purpose seasoning": [
+        "purpose"
+    ],
+    "allspice": [
+        "allspice"
+    ],
+    "almond kernels": [
+        "almond",
+        "kernels"
+    ],
+    "almond milk": [
+        "almond",
+        "milk"
+    ],
+    "almond powder": [
+        "almond",
+        "powder"
+    ],
+    "almond products": [
+        "almond",
+        "products"
+    ],
+    "almonds": [
+        "almonds",
+        "almond"
+    ],
+    "amaranth": [
+        "amaranth"
+    ],
+    "anchovies in oil": [
+        "oil",
+        "anchovy"
+    ],
+    "anchovy paste": [],
+    "angus beef": [
+        "angus",
+        "beef"
+    ],
+    "animal by-products": [
+        "animal"
+    ],
+    "appetizers": [
+        "appetizers"
+    ],
+    "apple cake": [
+        "apple",
+        "cake"
+    ],
+    "apple juice": [
+        "apple",
+        "juice"
+    ],
+    "apples": [
+        "apple"
+    ],
+    "apricot kernels": [
+        "apricot",
+        "kernel"
+    ],
+    "apricots": [
+        "apricot",
+        "apricots"
+    ],
+    "assorted bread roll selection": [
+        "assorted",
+        "bread",
+        "roll",
+        "selection"
+    ],
+    "assortment of filled chocolates": [
+        "assortment",
+        "filled",
+        "chocolates"
+    ],
+    "baby food pouches": [
+        "food",
+        "pouches",
+        "baby"
+    ],
+    "baby food": [
+        "baby",
+        "food"
+    ],
+    "baby foods": [
+        "baby foods",
+        "baby food",
+        "foods"
+    ],
+    "baby spinach": [
+        "baby",
+        "spinach"
+    ],
+    "bagels": [
+        "bagel",
+        "bagels"
+    ],
+    "baguettes": [
+        "baguette",
+        "baguettes"
+    ],
+    "bakery products": [
+        "bakery",
+        "products"
+    ],
+    "baking mix": [
+        "baking mix"
+    ],
+    "baklava": [
+        "baklava"
+    ],
+    "balsamic": [
+        "balsamic"
+    ],
+    "bamboo shoots": [
+        "bamboo shoots",
+        "bamboo",
+        "shoot"
+    ],
+    "bamboo": [
+        "bamboo"
+    ],
+    "bananas": [
+        "bananas"
+    ],
+    "barbecue sauce": [
+        "barbecue",
+        "sauce"
+    ],
+    "bars": [
+        "bars"
+    ],
+    "basil pesto sauce": [
+        "basil",
+        "pesto",
+        "sauce"
+    ],
+    "basil": [
+        "basil"
+    ],
+    "batter mix": [
+        "batter",
+        "mix"
+    ],
+    "bean paste": [
+        "bean",
+        "paste"
+    ],
+    "bean sauce": [
+        "bean",
+        "sauce"
+    ],
+    "bean snack": [
+        "bean",
+        "snack"
+    ],
+    "bean sprouts": [
+        "bean sprouts",
+        "bean sprout",
+        "sprouts",
+        "sprout"
+    ],
+    "beans": [
+        "beans"
+    ],
+    "beef burrito": [
+        "beef",
+        "burrito"
+    ],
+    "beef meat": [
+        "beef",
+        "meat"
+    ],
+    "beef products": [
+        "beef",
+        "products"
+    ],
+    "beef stewed": [
+        "beef",
+        "stewed"
+    ],
+    "beef tallow": [
+        "beef",
+        "tallow"
+    ],
+    "beef tenderloin cuts": [
+        "beef",
+        "tenderloin",
+        "cuts"
+    ],
+    "beef tongue": [
+        "beef",
+        "tongue"
+    ],
+    "beef trimmings": [
+        "beef",
+        "trimmings"
+    ],
+    "beef": [
+        "beef"
+    ],
+    "beer": [
+        "beer"
+    ],
+    "beetroots": [
+        "beetroot",
+        "beetroots"
+    ],
+    "beverage base of non-fruit origin, liquid": [
+        "base",
+        "origin",
+        "beverage"
+    ],
+    "beverage": [
+        "beverage"
+    ],
+    "bilberry extract used in a food supplement": [
+        "food",
+        "supplement",
+        "extract"
+    ],
+    "biscuit mix": [
+        "biscuit"
+    ],
+    "biscuits": [
+        "biscuits"
+    ],
+    "bitter apricot kernels": [
+        "apricot",
+        "kernel"
+    ],
+    "black caviar": [
+        "caviar",
+        "black"
+    ],
+    "black pepper": [
+        "black pepper",
+        "pepper"
+    ],
+    "blackberries": [
+        "blackberries",
+        "blackberry"
+    ],
+    "blackcurrant drink concentrate": [
+        "blackcurrant",
+        "drink",
+        "concentrate"
+    ],
+    "bloody mary beverage mix": [
+        "mary",
+        "mix",
+        "beverage"
+    ],
+    "blue cheese": [
+        "blue",
+        "cheese"
+    ],
+    "blue poppy seeds": [
+        "blue",
+        "poppy",
+        "seeds"
+    ],
+    "blueberries": [
+        "blueberries"
+    ],
+    "boar": [
+        "boar"
+    ],
+    "boletus mushrooms, stems and pieces": [
+        "mushrooms",
+        "pieces"
+    ],
+    "bolognese sauce": [
+        "bolognese sauce",
+        "sauce"
+    ],
+    "boneless beef": [
+        "beef"
+    ],
+    "bottled mineral water": [
+        "mineral water",
+        "bottled"
+    ],
+    "bottled water": [
+        "bottled",
+        "water"
+    ],
+    "bovine fat": [
+        "fat"
+    ],
+    "bovine meat and offal": [
+        "meat",
+        "offal"
+    ],
+    "brazil nuts": [
+        "brazil nuts"
+    ],
+    "bread and products therefor": [
+        "bread",
+        "products"
+    ],
+    "bread crumb": [
+        "bread",
+        "crumb"
+    ],
+    "bread mix": [
+        "bread",
+        "mix"
+    ],
+    "bread": [
+        "bread"
+    ],
+    "breakfast cereals and products therefor": [
+        "cereals",
+        "breakfast",
+        "cereal",
+        "product",
+        "products"
+    ],
+    "breakfast cereals for babies": [
+        "cereals",
+        "babies",
+        "breakfast"
+    ],
+    "breakfast cereals": [
+        "cereals",
+        "breakfast"
+    ],
+    "brewer's yeast": [
+        "brewer",
+        "yeast"
+    ],
+    "brie cheese": [
+        "brie",
+        "cheese"
+    ],
+    "brioche": [
+        "brioche"
+    ],
+    "broccoli mix": [
+        "mix",
+        "broccoli"
+    ],
+    "broccoli": [
+        "broccoli"
+    ],
+    "broths": [
+        "broth",
+        "broths"
+    ],
+    "brown beans": [
+        "beans",
+        "brown"
+    ],
+    "brown mushrooms": [
+        "mushrooms",
+        "brown"
+    ],
+    "brown rice": [
+        "brown",
+        "rice"
+    ],
+    "brownies": [
+        "brownie",
+        "brownies"
+    ],
+    "brussel sprouts": [
+        "brussel sprouts",
+        "sprouts"
+    ],
+    "buffalo milk mozzarella cheese": [
+        "buffalo",
+        "mozzarella",
+        "cheese"
+    ],
+    "buns": [
+        "buns"
+    ],
+    "burrata": [
+        "burrata"
+    ],
+    "burrito (ready to eat)": [
+        "burrito",
+        "eat"
+    ],
+    "butter": [
+        "butter"
+    ],
+    "cabbage": [
+        "cabbage"
+    ],
+    "cake decoration": [
+        "decoration",
+        "cake"
+    ],
+    "cakes": [
+        "cakes"
+    ],
+    "camembert": [
+        "camembert"
+    ],
+    "candies": [
+        "candies"
+    ],
+    "canned artichoke hearts": [
+        "artichoke",
+        "hearts"
+    ],
+    "canned black beans": [
+        "black beans",
+        "beans"
+    ],
+    "canned chicken": [
+        "chicken"
+    ],
+    "canned corn": [
+        "corn"
+    ],
+    "canned crab meat in brine": [
+        "crab",
+        "meat",
+        "brine"
+    ],
+    "canned fish products": [
+        "fish",
+        "products"
+    ],
+    "canned meat stew": [
+        "stew",
+        "meat"
+    ],
+    "canned mussels": [
+        "mussels"
+    ],
+    "canned spinach": [
+        "spinach"
+    ],
+    "cantaloupe (fresh)": [
+        "cantaloupe"
+    ],
+    "caramel bites": [
+        "bites",
+        "caramel"
+    ],
+    "carbonated  water": [
+        "carbonated",
+        "water"
+    ],
+    "carbonated beverage": [
+        "carbonated",
+        "beverage"
+    ],
+    "carbonated/sparkling water": [],
+    "carcasses of veal": [
+        "carcass",
+        "veal"
+    ],
+    "cardamom seeds": [
+        "cardamom",
+        "seeds"
+    ],
+    "cardamon seeds": [
+        "cardamon",
+        "seeds"
+    ],
+    "carps, barbels and other cyprinids": [
+        "carps",
+        "barbels"
+    ],
+    "cashew": [
+        "cashew"
+    ],
+    "cattle from which the milk was used to produce raw milk cheese": [
+        "cattle",
+        "milk",
+        "cheese"
+    ],
+    "cauliflower": [
+        "cauliflower"
+    ],
+    "cbd oil": [
+        "oil",
+        "cbd"
+    ],
+    "cbd products": [
+        "products",
+        "product"
+    ],
+    "cereal bars with chocolate": [
+        "cereal bars",
+        "chocolate"
+    ],
+    "cereal bars": [
+        "cereal bars",
+        "bars",
+        "cereal"
+    ],
+    "cereal drink": [
+        "cereal",
+        "drink"
+    ],
+    "cereal": [
+        "cereal"
+    ],
+    "cereals and bakery products": [
+        "bakery",
+        "cereals"
+    ],
+    "cereals": [
+        "cereals"
+    ],
+    "cheddar cheese": [
+        "cheddar",
+        "cheese"
+    ],
+    "cheese (taleggio capriolo)": [
+        "cheese",
+        "taleggio"
+    ],
+    "cheese - made from raw milk": [
+        "cheese",
+        "made",
+        "milk",
+        "raw milk"
+    ],
+    "cheese - melted": [
+        "cheese"
+    ],
+    "cheese burgers": [
+        "cheese"
+    ],
+    "cheese dip": [
+        "cheese",
+        "dip"
+    ],
+    "cheese flavoured snacks": [
+        "cheese",
+        "flavoured",
+        "snacks"
+    ],
+    "cheese products": [
+        "cheese",
+        "products"
+    ],
+    "cheese sausages": [
+        "cheese",
+        "sausages"
+    ],
+    "cheese spread": [
+        "cheese spread"
+    ],
+    "cheese tortilla": [
+        "cheese",
+        "tortilla"
+    ],
+    "cheese tray": [
+        "cheese",
+        "tray"
+    ],
+    "cheese": [
+        "cheese"
+    ],
+    "cheesy spirals": [
+        "cheesy",
+        "spirals"
+    ],
+    "cherries": [
+        "cherries"
+    ],
+    "chia seeds": [
+        "chia",
+        "seeds"
+    ],
+    "chicken and chicken preparations": [
+        "chicken",
+        "preparations"
+    ],
+    "chicken based products": [
+        "chicken",
+        "products",
+        "based"
+    ],
+    "chicken breast": [
+        "breast",
+        "chicken"
+    ],
+    "chicken broth": [
+        "chicken",
+        "broth"
+    ],
+    "chicken dippers": [
+        "chicken",
+        "dippers"
+    ],
+    "chicken drumsticks": [
+        "chicken",
+        "drumsticks"
+    ],
+    "chicken fillets": [
+        "chicken fillets",
+        "chicken",
+        "fillets",
+        "fillet"
+    ],
+    "chicken meat meal": [
+        "chicken",
+        "meat"
+    ],
+    "chicken meat products": [
+        "chicken",
+        "meat",
+        "products"
+    ],
+    "chicken noodle soup": [
+        "chicken",
+        "noodle",
+        "soup"
+    ],
+    "chicken pie": [
+        "chicken",
+        "pie"
+    ],
+    "chicken preparations": [
+        "chicken",
+        "preparations"
+    ],
+    "chicken products - frozen": [
+        "chicken",
+        "frozen"
+    ],
+    "chicken slices": [
+        "chicken",
+        "slices"
+    ],
+    "chicken steak without bone": [
+        "steak",
+        "chicken"
+    ],
+    "chicken": [
+        "chicken"
+    ],
+    "chickpeas": [
+        "chickpeas"
+    ],
+    "chilled beef preparations": [
+        "chilled",
+        "beef",
+        "preparations"
+    ],
+    "chilled beef": [
+        "chilled",
+        "beef"
+    ],
+    "chilled bengali cod curry": [
+        "bengali",
+        "cod",
+        "curry",
+        "chilled"
+    ],
+    "chilled boneless pork meat": [
+        "meat",
+        "pork",
+        "boneless",
+        "chilled"
+    ],
+    "chilled chicken parts": [
+        "chilled",
+        "chicken",
+        "parts"
+    ],
+    "chilled chicken thighs": [
+        "chilled",
+        "chicken",
+        "thighs"
+    ],
+    "chilled chicken wings": [
+        "chilled",
+        "chicken",
+        "wings"
+    ],
+    "chilled chicken": [
+        "chilled",
+        "chicken"
+    ],
+    "chilled dumplings with meat": [
+        "dumplings",
+        "meat"
+    ],
+    "chilled lasagne": [
+        "chilled",
+        "lasagne"
+    ],
+    "chilled pork ribs": [
+        "ribs",
+        "chilled",
+        "pork"
+    ],
+    "chilled pork sausages": [
+        "sausages",
+        "chilled",
+        "pork"
+    ],
+    "chilled pork": [
+        "chilled",
+        "pork"
+    ],
+    "chilled ready to eat salad and side dishes": [
+        "salad",
+        "side dishes"
+    ],
+    "chilled salads": [
+        "chilled",
+        "salads"
+    ],
+    "chilled smoked ham": [
+        "ham",
+        "smoked ham",
+        "chilled"
+    ],
+    "chilled vacuum packed beef": [
+        "beef",
+        "chilled",
+        "vacuum",
+        "packed"
+    ],
+    "chilli oil": [
+        "chilli",
+        "oil"
+    ],
+    "chilli paste": [
+        "chilli",
+        "paste"
+    ],
+    "chilli peppers": [
+        "chilli peppers",
+        "peppers"
+    ],
+    "chilli pickle": [
+        "chilli",
+        "pickle"
+    ],
+    "chilli powder": [
+        "chilli",
+        "powder"
+    ],
+    "chilli sauce": [
+        "chilli",
+        "sauce"
+    ],
+    "chilli": [
+        "chilli"
+    ],
+    "chillies": [
+        "chillies",
+        "chilli"
+    ],
+    "chocolate and chocolate products": [
+        "chocolate",
+        "products"
+    ],
+    "chocolate and hazelnut spread": [
+        "chocolate",
+        "hazelnut"
+    ],
+    "chocolate and products therefor": [
+        "chocolate",
+        "products"
+    ],
+    "chocolate and strawberry flavoured cyclone milk": [
+        "chocolate",
+        "strawberry",
+        "flavoured",
+        "milk"
+    ],
+    "chocolate bars": [
+        "chocolate bars",
+        "chocolate bar",
+        "chocolate"
+    ],
+    "chocolate chips": [
+        "chocolate",
+        "chips"
+    ],
+    "chocolate confectionery": [
+        "chocolate",
+        "confectionery"
+    ],
+    "chocolate dessert": [
+        "chocolate",
+        "dessert"
+    ],
+    "chocolate drink powder": [
+        "chocolate",
+        "drink",
+        "powder"
+    ],
+    "chocolate drinks": [
+        "chocolate",
+        "drinks"
+    ],
+    "chocolate easter eggs with filling": [
+        "easter eggs",
+        "chocolate",
+        "easter egg"
+    ],
+    "chocolate eggs": [
+        "chocolate eggs",
+        "eggs",
+        "chocolate"
+    ],
+    "chocolate flavoured cereals": [
+        "chocolate",
+        "flavoured",
+        "cereal",
+        "cereals"
+    ],
+    "chocolate flavoured meringues": [
+        "chocolate",
+        "meringue"
+    ],
+    "chocolate mini muffins": [
+        "chocolate",
+        "muffins"
+    ],
+    "chocolate mousse": [
+        "chocolate",
+        "mousse"
+    ],
+    "chocolate products": [
+        "chocolate",
+        "products"
+    ],
+    "chocolate spelt balls": [
+        "chocolate",
+        "balls"
+    ],
+    "chocolate spread with hazelnuts": [
+        "chocolate",
+        "hazelnuts"
+    ],
+    "chocolate spread": [
+        "chocolate",
+        "spread"
+    ],
+    "chocolate truffles": [
+        "chocolate truffles",
+        "chocolate",
+        "truffles",
+        "truffle"
+    ],
+    "chocolate wafers": [
+        "chocolate",
+        "wafers"
+    ],
+    "chocolate": [
+        "chocolate"
+    ],
+    "chocolates": [
+        "chocolate",
+        "chocolates"
+    ],
+    "chorizo sausage": [
+        "chorizo",
+        "sausage"
+    ],
+    "chorizo": [
+        "chorizo"
+    ],
+    "cider": [
+        "cider"
+    ],
+    "cinnamon rolls": [
+        "cinnamon",
+        "roll",
+        "rolls"
+    ],
+    "cinnamon": [
+        "cinnamon"
+    ],
+    "clams (canned)": [
+        "clams"
+    ],
+    "clams": [
+        "clam",
+        "clams"
+    ],
+    "cocktail sausage rolls": [
+        "cocktail",
+        "sausage",
+        "rolls"
+    ],
+    "coconut drink": [
+        "coconut",
+        "drink"
+    ],
+    "coconut juice": [
+        "coconut",
+        "juice"
+    ],
+    "coconut milk drink": [
+        "drink"
+    ],
+    "coconut milk": [
+        "coconut",
+        "milk"
+    ],
+    "coconut oil": [
+        "coconut oil"
+    ],
+    "coconut sugar": [
+        "coconut",
+        "sugar"
+    ],
+    "coconuts": [
+        "coconuts"
+    ],
+    "cod fillets": [
+        "cod",
+        "fillets"
+    ],
+    "cod": [
+        "cod"
+    ],
+    "coffee beans": [
+        "coffee",
+        "beans"
+    ],
+    "coffee drink": [
+        "coffee",
+        "drink"
+    ],
+    "cola drink": [
+        "cola",
+        "drink"
+    ],
+    "colours": [
+        "colour",
+        "colours"
+    ],
+    "concentrated apples": [
+        "concentrated",
+        "apples"
+    ],
+    "confectionery for decoration": [
+        "decoration"
+    ],
+    "cooked chicken skewer": [
+        "chicken",
+        "cooked",
+        "skewer"
+    ],
+    "cooked chicken": [
+        "cooked",
+        "chicken"
+    ],
+    "cooked ham": [
+        "ham",
+        "cooked"
+    ],
+    "cooked meat products": [
+        "cooked",
+        "meat",
+        "products"
+    ],
+    "cooked sausages": [
+        "cooked",
+        "sausages"
+    ],
+    "cooking sauce": [
+        "sauce"
+    ],
+    "coriander": [
+        "coriander"
+    ],
+    "corn": [
+        "corn"
+    ],
+    "cottage cheese": [
+        "cottage cheese",
+        "cheese"
+    ],
+    "cottage pie": [
+        "cottage pie",
+        "pie"
+    ],
+    "courgettes": [
+        "courgettes"
+    ],
+    "cow milk cheese": [
+        "cow",
+        "milk",
+        "cheese"
+    ],
+    "crabs": [
+        "crabs"
+    ],
+    "crackers": [
+        "crackers"
+    ],
+    "cranberry jam": [
+        "cranberry",
+        "jam"
+    ],
+    "cranberry juice": [
+        "cranberry",
+        "juice"
+    ],
+    "cream cheese": [
+        "cream",
+        "cheese"
+    ],
+    "cream chocolate pie": [
+        "cream",
+        "chocolate",
+        "pie"
+    ],
+    "crepe mix": [
+        "crepe",
+        "mix"
+    ],
+    "crisp cheese snack": [
+        "snack",
+        "crisp",
+        "cheese"
+    ],
+    "crispbread": [
+        "crispbread"
+    ],
+    "crisps": [
+        "crisps"
+    ],
+    "croissants": [
+        "croissant",
+        "croissants"
+    ],
+    "crushed red pepper": [],
+    "crustaceans and products thereof": [
+        "crustaceans",
+        "products"
+    ],
+    "cultivated fungi": [
+        "cultivated",
+        "fungi"
+    ],
+    "cumin powder": [
+        "cumin",
+        "powder"
+    ],
+    "cupcakes": [
+        "cupcake",
+        "cupcakes"
+    ],
+    "curd cheese": [
+        "curd",
+        "cheese"
+    ],
+    "cured loin": [
+        "cured",
+        "loin"
+    ],
+    "cured pork meat": [
+        "cured",
+        "pork",
+        "meat"
+    ],
+    "cured smoked ham": [
+        "cured",
+        "smoked",
+        "ham"
+    ],
+    "curry paste": [
+        "curry paste"
+    ],
+    "curry sauces": [
+        "curry",
+        "sauces"
+    ],
+    "curry": [
+        "curry"
+    ],
+    "custard": [
+        "custard"
+    ],
+    "cuttlefish": [
+        "cuttlefish"
+    ],
+    "dark chocolate coated almonds": [
+        "dark chocolate",
+        "almonds"
+    ],
+    "dark chocolates": [
+        "dark chocolates",
+        "dark chocolate",
+        "chocolate"
+    ],
+    "dates": [
+        "date",
+        "dates"
+    ],
+    "deboned chicken thighs": [
+        "chicken",
+        "deboned",
+        "thighs"
+    ],
+    "desserts": [
+        "dessert",
+        "desserts"
+    ],
+    "diced beef": [
+        "beef",
+        "diced"
+    ],
+    "dietary capsules": [
+        "capsules",
+        "dietary"
+    ],
+    "dietary supplement": [
+        "dietary",
+        "supplement"
+    ],
+    "dietetic foods, food supplements, fortified foods": [
+        "fortified foods",
+        "food supplements"
+    ],
+    "dipping sauce": [
+        "dipping sauce",
+        "dipping",
+        "sauce"
+    ],
+    "donuts": [
+        "donut",
+        "donuts"
+    ],
+    "dressing sauces": [
+        "sauces"
+    ],
+    "dried almonds": [
+        "almonds",
+        "dried"
+    ],
+    "dried anchovies": [
+        "anchovy",
+        "anchovies"
+    ],
+    "dried apples": [
+        "apples",
+        "apple"
+    ],
+    "dried apricots": [
+        "apricot",
+        "apricots"
+    ],
+    "dried beans": [
+        "beans",
+        "bean"
+    ],
+    "dried beef meat": [
+        "meat",
+        "dried"
+    ],
+    "dried brown beans": [
+        "beans",
+        "brown",
+        "dried"
+    ],
+    "dried chilli peppers": [
+        "dried",
+        "chilli",
+        "pepper"
+    ],
+    "dried coconut": [
+        "coconut",
+        "dried"
+    ],
+    "dried cranberries": [
+        "cranberries",
+        "cranberry"
+    ],
+    "dried elder berries": [
+        "dried",
+        "berry",
+        "berries"
+    ],
+    "dried figs": [
+        "dried",
+        "figs"
+    ],
+    "dried fruit in jars": [
+        "dried",
+        "fruit",
+        "jar"
+    ],
+    "dried fruit mix": [
+        "dried",
+        "mix"
+    ],
+    "dried fruits with chocolate": [
+        "chocolate",
+        "fruits"
+    ],
+    "dried fruits": [
+        "dried fruits",
+        "dried",
+        "dry"
+    ],
+    "dried garlic": [
+        "garlic",
+        "dried"
+    ],
+    "dried herb powder ashwagandha (withania somnifera)": [
+        "ashwagandha",
+        "withania",
+        "herb",
+        "powder"
+    ],
+    "dried lilies": [
+        "lily",
+        "lilies"
+    ],
+    "dried mushrooms": [
+        "mushrooms",
+        "dried"
+    ],
+    "dried pangash": [
+        "dried"
+    ],
+    "dried plums": [
+        "plum",
+        "plums",
+        "dried"
+    ],
+    "dried pork sausages": [
+        "sausages",
+        "pork"
+    ],
+    "dried sausage": [
+        "dried sausage",
+        "sausage"
+    ],
+    "dried shitake mushrooms (lentinula edodes)": [
+        "mushroom",
+        "mushrooms",
+        "shitake",
+        "dried",
+        "dry"
+    ],
+    "dried shrimp noodles": [
+        "shrimp",
+        "dried",
+        "noodles"
+    ],
+    "dried strawberries": [
+        "strawberries",
+        "dried"
+    ],
+    "drink powder": [
+        "drink",
+        "powder"
+    ],
+    "drinking chocolate powder": [
+        "chocolate",
+        "drinking"
+    ],
+    "dry ham": [
+        "ham"
+    ],
+    "dry sausage": [
+        "sausage"
+    ],
+    "duck": [
+        "duck"
+    ],
+    "dumplings": [
+        "dumplings"
+    ],
+    "edam cheese": [
+        "edam",
+        "cheese"
+    ],
+    "egg products": [
+        "egg",
+        "products"
+    ],
+    "egg rolls": [
+        "egg",
+        "roll",
+        "rolls"
+    ],
+    "egg salad with ham": [
+        "ham",
+        "egg salad"
+    ],
+    "eggplants": [
+        "eggplant",
+        "eggplants"
+    ],
+    "eggs and egg products": [
+        "eggs",
+        "egg",
+        "egg products"
+    ],
+    "eggs": [
+        "egg",
+        "eggs"
+    ],
+    "emulsifiers, stabilizers, thickeners and gelling agents": [
+        "emulsifiers",
+        "stabilizers",
+        "thickeners",
+        "gelling agents"
+    ],
+    "energy and protein bars": [
+        "protein bars",
+        "energy",
+        "protein"
+    ],
+    "energy drink": [
+        "energy",
+        "drink"
+    ],
+    "fajita meal": [
+        "fajita",
+        "meal"
+    ],
+    "fats and oils": [
+        "fats",
+        "oils"
+    ],
+    "feed materials": [
+        "material",
+        "materials"
+    ],
+    "fennel seeds": [
+        "fennel",
+        "seeds"
+    ],
+    "fermented beef meat": [
+        "beef",
+        "meat",
+        "fermented"
+    ],
+    "fermented milk product": [
+        "fermented",
+        "milk",
+        "product"
+    ],
+    "feta cheese": [
+        "feta",
+        "cheese"
+    ],
+    "filled chocolate": [
+        "filled",
+        "chocolate"
+    ],
+    "fish and fish products": [
+        "fish",
+        "products"
+    ],
+    "fish products": [
+        "fish",
+        "products"
+    ],
+    "fish roe": [
+        "fish",
+        "roe"
+    ],
+    "fish sauce": [
+        "fish",
+        "sauce"
+    ],
+    "flavoured drinks": [
+        "flavoured",
+        "drinks"
+    ],
+    "flavoured fresh and creamy cheese spread": [
+        "flavoured",
+        "fresh",
+        "creamy",
+        "cheese",
+        "spread"
+    ],
+    "flavoured milk": [
+        "flavoured",
+        "milk"
+    ],
+    "flavoured potato chips": [
+        "flavoured",
+        "potato",
+        "chips"
+    ],
+    "flavoured soft drink": [
+        "flavoured",
+        "soft drink"
+    ],
+    "flavoured whey protein preparations": [
+        "flavoured",
+        "whey",
+        "protein",
+        "preparations"
+    ],
+    "flavours": [
+        "flavours"
+    ],
+    "flaxseed": [
+        "flaxseed"
+    ],
+    "flounders, halibuts, soles": [
+        "halibuts",
+        "flounders",
+        "soles"
+    ],
+    "flour": [
+        "flour"
+    ],
+    "foie gras": [],
+    "food supplement": [
+        "food",
+        "supplement"
+    ],
+    "french beans / green beans": [
+        "green beans",
+        "french beans"
+    ],
+    "french toast": [
+        "french toast",
+        "toast"
+    ],
+    "fresh apples": [
+        "apples",
+        "fresh"
+    ],
+    "fresh beef meat": [
+        "beef",
+        "meat"
+    ],
+    "fresh beef": [
+        "beef"
+    ],
+    "fresh broccoli": [
+        "broccoli"
+    ],
+    "fresh cheese": [
+        "cheese"
+    ],
+    "fresh cut vegetables": [
+        "fresh",
+        "cut",
+        "vegetables"
+    ],
+    "fresh dough": [
+        "dough"
+    ],
+    "fresh goat cheese": [
+        "cheese",
+        "goat"
+    ],
+    "fresh lychees": [
+        "lychees",
+        "fresh"
+    ],
+    "fresh mushrooms": [
+        "mushrooms",
+        "fresh"
+    ],
+    "fresh parsley": [
+        "parsley",
+        "fresh"
+    ],
+    "fresh pork leg": [
+        "pork",
+        "leg"
+    ],
+    "fresh pork loin": [
+        "pork loin",
+        "loin",
+        "pork"
+    ],
+    "fresh pork": [
+        "pork"
+    ],
+    "fresh poultry and poultry prepations": [
+        "poultry",
+        "fresh"
+    ],
+    "fresh processed beef meat products": [
+        "beef",
+        "meat",
+        "products",
+        "processed",
+        "fresh"
+    ],
+    "fresh vegetables": [
+        "vegetables",
+        "fresh"
+    ],
+    "frozen beef lasagne": [
+        "beef",
+        "lasagne"
+    ],
+    "frozen beef patties": [
+        "beef",
+        "patties"
+    ],
+    "frozen beef products": [
+        "frozen",
+        "beef",
+        "products"
+    ],
+    "frozen beef tongue": [
+        "beef",
+        "tongue"
+    ],
+    "frozen beef trimmings": [
+        "beef",
+        "frozen"
+    ],
+    "frozen beef": [
+        "beef"
+    ],
+    "frozen berries mix": [
+        "berries",
+        "frozen"
+    ],
+    "frozen boneless beef": [
+        "beef"
+    ],
+    "frozen bourbon ribs": [
+        "bourbon",
+        "ribs"
+    ],
+    "frozen breaded turkey": [
+        "turkey",
+        "frozen"
+    ],
+    "frozen broccoli": [
+        "broccoli",
+        "frozen"
+    ],
+    "frozen burger buns": [
+        "burger",
+        "buns"
+    ],
+    "frozen burgers": [
+        "frozen"
+    ],
+    "frozen chicken strips with tendons": [
+        "chicken",
+        "strips",
+        "frozen"
+    ],
+    "frozen chicken wings": [
+        "chicken wings",
+        "frozen"
+    ],
+    "frozen chicken": [
+        "chicken",
+        "frozen"
+    ],
+    "frozen cod fillets": [
+        "cod",
+        "frozen"
+    ],
+    "frozen cooked lobster meat": [
+        "frozen",
+        "cooked",
+        "meat"
+    ],
+    "frozen diced chicken roast": [
+        "chicken",
+        "roast"
+    ],
+    "frozen dumplings with pork": [
+        "pork",
+        "dumplings"
+    ],
+    "frozen fish burgers": [
+        "fish",
+        "frozen"
+    ],
+    "frozen fish fillets": [
+        "fish",
+        "fillets",
+        "frozen"
+    ],
+    "frozen fish products": [
+        "fish",
+        "frozen"
+    ],
+    "frozen fried rice": [
+        "fry",
+        "fried",
+        "rice"
+    ],
+    "frozen grated coconut": [
+        "coconut",
+        "frozen"
+    ],
+    "frozen green beans": [
+        "beans",
+        "green beans",
+        "frozen"
+    ],
+    "frozen hamburgers": [
+        "hamburgers",
+        "frozen"
+    ],
+    "frozen hash browns": [
+        "frozen",
+        "hash browns"
+    ],
+    "frozen leek": [
+        "leek",
+        "frozen"
+    ],
+    "frozen lobster": [
+        "lobster",
+        "frozen"
+    ],
+    "frozen marinated beef": [
+        "marinated",
+        "beef"
+    ],
+    "frozen marinated chicken": [
+        "marinated",
+        "frozen"
+    ],
+    "frozen pancakes": [
+        "frozen",
+        "pancakes"
+    ],
+    "frozen peas": [
+        "frozen",
+        "peas"
+    ],
+    "frozen peppers": [
+        "peppers",
+        "frozen"
+    ],
+    "frozen pie": [
+        "pie"
+    ],
+    "frozen pizza": [
+        "frozen",
+        "pizza"
+    ],
+    "frozen pork meat": [
+        "frozen",
+        "pork"
+    ],
+    "frozen pork preparations": [
+        "preparations",
+        "pork",
+        "frozen"
+    ],
+    "frozen pork ribs": [
+        "pork ribs",
+        "frozen"
+    ],
+    "frozen pork trimmings": [
+        "frozen",
+        "pork"
+    ],
+    "frozen potatoes": [
+        "potatoes",
+        "frozen"
+    ],
+    "frozen poultry meat": [
+        "frozen",
+        "poultry",
+        "meat"
+    ],
+    "frozen poultry preparations": [
+        "frozen",
+        "poultry",
+        "preparations"
+    ],
+    "frozen poultry products": [
+        "frozen",
+        "poultry",
+        "products"
+    ],
+    "frozen poultry": [
+        "frozen",
+        "poultry"
+    ],
+    "frozen prepared dish of chicken tikka masala with pilau rice": [
+        "chicken",
+        "masala",
+        "pilau",
+        "rice"
+    ],
+    "frozen raw ground beef": [
+        "beef",
+        "frozen"
+    ],
+    "frozen ready to cook chicken": [
+        "chicken",
+        "frozen",
+        "cook"
+    ],
+    "frozen ready to eat products": [
+        "frozen",
+        "ready",
+        "products"
+    ],
+    "frozen sausage rolls": [
+        "frozen",
+        "sausage",
+        "rolls"
+    ],
+    "frozen sausages": [
+        "sausages",
+        "frozen"
+    ],
+    "frozen seafood": [
+        "seafood",
+        "frozen"
+    ],
+    "frozen seasoned potato wedges": [
+        "potato",
+        "frozen",
+        "wedge"
+    ],
+    "frozen sliced coconut": [
+        "frozen",
+        "sliced",
+        "coconut"
+    ],
+    "frozen spicy chicken wings": [
+        "spicy",
+        "frozen",
+        "chicken",
+        "wings"
+    ],
+    "frozen spinach": [
+        "spinach",
+        "frozen"
+    ],
+    "frozen spring rolls": [
+        "frozen",
+        "spring",
+        "roll"
+    ],
+    "frozen strawberry": [
+        "strawberry",
+        "frozen"
+    ],
+    "frozen vegetables mix": [
+        "vegetables",
+        "mix"
+    ],
+    "frozen vegetables": [
+        "vegetables",
+        "frozen vegetables"
+    ],
+    "frozen vegetarian cutlet": [
+        "vegetarian",
+        "cutlet"
+    ],
+    "frozen whole fish": [
+        "whole",
+        "frozen"
+    ],
+    "fruit bars": [
+        "fruit",
+        "bars"
+    ],
+    "fruit juice smoothie": [
+        "fruit",
+        "juice",
+        "smoothie"
+    ],
+    "fruit juice": [
+        "fruit",
+        "juice"
+    ],
+    "fruit mix": [
+        "fruit",
+        "mix"
+    ],
+    "fruit pies": [
+        "fruit",
+        "pies"
+    ],
+    "fruit punch": [
+        "fruit",
+        "punch"
+    ],
+    "fruit salad with cantaloupe": [
+        "fruit",
+        "salad",
+        "cantaloupe"
+    ],
+    "fruit salad": [
+        "fruit",
+        "salad"
+    ],
+    "fruit snacks": [
+        "fruit",
+        "snacks"
+    ],
+    "fruits and vegetables": [
+        "fruits",
+        "vegetables"
+    ],
+    "garlic pickle": [
+        "pickle",
+        "garlic"
+    ],
+    "garlic powder": [
+        "garlic",
+        "powder"
+    ],
+    "garlic sausage": [
+        "garlic",
+        "sausage"
+    ],
+    "ginger powder": [
+        "ginger",
+        "powder"
+    ],
+    "ginger slices": [
+        "ginger",
+        "slices"
+    ],
+    "gingerbread": [
+        "gingerbread"
+    ],
+    "ginseng powder": [
+        "ginseng",
+        "powder"
+    ],
+    "gluten free bread": [
+        "bread",
+        "gluten"
+    ],
+    "gnocchi": [
+        "gnocchi"
+    ],
+    "goat cheese made from raw milk": [
+        "goat",
+        "cheese",
+        "raw milk"
+    ],
+    "goat cheese": [
+        "goat",
+        "cheese"
+    ],
+    "goat meat": [
+        "goat",
+        "meat"
+    ],
+    "goat milk": [
+        "goat",
+        "milk"
+    ],
+    "goji berries": [
+        "goji",
+        "berries"
+    ],
+    "golden enoki mushrooms": [
+        "enoki",
+        "mushrooms",
+        "golden"
+    ],
+    "golden raisins/sultanas": [
+        "golden"
+    ],
+    "gorgonzola cheese": [
+        "gorgonzola",
+        "cheese"
+    ],
+    "gouda cheese": [
+        "gouda",
+        "cheese"
+    ],
+    "gouda": [
+        "gouda"
+    ],
+    "granola": [
+        "granola"
+    ],
+    "grapes": [
+        "grapes"
+    ],
+    "grated cheese mixture": [
+        "grate",
+        "grated",
+        "cheese",
+        "mixture"
+    ],
+    "grated cheese": [
+        "grated",
+        "cheese"
+    ],
+    "grated coconut": [
+        "coconut",
+        "grated"
+    ],
+    "gravy granules": [
+        "gravy",
+        "granules"
+    ],
+    "gravy mix": [
+        "gravy",
+        "mix"
+    ],
+    "green basil pesto": [
+        "pesto",
+        "basil"
+    ],
+    "green bean": [
+        "green",
+        "green bean",
+        "bean"
+    ],
+    "green pesto basil sauce": [
+        "pesto",
+        "basil",
+        "green"
+    ],
+    "green pesto": [
+        "green",
+        "pesto"
+    ],
+    "green raisins": [
+        "raisin",
+        "green"
+    ],
+    "green tea": [
+        "green",
+        "tea"
+    ],
+    "grilled seasoned chicken plate": [
+        "seasoned",
+        "chicken",
+        "grilled",
+        "plate"
+    ],
+    "grissini breadsticks": [
+        "grissini"
+    ],
+    "ground almonds": [
+        "almonds",
+        "almond"
+    ],
+    "ground beef meat": [
+        "beef",
+        "meat"
+    ],
+    "ground beef": [
+        "beef"
+    ],
+    "ground black pepper": [
+        "black pepper",
+        "ground"
+    ],
+    "ground hot pepper": [
+        "hot",
+        "pepper"
+    ],
+    "ground turmeric": [
+        "turmeric"
+    ],
+    "guacamole": [
+        "guacamole"
+    ],
+    "halloumi cheese": [
+        "halloumi",
+        "cheese"
+    ],
+    "halva": [
+        "halva"
+    ],
+    "ham slices": [
+        "ham",
+        "slices"
+    ],
+    "ham": [
+        "ham"
+    ],
+    "hard cheese": [
+        "hard cheese",
+        "cheese"
+    ],
+    "hazelnuts": [
+        "hazelnuts"
+    ],
+    "hemp oil": [
+        "hemp",
+        "oil"
+    ],
+    "hemp protein powder": [
+        "protein",
+        "hemp"
+    ],
+    "hemp tea": [
+        "tea",
+        "hemp"
+    ],
+    "herbal premix": [
+        "herbal",
+        "premix"
+    ],
+    "herbal tea": [
+        "herbal",
+        "tea"
+    ],
+    "herbs": [
+        "herbs"
+    ],
+    "herring": [
+        "herring"
+    ],
+    "high protein bars": [
+        "high",
+        "protein",
+        "bars"
+    ],
+    "honey": [
+        "honey"
+    ],
+    "honeycomb": [
+        "honeycomb"
+    ],
+    "horseradish in jars": [
+        "horseradish",
+        "jars"
+    ],
+    "horses": [
+        "horses"
+    ],
+    "hot chicken wings": [
+        "hot",
+        "chicken",
+        "wings"
+    ],
+    "hot chilli and hot chilli products": [
+        "hot",
+        "chilli",
+        "products"
+    ],
+    "hot dog sausages": [
+        "hot",
+        "dog",
+        "sausages"
+    ],
+    "hot dogs": [
+        "hot",
+        "dog"
+    ],
+    "ice cream": [
+        "ice cream"
+    ],
+    "ice sticks": [
+        "stick",
+        "ice"
+    ],
+    "iced tea": [
+        "iced tea",
+        "tea"
+    ],
+    "ices and desserts": [
+        "desserts",
+        "ices"
+    ],
+    "indian curry": [
+        "indian",
+        "curry"
+    ],
+    "infant formula": [
+        "infant",
+        "formula"
+    ],
+    "instant cereal": [
+        "cereal"
+    ],
+    "instant coffee": [
+        "coffee",
+        "instant coffee"
+    ],
+    "instant drink/drinking powder": [
+        "instant",
+        "powder"
+    ],
+    "instant noodles": [
+        "instant",
+        "noodle",
+        "noodles"
+    ],
+    "jam": [
+        "jam"
+    ],
+    "jellies": [
+        "jellies"
+    ],
+    "jerky products": [
+        "jerky",
+        "products"
+    ],
+    "juice drink": [
+        "drink",
+        "juice"
+    ],
+    "juices": [
+        "juice",
+        "juices"
+    ],
+    "kale": [
+        "kale"
+    ],
+    "ketchup": [
+        "ketchup"
+    ],
+    "lamb": [
+        "lamb"
+    ],
+    "lasagne": [
+        "lasagne"
+    ],
+    "lemon juice": [
+        "lemon",
+        "juice"
+    ],
+    "lemonade (lemon soda)": [
+        "lemonade",
+        "lemon",
+        "soda"
+    ],
+    "lemons": [
+        "lemons"
+    ],
+    "lentils stew": [
+        "lentils",
+        "stew"
+    ],
+    "lentils": [
+        "lentils"
+    ],
+    "lettuce": [
+        "lettuce"
+    ],
+    "lime": [
+        "lime"
+    ],
+    "limes": [
+        "lime",
+        "limes"
+    ],
+    "liquid egg white": [
+        "egg",
+        "egg white"
+    ],
+    "liquid food supplement": [
+        "liquid",
+        "food",
+        "supplement"
+    ],
+    "liquorice": [
+        "liquorice"
+    ],
+    "lobster": [
+        "lobster"
+    ],
+    "lollipops": [
+        "lollipop",
+        "lollipops"
+    ],
+    "long grain rice": [
+        "rice",
+        "grain"
+    ],
+    "loose smoked whole chickens": [
+        "chicken",
+        "loose",
+        "whole"
+    ],
+    "luncheon meat": [
+        "luncheon",
+        "meat"
+    ],
+    "lupin seeds": [
+        "lupin",
+        "seeds"
+    ],
+    "macadamia nuts": [
+        "macadamia",
+        "nuts"
+    ],
+    "mackerel": [
+        "mackerel"
+    ],
+    "maize": [
+        "maize"
+    ],
+    "mango": [
+        "mango"
+    ],
+    "margarine": [
+        "margarine"
+    ],
+    "marinated chicken meat": [
+        "chicken",
+        "meat",
+        "marinated"
+    ],
+    "marzipan": [
+        "marzipan"
+    ],
+    "masala spice mix": [
+        "masala",
+        "spice"
+    ],
+    "mashed chickpeas (hummus)": [
+        "chickpeas"
+    ],
+    "massala spice mixture": [
+        "spice",
+        "mixture"
+    ],
+    "mayonnaise": [
+        "mayonnaise"
+    ],
+    "meal replacement": [
+        "meal",
+        "replacement"
+    ],
+    "meat and meat products (other than poultry)": [
+        "meat",
+        "products"
+    ],
+    "meat broth": [
+        "meat",
+        "broth"
+    ],
+    "meat loaf": [
+        "meat",
+        "loaf"
+    ],
+    "meat preparations": [
+        "preparations",
+        "meat"
+    ],
+    "meat samosas, vegetable samosas, chicken samosas and meat spring rolls": [
+        "meat",
+        "vegetable",
+        "chicken",
+        "spring",
+        "roll"
+    ],
+    "meat, egg and dairy products": [
+        "meat",
+        "egg",
+        "dairy products"
+    ],
+    "meatloaf": [
+        "meatloaf"
+    ],
+    "mechanically separated chicken meat": [
+        "chicken",
+        "separated",
+        "meat"
+    ],
+    "melon seeds": [
+        "melon",
+        "seeds"
+    ],
+    "melons": [
+        "melon"
+    ],
+    "milk and milk products": [
+        "milk",
+        "products"
+    ],
+    "milk chocolate covered raisins": [
+        "milk chocolate",
+        "raisins",
+        "chocolate"
+    ],
+    "milk chocolates": [
+        "milk",
+        "chocolate"
+    ],
+    "milk drink": [
+        "milk",
+        "drink"
+    ],
+    "milk powder": [
+        "milk",
+        "powder"
+    ],
+    "milk products": [
+        "milk",
+        "products"
+    ],
+    "milk proteins": [
+        "milk",
+        "proteins"
+    ],
+    "milk": [
+        "milk"
+    ],
+    "millet porridge": [
+        "millet",
+        "porridge"
+    ],
+    "millet": [
+        "millet"
+    ],
+    "minced beef meat": [
+        "minced",
+        "beef",
+        "meat"
+    ],
+    "minced beef": [
+        "minced",
+        "beef"
+    ],
+    "minced chicken": [
+        "minced",
+        "chicken"
+    ],
+    "minced pork": [
+        "minced pork",
+        "pork"
+    ],
+    "mineral water": [
+        "mineral",
+        "water"
+    ],
+    "mineral waters": [
+        "mineral waters",
+        "waters",
+        "water",
+        "mineral"
+    ],
+    "mint chocolate": [
+        "mint",
+        "chocolate"
+    ],
+    "mitragyna speciosa (kratom)": [
+        "kratom"
+    ],
+    "mix of nuts": [
+        "mix",
+        "nuts"
+    ],
+    "mixed nuts": [
+        "nuts"
+    ],
+    "mixed salad": [
+        "salad"
+    ],
+    "mixed spices": [
+        "spices",
+        "mixed"
+    ],
+    "mixed vegetables": [
+        "mixed",
+        "vegetables"
+    ],
+    "moussaka": [
+        "moussaka"
+    ],
+    "mozzarella cheese": [
+        "mozzarella",
+        "cheese"
+    ],
+    "mozzarella": [
+        "mozzarella"
+    ],
+    "muesli": [
+        "muesli"
+    ],
+    "muffins": [
+        "muffin",
+        "muffins"
+    ],
+    "multi vitamin food supplement": [
+        "vitamin",
+        "food",
+        "supplement"
+    ],
+    "mung bean sprouts": [
+        "bean sprouts",
+        "sprouts"
+    ],
+    "mushrooms": [
+        "mushrooms"
+    ],
+    "mussels": [
+        "mussels"
+    ],
+    "mustard sauce": [
+        "mustard",
+        "sauce"
+    ],
+    "mustard": [
+        "mustard"
+    ],
+    "nacho chips": [
+        "nacho",
+        "chips"
+    ],
+    "natural honey": [
+        "natural",
+        "honey"
+    ],
+    "non-alcoholic beer": [
+        "beer"
+    ],
+    "non-alcoholic beverages": [
+        "beverages",
+        "beverage"
+    ],
+    "noodle soup": [
+        "noodle",
+        "soup"
+    ],
+    "noodle": [
+        "noodle"
+    ],
+    "noodles": [
+        "noodles"
+    ],
+    "nougat": [
+        "nougat"
+    ],
+    "nut and fruit mixture": [
+        "nut",
+        "fruit"
+    ],
+    "nut and raisin mix": [
+        "nut",
+        "raisin"
+    ],
+    "nut bars": [
+        "nut",
+        "bars"
+    ],
+    "nut mix": [
+        "nut",
+        "mix"
+    ],
+    "nut mixture": [
+        "nut",
+        "mixture"
+    ],
+    "nut-almond mixture": [
+        "mixture"
+    ],
+    "nutmeg": [
+        "nutmeg"
+    ],
+    "nutrition shake": [
+        "nutrition",
+        "shake"
+    ],
+    "nuts and nuts products": [
+        "nuts",
+        "products"
+    ],
+    "nuts mix": [
+        "mix",
+        "nuts"
+    ],
+    "nuts, nut products and seeds": [
+        "nut",
+        "nuts",
+        "products",
+        "seeds"
+    ],
+    "nuts": [
+        "nuts"
+    ],
+    "oats": [
+        "oats"
+    ],
+    "olive oil": [
+        "olive oil"
+    ],
+    "olives": [
+        "olives"
+    ],
+    "onions": [
+        "onion",
+        "onions"
+    ],
+    "orange juice": [
+        "orange",
+        "juice"
+    ],
+    "orange peppers": [
+        "peppers",
+        "orange"
+    ],
+    "orange sugar paste": [
+        "sugar",
+        "orange"
+    ],
+    "oregano": [
+        "oregano"
+    ],
+    "organic chilled hummus": [],
+    "organic chlorella powder": [
+        "chlorella",
+        "organic"
+    ],
+    "organic coconut flour": [
+        "coconut",
+        "organic"
+    ],
+    "organic coconut oil": [
+        "organic",
+        "coconut oil"
+    ],
+    "organic dates": [
+        "organic",
+        "dates"
+    ],
+    "organic figs": [
+        "figs",
+        "organic"
+    ],
+    "organic tea": [
+        "tea",
+        "organic"
+    ],
+    "organic tofu": [
+        "organic",
+        "tofu"
+    ],
+    "other dairy products": [
+        "product",
+        "products",
+        "dairy product",
+        "dairy products"
+    ],
+    "other food product / mixed": [
+        "food",
+        "product",
+        "mixed"
+    ],
+    "other fruit and vegetable juice products": [
+        "fruit",
+        "vegetable",
+        "juice",
+        "product"
+    ],
+    "other not classified meat products": [
+        "meat",
+        "products"
+    ],
+    "other types of meat": [
+        "meat",
+        "types"
+    ],
+    "other water-based drinks": [
+        "drinks",
+        "drink"
+    ],
+    "oyster sauce": [
+        "oyster sauce",
+        "oyster",
+        "sauce"
+    ],
+    "oysters": [
+        "oysters"
+    ],
+    "paella": [
+        "paella"
+    ],
+    "palm oil": [
+        "palm oil"
+    ],
+    "pancakes": [
+        "pancake",
+        "pancakes"
+    ],
+    "papaya": [
+        "papaya"
+    ],
+    "paprika": [
+        "paprika"
+    ],
+    "parmesan cheese grated": [
+        "parmesan",
+        "cheese",
+        "grated"
+    ],
+    "parmesan cheese": [
+        "parmesan",
+        "cheese"
+    ],
+    "parsnip": [
+        "parsnip"
+    ],
+    "pasta products": [
+        "pasta",
+        "products"
+    ],
+    "pasta salad": [
+        "pasta",
+        "salad"
+    ],
+    "pasta sauce": [
+        "pasta sauce",
+        "sauce"
+    ],
+    "pasta": [
+        "pasta"
+    ],
+    "pasteurized cow milk cheese": [
+        "pasteurized",
+        "cheese",
+        "milk"
+    ],
+    "pasteurized milk": [
+        "pasteurized",
+        "milk"
+    ],
+    "pastry products": [
+        "pastry",
+        "products"
+    ],
+    "pastry tartlets": [
+        "pastry",
+        "tartlets"
+    ],
+    "pastry": [
+        "pastry"
+    ],
+    "pea shoots": [
+        "pea",
+        "shoots"
+    ],
+    "peaches": [
+        "peaches"
+    ],
+    "peanuts": [
+        "peanuts"
+    ],
+    "pear juice": [
+        "pear",
+        "juice"
+    ],
+    "pears": [
+        "pears"
+    ],
+    "peas": [
+        "peas"
+    ],
+    "pecorino cheese": [
+        "pecorino cheese",
+        "cheese"
+    ],
+    "peppermint": [
+        "peppermint"
+    ],
+    "pepperoni": [
+        "pepperoni"
+    ],
+    "peppers": [
+        "peppers"
+    ],
+    "pesto sauce (pesto verde)": [
+        "pesto",
+        "verde",
+        "sauce"
+    ],
+    "pesto": [
+        "pesto"
+    ],
+    "pet feed": [
+        "pet"
+    ],
+    "pickled beetroot": [
+        "pickled",
+        "beetroot"
+    ],
+    "pickled cucumber": [
+        "pickled",
+        "cucumber"
+    ],
+    "pickled figs, cherries, pears and walnuts": [
+        "walnuts",
+        "cherries",
+        "pears",
+        "pickled"
+    ],
+    "pickled gherkins in glass jar": [
+        "pickle",
+        "gherkin",
+        "jar"
+    ],
+    "pickled ginger": [
+        "pickled",
+        "ginger"
+    ],
+    "pickled grape leaves": [
+        "grape",
+        "leaves",
+        "pickled"
+    ],
+    "pickled peppers": [
+        "peppers",
+        "pickled"
+    ],
+    "pickled radish": [
+        "radish",
+        "pickled"
+    ],
+    "pig meat - pork": [
+        "pig",
+        "pork",
+        "meat"
+    ],
+    "pine nuts": [
+        "pine nuts"
+    ],
+    "pistachio nuts": [
+        "pistachio",
+        "nuts"
+    ],
+    "pizza": [
+        "pizza"
+    ],
+    "plastics": [
+        "plastics"
+    ],
+    "plum bread &amp  butter pudding": [
+        "plum",
+        "bread",
+        "pudding",
+        "butter"
+    ],
+    "plums": [
+        "plums"
+    ],
+    "pomegranate": [
+        "pomegranate"
+    ],
+    "pop corn": [
+        "corn"
+    ],
+    "porcine lard": [
+        "porcine",
+        "lard"
+    ],
+    "pork and beef sausages": [
+        "beef",
+        "pork"
+    ],
+    "pork belly": [
+        "pork belly"
+    ],
+    "pork carcass(es)": [
+        "pork"
+    ],
+    "pork fillets": [
+        "pork",
+        "fillets"
+    ],
+    "pork loins - frozen": [
+        "pork loins",
+        "frozen"
+    ],
+    "pork meat": [
+        "meat",
+        "pork"
+    ],
+    "pork pie": [
+        "pork",
+        "pie"
+    ],
+    "pork preparation": [
+        "pork",
+        "preparation"
+    ],
+    "pork sausage": [
+        "pork",
+        "sausage"
+    ],
+    "pork shoulder - fresh": [
+        "fresh",
+        "pork shoulder"
+    ],
+    "pork shoulder": [
+        "pork",
+        "shoulder"
+    ],
+    "potato chips": [
+        "potato",
+        "chips"
+    ],
+    "potato croquettes": [
+        "potato",
+        "croquettes"
+    ],
+    "potato salad": [
+        "potato",
+        "salad"
+    ],
+    "potatoes": [
+        "potatoes"
+    ],
+    "poultry meat and poultry meat products": [
+        "poultry meat",
+        "poultry",
+        "meat",
+        "products"
+    ],
+    "poultry meat": [
+        "poultry meat",
+        "meat",
+        "poultry"
+    ],
+    "poultry": [
+        "poultry"
+    ],
+    "powder seasoning": [
+        "powder"
+    ],
+    "prawn crackers": [
+        "prawn",
+        "prawn cracker",
+        "prawn crackers",
+        "cracker",
+        "crackers"
+    ],
+    "prawns": [
+        "prawns",
+        "prawn"
+    ],
+    "prebaked apple pies": [
+        "prebaked",
+        "apple",
+        "pie"
+    ],
+    "precooked cooked beef meat products": [
+        "cooked",
+        "beef",
+        "products"
+    ],
+    "prepacked salad": [
+        "salad"
+    ],
+    "prepared dish containing prawns": [
+        "prawn",
+        "prawns",
+        "prepared",
+        "dish"
+    ],
+    "prepared dish with chicken": [
+        "dish",
+        "chicken"
+    ],
+    "prepared dish": [
+        "prepared",
+        "dish"
+    ],
+    "prepared dishes and snacks": [
+        "prepared",
+        "dishes",
+        "snacks"
+    ],
+    "prepared dishes": [
+        "prepared",
+        "dishes"
+    ],
+    "prepared salads": [
+        "salads",
+        "prepared"
+    ],
+    "preserved red bean curd": [
+        "preserved",
+        "red",
+        "bean",
+        "curd"
+    ],
+    "pretzel stick": [
+        "stick",
+        "pretzel"
+    ],
+    "pretzels": [
+        "pretzel",
+        "pretzels"
+    ],
+    "probiotic food supplement": [
+        "probiotic",
+        "food",
+        "supplement"
+    ],
+    "prosciutto": [
+        "prosciutto"
+    ],
+    "protein balls": [
+        "protein",
+        "balls"
+    ],
+    "protein bar": [
+        "protein",
+        "bar"
+    ],
+    "protein bars": [
+        "protein bars",
+        "bars"
+    ],
+    "protein drink": [
+        "protein",
+        "drink"
+    ],
+    "protein powder": [
+        "protein",
+        "powder"
+    ],
+    "protein supplements": [
+        "protein",
+        "supplements"
+    ],
+    "pudding": [
+        "pudding"
+    ],
+    "puffed rice": [
+        "puffed",
+        "rice"
+    ],
+    "pumpkin seeds": [
+        "pumpkin",
+        "seeds"
+    ],
+    "pâté": [
+        "pâté"
+    ],
+    "quinoa": [
+        "quinoa"
+    ],
+    "quorn preparation": [
+        "quorn"
+    ],
+    "radish": [
+        "radish"
+    ],
+    "raisins": [
+        "raisin",
+        "raisins"
+    ],
+    "ramen noodles": [
+        "ramen",
+        "noodles",
+        "noodle"
+    ],
+    "raspberries": [
+        "raspberries"
+    ],
+    "ravioli": [
+        "ravioli"
+    ],
+    "raw beef meat and raw beef meat preparations": [
+        "beef",
+        "meat",
+        "raw"
+    ],
+    "raw beef meat": [
+        "beef",
+        "meat"
+    ],
+    "raw cow's milk cheese": [
+        "cheese",
+        "cow",
+        "raw"
+    ],
+    "raw goat milk cheese": [
+        "goat",
+        "raw",
+        "cheese"
+    ],
+    "raw milk cheese reblochon": [
+        "cheese",
+        "raw",
+        "reblochon"
+    ],
+    "raw milk cheese": [
+        "cheese",
+        "milk"
+    ],
+    "raw milk goat's cheese": [
+        "cheese",
+        "goat",
+        "raw"
+    ],
+    "raw milk": [
+        "milk",
+        "raw milk"
+    ],
+    "raw pork meat and raw pork meat preparations": [
+        "pork",
+        "meat",
+        "raw"
+    ],
+    "ready cooked sliced chicken tikka breast": [
+        "chicken",
+        "breast",
+        "tikka"
+    ],
+    "ready to eat - cook meals": [
+        "cook",
+        "meal",
+        "meals",
+        "ready",
+        "eat"
+    ],
+    "ready to eat meat product": [
+        "meat",
+        "product"
+    ],
+    "ready-to-eat seafood sticks": [
+        "seafood",
+        "sticks"
+    ],
+    "red chili": [
+        "red",
+        "chili"
+    ],
+    "red chilli": [
+        "red",
+        "chilli"
+    ],
+    "red pesto": [
+        "pesto",
+        "red"
+    ],
+    "refreshments": [
+        "refreshment",
+        "refreshments"
+    ],
+    "rice balls": [
+        "rice",
+        "rice ball",
+        "rice balls",
+        "ball"
+    ],
+    "rice cakes": [
+        "rice",
+        "cake"
+    ],
+    "rice cereal for children": [
+        "cereal",
+        "rice"
+    ],
+    "rice crackers": [
+        "rice",
+        "crackers"
+    ],
+    "rice flakes": [
+        "rice",
+        "flakes"
+    ],
+    "rice flour": [
+        "rice",
+        "flour"
+    ],
+    "rice meal": [
+        "rice",
+        "meal"
+    ],
+    "rice noodles": [
+        "rice",
+        "noodle",
+        "noodles"
+    ],
+    "rice snack": [
+        "rice",
+        "snack"
+    ],
+    "rice sticks": [
+        "rice",
+        "sticks"
+    ],
+    "rice vermicelli": [
+        "rice",
+        "vermicelli"
+    ],
+    "rice": [
+        "rice"
+    ],
+    "ricotta and spinach tortelloni pasta": [
+        "ricotta",
+        "spinach",
+        "tortelloni"
+    ],
+    "ricotta cheese": [
+        "ricotta",
+        "cheese"
+    ],
+    "roasted and caramelized peanuts": [
+        "peanuts",
+        "roasted"
+    ],
+    "roasted coffee": [
+        "roasted",
+        "coffee"
+    ],
+    "roasted nuts": [
+        "roasted",
+        "nuts"
+    ],
+    "rolls": [
+        "rolls"
+    ],
+    "rum": [
+        "rum"
+    ],
+    "saint marcelin cheese": [
+        "saint",
+        "cheese"
+    ],
+    "salad dressing": [
+        "salad"
+    ],
+    "salads": [
+        "salads",
+        "salad"
+    ],
+    "salami sausage": [
+        "salami",
+        "sausage"
+    ],
+    "salami sticks": [
+        "salami",
+        "sticks"
+    ],
+    "salami": [
+        "salami"
+    ],
+    "salmon": [
+        "salmon"
+    ],
+    "salt": [
+        "salt"
+    ],
+    "salted anchovies": [
+        "salted",
+        "anchovies"
+    ],
+    "salted radish": [
+        "radish",
+        "salted"
+    ],
+    "sandwich filling": [
+        "sandwich"
+    ],
+    "sandwich spread": [
+        "sandwich",
+        "spread"
+    ],
+    "sandwiches": [
+        "sandwiches"
+    ],
+    "sardines": [
+        "sardines"
+    ],
+    "sauce": [
+        "sauce"
+    ],
+    "sauces": [
+        "sauces"
+    ],
+    "sauerkraut meal": [
+        "meal",
+        "sauerkraut"
+    ],
+    "sausage products": [
+        "sausage",
+        "products"
+    ],
+    "sausage": [
+        "sausage"
+    ],
+    "scallops": [
+        "scallop"
+    ],
+    "scones": [
+        "scones"
+    ],
+    "seafood cocktail": [
+        "seafood"
+    ],
+    "seafood products": [
+        "seafood",
+        "products"
+    ],
+    "seafood": [
+        "seafood"
+    ],
+    "seasoned chicken": [
+        "chicken",
+        "seasoned"
+    ],
+    "seasoning mix": [
+        "mix"
+    ],
+    "seasoning sauce": [],
+    "seasonings": [
+        "seasonings"
+    ],
+    "seaweed preparations": [
+        "preparations",
+        "seaweed"
+    ],
+    "seed mixe": [
+        "seed"
+    ],
+    "seeds mix": [
+        "mix",
+        "seeds"
+    ],
+    "seeds mixture": [
+        "seeds",
+        "mixture"
+    ],
+    "semi-hard cheeses": [
+        "cheese",
+        "cheeses"
+    ],
+    "semi-soft cheese": [],
+    "semolina and products therefor": [
+        "semolina",
+        "products"
+    ],
+    "sesame confection": [
+        "confection",
+        "sesame"
+    ],
+    "sesame oil": [
+        "oil",
+        "sesame oil"
+    ],
+    "sesame paste": [
+        "sesame paste"
+    ],
+    "sesame seed oil": [
+        "oil",
+        "seed",
+        "sesame"
+    ],
+    "sesame seeds": [
+        "seeds",
+        "sesame"
+    ],
+    "sesame": [
+        "sesame"
+    ],
+    "shark": [
+        "shark"
+    ],
+    "sheep cheese": [
+        "sheep",
+        "cheese"
+    ],
+    "sheep milk cheese": [
+        "cheese",
+        "sheep",
+        "milk"
+    ],
+    "shrimp snacks": [
+        "shrimp",
+        "snacks"
+    ],
+    "shrimps": [
+        "shrimps"
+    ],
+    "sichuan pepper": [
+        "sichuan pepper"
+    ],
+    "sliced bread": [
+        "slice",
+        "bread"
+    ],
+    "sliced ham": [
+        "sliced",
+        "ham"
+    ],
+    "smoked sausage": [
+        "smoked",
+        "sausage"
+    ],
+    "smoothie": [
+        "smoothie"
+    ],
+    "snack crackers": [
+        "crackers",
+        "snack"
+    ],
+    "snack mix": [
+        "snack",
+        "mix"
+    ],
+    "snack mixture": [
+        "mixture",
+        "snack"
+    ],
+    "snacks (various)": [
+        "snacks",
+        "various"
+    ],
+    "soda drink": [
+        "soda",
+        "drink"
+    ],
+    "soft cheese (creams)": [
+        "soft cheese"
+    ],
+    "soft cheese": [
+        "cheese"
+    ],
+    "soft drinks": [
+        "soft drinks",
+        "drinks"
+    ],
+    "soft ripened cheese": [
+        "cheese",
+        "soft",
+        "ripened"
+    ],
+    "sorbets": [
+        "sorbet",
+        "sorbets"
+    ],
+    "soup": [
+        "soup"
+    ],
+    "soups, broths, sauces and condiments": [
+        "condiments",
+        "sauces",
+        "broths",
+        "soups"
+    ],
+    "soups": [
+        "soups"
+    ],
+    "soy bean paste": [
+        "soy",
+        "bean",
+        "paste"
+    ],
+    "soy milk product": [
+        "milk",
+        "product",
+        "soy"
+    ],
+    "soy products": [
+        "soy products",
+        "soy"
+    ],
+    "soy sauce": [
+        "soy sauce",
+        "sauce"
+    ],
+    "soy yoghurt": [
+        "soy",
+        "yoghurt"
+    ],
+    "soya and products therefor": [
+        "soya",
+        "products"
+    ],
+    "soya drink": [
+        "soya",
+        "drink"
+    ],
+    "soya product": [
+        "soya",
+        "product"
+    ],
+    "soybean": [
+        "soybean"
+    ],
+    "spaghetti sauce": [
+        "spaghetti",
+        "sauce"
+    ],
+    "sparkling beverages": [
+        "beverages",
+        "sparkling"
+    ],
+    "spice marinade": [
+        "spice",
+        "marinade"
+    ],
+    "spice mix": [
+        "spice",
+        "mix"
+    ],
+    "spice mixture": [
+        "spice",
+        "mixture"
+    ],
+    "spices": [
+        "spices"
+    ],
+    "spicy chicken skewers": [
+        "spicy",
+        "chicken",
+        "skewers"
+    ],
+    "spicy sauce": [
+        "sauce",
+        "spicy"
+    ],
+    "spicy tofu": [
+        "spicy",
+        "tofu"
+    ],
+    "spicy tomato sauce": [
+        "tomato",
+        "sauce"
+    ],
+    "spinach leaves": [
+        "spinach",
+        "leaves"
+    ],
+    "spinach": [
+        "spinach"
+    ],
+    "spirits": [
+        "spirits"
+    ],
+    "sport drink": [
+        "sport",
+        "drink"
+    ],
+    "spread": [
+        "spread"
+    ],
+    "spreads": [
+        "spread"
+    ],
+    "spring rolls": [
+        "spring",
+        "roll",
+        "rolls"
+    ],
+    "spring water": [
+        "spring",
+        "water"
+    ],
+    "sprinkle mix": [
+        "mix",
+        "sprinkle"
+    ],
+    "sprouts": [
+        "sprouts"
+    ],
+    "squid": [
+        "squid"
+    ],
+    "squids": [
+        "squid",
+        "squids"
+    ],
+    "starch": [
+        "starch"
+    ],
+    "structured/textured fish meat products or fish paste": [
+        "fish",
+        "meat",
+        "products"
+    ],
+    "stuffed pastry": [
+        "pastry",
+        "stuffed"
+    ],
+    "sugar confectionary": [
+        "sugar",
+        "confectionary"
+    ],
+    "sugar": [
+        "sugar"
+    ],
+    "sultanas": [
+        "sultanas"
+    ],
+    "sunflower oil": [
+        "sunflower oil",
+        "sunflower",
+        "oil"
+    ],
+    "sunflower seed": [
+        "sunflower",
+        "seed"
+    ],
+    "sushi": [
+        "sushi"
+    ],
+    "sweet nut snack": [
+        "nut",
+        "sweet"
+    ],
+    "sweeteners": [
+        "sweeteners"
+    ],
+    "sweets": [
+        "sweet",
+        "sweets"
+    ],
+    "swiss rolls": [
+        "swiss rolls",
+        "swiss roll",
+        "roll",
+        "rolls"
+    ],
+    "syrup": [
+        "syrup"
+    ],
+    "table water and soda water": [
+        "table water",
+        "soda water"
+    ],
+    "table water": [
+        "table",
+        "water"
+    ],
+    "taco sauce": [
+        "taco",
+        "sauce"
+    ],
+    "tahini (sesame paste)": [
+        "tahini",
+        "sesame paste",
+        "sesame"
+    ],
+    "tahini": [
+        "tahini"
+    ],
+    "tallegio (cheese)": [
+        "cheese"
+    ],
+    "tapioca chips": [
+        "tapioca",
+        "chips"
+    ],
+    "tarragon": [
+        "tarragon"
+    ],
+    "tasty trio condiment selection": [
+        "trio",
+        "condiment",
+        "selection"
+    ],
+    "tea bags": [
+        "tea",
+        "bag"
+    ],
+    "tea drink": [
+        "tea",
+        "drink"
+    ],
+    "tea": [
+        "tea"
+    ],
+    "testosterone booster": [
+        "testosterone",
+        "booster"
+    ],
+    "thermal processed beef meat": [
+        "thermal",
+        "processed",
+        "beef"
+    ],
+    "thermal processed pork meat": [
+        "thermal",
+        "processed",
+        "pork meat"
+    ],
+    "thyme": [
+        "thyme"
+    ],
+    "tiger nuts": [
+        "tiger",
+        "nuts"
+    ],
+    "tilapia": [
+        "tilapia"
+    ],
+    "toffee": [
+        "toffee"
+    ],
+    "tofu": [
+        "tofu"
+    ],
+    "tomato sauce": [
+        "tomato",
+        "sauce"
+    ],
+    "tomatoes": [
+        "tomato",
+        "tomatoes"
+    ],
+    "tortilla chips cheese": [
+        "cheese",
+        "tortilla chips"
+    ],
+    "tortilla chips": [
+        "tortilla",
+        "chips",
+        "tortilla chip"
+    ],
+    "tortilla products": [
+        "tortilla",
+        "products"
+    ],
+    "tortilla": [
+        "tortilla"
+    ],
+    "trouts": [
+        "trouts",
+        "trout"
+    ],
+    "tuna salad": [
+        "tuna",
+        "salad"
+    ],
+    "tuna": [
+        "tuna"
+    ],
+    "turbot flatfish (psetta maxima)": [
+        "turbot",
+        "flatfish",
+        "psetta maxima"
+    ],
+    "turkey and turkey preparations": [
+        "preparation",
+        "preparations",
+        "turkey"
+    ],
+    "turkey based products": [
+        "turkey",
+        "based",
+        "products"
+    ],
+    "turkey sandwich": [
+        "sandwich",
+        "turkey"
+    ],
+    "turkey": [
+        "turkey"
+    ],
+    "turnip leaves in sunflower seed oil": [
+        "turnip",
+        "leaves",
+        "sunflower seed oil"
+    ],
+    "turnips": [
+        "turnip",
+        "turnips"
+    ],
+    "tzatziki sauce": [
+        "tzatziki"
+    ],
+    "unpasteurised cheese": [
+        "cheese"
+    ],
+    "unsalted organic crunchy peanut butter": [
+        "peanut",
+        "butter",
+        "crunchy"
+    ],
+    "vacuum packed beef": [
+        "beef",
+        "packed",
+        "vacuum"
+    ],
+    "vacuum packed marinated pork": [
+        "marinated",
+        "pork"
+    ],
+    "vacuum packed pork ear roll": [
+        "pork",
+        "vacuum",
+        "packed",
+        "ear"
+    ],
+    "vacuum packed sliced ham": [
+        "ham",
+        "sliced",
+        "vacuum",
+        "pack"
+    ],
+    "vanilla drink": [
+        "vanilla",
+        "drink"
+    ],
+    "vanilla powder": [
+        "vanilla",
+        "powder"
+    ],
+    "various bakery products": [
+        "bakery",
+        "products"
+    ],
+    "various beef products": [
+        "product",
+        "beef products",
+        "various"
+    ],
+    "various cheeses": [
+        "cheese",
+        "cheeses"
+    ],
+    "various chicken meat products": [
+        "chicken",
+        "meat",
+        "products"
+    ],
+    "various chilled or frozen pork products": [
+        "product",
+        "pork",
+        "frozen"
+    ],
+    "various fish products": [
+        "fish",
+        "products"
+    ],
+    "various meat products": [
+        "meat",
+        "products"
+    ],
+    "various pasta products": [
+        "various",
+        "pasta",
+        "products"
+    ],
+    "various poultry meat": [
+        "various",
+        "poultry",
+        "meat"
+    ],
+    "various prepared dishes": [
+        "various",
+        "dishes"
+    ],
+    "various ready-to-eat meat products": [
+        "various",
+        "meat",
+        "products"
+    ],
+    "various snacks": [
+        "snacks",
+        "snack"
+    ],
+    "various vegetable preparations": [
+        "various",
+        "vegetable",
+        "preparations"
+    ],
+    "varnishes and coatings": [
+        "varnishes",
+        "coatings"
+    ],
+    "veal meat and offals": [
+        "veal",
+        "meat",
+        "offal"
+    ],
+    "veal meat": [
+        "veal",
+        "meat"
+    ],
+    "veal": [
+        "veal"
+    ],
+    "vegan sausages": [
+        "sausages",
+        "vegan"
+    ],
+    "vegetable based products": [
+        "vegetable",
+        "based",
+        "products"
+    ],
+    "vegetable broth": [
+        "vegetable",
+        "broth"
+    ],
+    "vegetable burger": [
+        "burger",
+        "vegetable"
+    ],
+    "vegetable cheese": [
+        "cheese"
+    ],
+    "vegetable crispbakes": [],
+    "vegetable mix": [
+        "mix",
+        "vegetable"
+    ],
+    "vegetable preparation": [
+        "preparation",
+        "vegetable"
+    ],
+    "vegetable ready to eat meals": [
+        "vegetable",
+        "meals",
+        "ready",
+        "eat"
+    ],
+    "vegetable samosas": [],
+    "vegetable snack": [
+        "snack",
+        "vegetable"
+    ],
+    "vegetables": [
+        "vegetables"
+    ],
+    "vinegar": [
+        "vinegar"
+    ],
+    "vitamins supplement": [
+        "vitamin",
+        "supplement"
+    ],
+    "vitamins": [
+        "vitamin",
+        "vitamins"
+    ],
+    "vodka": [
+        "vodka"
+    ],
+    "wafers": [
+        "wafer",
+        "wafers"
+    ],
+    "waffles": [
+        "waffle",
+        "waffles"
+    ],
+    "walnuts": [
+        "walnuts",
+        "walnut"
+    ],
+    "water for human consumption": [
+        "water",
+        "human",
+        "consumption"
+    ],
+    "water for infants": [
+        "infants",
+        "water"
+    ],
+    "watermelons": [
+        "watermelon",
+        "watermelons"
+    ],
+    "weight loss coffee": [
+        "coffee"
+    ],
+    "wheat snack": [
+        "wheat",
+        "snack"
+    ],
+    "wheat": [
+        "wheat"
+    ],
+    "whey protein": [
+        "protein",
+        "whey"
+    ],
+    "whisky": [
+        "whisky"
+    ],
+    "white beans": [
+        "beans",
+        "white"
+    ],
+    "white bread flour": [
+        "bread",
+        "flour"
+    ],
+    "white cheese": [
+        "cheese",
+        "white cheese"
+    ],
+    "white chocolate": [
+        "chocolate",
+        "white chocolate"
+    ],
+    "white lasagna sauce": [
+        "lasagna",
+        "white"
+    ],
+    "white mould cheese": [
+        "cheese",
+        "mould"
+    ],
+    "white mustard seeds": [
+        "white",
+        "mustard",
+        "seeds"
+    ],
+    "whole chicken": [
+        "chicken"
+    ],
+    "wine": [
+        "wine"
+    ],
+    "yellow peas": [
+        "peas",
+        "yellow"
+    ],
+    "yoghurt": [
+        "yoghurt"
+    ],
+    "yogurt raisins": [
+        "raisin",
+        "yogurt"
+    ]
+}
