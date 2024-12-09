@@ -12,12 +12,12 @@ The data analysis file sifts through the data and gathers all the product and ha
 
 ### Root
 This folder is where intermediate files for our pipeline are stored.
-#### cocoex
+#### CoCo-Ex
 This folder contains tsv files for all of the following (obtained by processing titles/labels through CoCo-Ex): [input titles](https://github.com/karthiksairam01/SemEval-Task9/blob/main/root/cocoex/outputfile_all.tsv) [products](https://github.com/karthiksairam01/SemEval-Task9/blob/main/root/cocoex/products.tsv), [hazards](https://github.com/karthiksairam01/SemEval-Task9/blob/main/root/cocoex/hazards.tsv), [product categories](https://github.com/karthiksairam01/SemEval-Task9/blob/main/root/cocoex/product_categories.tsv), [hazard categories](https://github.com/karthiksairam01/SemEval-Task9/blob/main/root/cocoex/hazard_categories.tsv). These files are fed into LLaMA in the pipeline.
-#### data
+#### Data
 This folder contains all the extracted keywords that Llama generated for each of file output by COCO-Ex (json file): [input titles](https://github.com/karthiksairam01/SemEval-Task9/blob/main/root/data/extracted_keywords_incidents_train.json), [products](https://github.com/karthiksairam01/SemEval-Task9/blob/main/root/data/extracted_keywords_products.json), [hazards](https://github.com/karthiksairam01/SemEval-Task9/blob/main/root/data/extracted_keywords_hazards.json), [product categories](https://github.com/karthiksairam01/SemEval-Task9/blob/main/root/data/extracted_keywords_product_category.json), [hazard categories](https://github.com/karthiksairam01/SemEval-Task9/blob/main/root/data/extracted_keywords_hazard_category.json).
-#### notebooks
-This folder contains three notebooks : LLAMA_Keyword_Extraction.ipynb,conceptnet_lite.ipynb, NLP__Final_Pipeline.ipynb, 
+#### Notebooks
+This folder contains three notebooks : [LLAMA_Keyword_Extraction.ipynb](https://github.com/karthiksairam01/SemEval-Task9/blob/main/root/notebooks/LLAMA_Keyword_Extraction.ipynb), [conceptnet_lite.ipynb](https://github.com/karthiksairam01/SemEval-Task9/blob/main/root/notebooks/conceptnet_lite.ipynb) , [NLP__Final_Pipeline.ipynb](https://github.com/karthiksairam01/SemEval-Task9/blob/main/root/notebooks/NLP__Final_Pipeline.ipynb). 
 LLAMA_Keyword_Extraction is the code we use to extract the relevent keywords from the titles. \
 conceptnet_lite is where we built our own sub-ConceptNet with limited relations and only the english language.
 NLP__Final_Pipeline is the code we use to tie everything together and generate our results
