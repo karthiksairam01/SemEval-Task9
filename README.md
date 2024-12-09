@@ -13,7 +13,7 @@ The data analysis file sifts through the data and gathers all the product and ha
 ### Root
 This folder is where our pipeline is stored
 #### cocoex
-This folder contains tsv files for all the following labels : products, hazards, product categories, hazard categories, and a file containing all the labels. These nodes were generated using cocoex, and are the inputs to the Llama model for filtering
+This folder contains tsv files for all the following labels : [products](https://github.com/karthiksairam01/SemEval-Task9/blob/main/root/cocoex/products.tsv), [hazards](https://github.com/karthiksairam01/SemEval-Task9/blob/main/root/cocoex/hazards.tsv), [product categories](https://github.com/karthiksairam01/SemEval-Task9/blob/main/root/cocoex/product_categories.tsv), [hazard categories](https://github.com/karthiksairam01/SemEval-Task9/blob/main/root/cocoex/hazard_categories.tsv), and a file containing all the labels for each processed title/label. These nodes were generated using cocoex, and are the inputs to the Llama model for filtering
 #### data
 This folder contains all the extracted keywords that Llama generated for each of keywords (json file). It also contains a csv of all of the food recall titles. 
 #### notebooks
