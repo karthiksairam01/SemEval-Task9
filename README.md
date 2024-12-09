@@ -6,7 +6,7 @@ This is our neuro-symbolic approach for solving SemEval 2025's Task 9 : Food Haz
 Below is an overview of our repository 
 
 ### Datasets
-The datasets folder contains a csv of the manually labeled English food recall titles. There are two different files, however we mainly work with incidents_train.csv. The other file is a sample of the data
+The datasets folder contains a csv of the manually labeled English food recall titles. There are two different files, however we mainly work with [incidents_train.csv](https://github.com/karthiksairam01/SemEval-Task9/blob/main/Dataset/incidents_train.csv). The other file is a sample of the data
 
 ### Data Analysis
 The data analysis file sifts through the data and gathers all the product and hazard categories and filters duplicates. 
